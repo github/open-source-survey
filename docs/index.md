@@ -10,7 +10,7 @@ Sign up [here](http://example.com) to let us know you want to take part.
 
 ## Why are we doing this
 
-Like many of you, we ❤️ Open Source and we want to make it even better. This survey is an opportunity for you, the open source community, to tell us a little more about yourselves, the things you care about, and what's good (and bad) about open source.
+Like you, we ❤️ Open Source and we want to make it even better. This survey is an opportunity for you, the open source community, to tell us a little more about yourselves, the things you care about, and what's good (and bad) about open source.
 
 ## Open data
 
