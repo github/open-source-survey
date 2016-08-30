@@ -37,3 +37,11 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+// Mailchimp form
+
+#mc_embed_signup {
+  background:#fff;
+  clear:left;
+  font:14px Helvetica,Arial,sans-serif;
+}
