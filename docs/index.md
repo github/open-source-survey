@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This November, we plan to run the biggest survey of the Free and Open Source Software community to date, the results of which will be an open dataset for the community to use and learn from.
+This November, we plan to run the biggest survey of the Open Source Software community to date, the results of which will be an open dataset for the community to use and learn from.
 
 ## _We need your help_
 
@@ -35,7 +35,7 @@ Like you, we ❤️ Open Source and we want to make it even better. This survey 
 
 ## Open data
 
-We think it's important that all communities get to learn from the results of this survey, that's why the results of this survey will be a public dataset for the community to use. Lean more about the survey design in the [GitHub repository here](https://github.com/github/foss-survey).
+We think it's important that all communities get to learn from the results of this survey, that's why the results of this survey will be a public dataset for the community to use. Lean more about the survey design in the [GitHub repository here](https://github.com/github/the-open-source-survey).
 
 ## Partners
 
