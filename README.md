@@ -24,10 +24,9 @@ This survey is designed and implemented by GitHub
 
 This isn't a solo effort for us, these awesome organizations have helped us design this survey:
 
-- CMU
-- NCSU
-- Mozilla
-- OSI
+![github](https://cloud.githubusercontent.com/assets/4483/18370177/ff07933c-75df-11e6-8859-46644514f642.png)
+![osi](https://cloud.githubusercontent.com/assets/4483/18370178/ff0baf26-75df-11e6-9fa8-3d5be5acccf8.png)
+![cmu](https://cloud.githubusercontent.com/assets/4483/18370176/ff02c3ac-75df-11e6-9982-440ace6c507d.png)
 
 ## Licenses
 
