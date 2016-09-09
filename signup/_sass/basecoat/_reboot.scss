@@ -141,12 +141,12 @@ dl {
   padding-left: 0;
 
   @include breakpoint(md) {
-    margin-left: 0;
+    //margin-left: 0;
   }
 }
 
 li {
-  margin-bottom: 1rem;
+//  margin-bottom: 1rem;
 }
 
 ol ol,

@@ -14,6 +14,9 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-octicons (2.1.0)
+      jekyll (~> 3.1)
+      octicons (~> 2.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -24,9 +27,16 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    mini_portile2 (2.1.0)
     minima (1.1.0)
+    nokogiri (1.6.8)
+      mini_portile2 (~> 2.1.0)
+      pkg-config (~> 1.1.7)
+    octicons (2.1.0)
+      nokogiri (>= 1.6.3.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
+    pkg-config (1.1.7)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
@@ -39,6 +49,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.2.1)
+  jekyll-octicons
   minima
 
 RUBY VERSION

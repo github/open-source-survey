@@ -28,5 +28,4 @@ github_username:  github
 markdown: kramdown
 
 gems:
-  - jekyll-mentions
   - jekyll-octicons
