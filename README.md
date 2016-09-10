@@ -24,10 +24,9 @@ This survey is designed and implemented by GitHub
 
 This isn't a solo effort for us, these awesome organizations have helped us design this survey:
 
-- CMU
-- NCSU
-- Mozilla
-- OSI
+- [Carnegie Mellon University](http://www.cmu.edu/)
+- [Open Source Initiative](https://opensource.org/)
+- ...
 
 ## Licenses
 
