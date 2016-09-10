@@ -6,7 +6,7 @@ This November, we plan to run the biggest survey of the Open Source Software com
 
 ## Why is GitHub doing this?
 
-At GitHub our goal is to help everyone build better software. We believe open source code, communities, and principles create better software. As an industry, we know a lot about how open source software is created and very little about the people that create it. Are they gainfully employed? What's their experience? _[list other questions]_?
+At GitHub our goal is to help everyone build better software. We believe open source code, communities, and principles create better software. As an industry, we know a lot about how open source software is created and very little about the people that create it. Are they professional developers, students, or hobbyists?
 
 To build better software, then we need a software community where anyone, regardless of what they look like or where they come from, can participate. This survey will help us see how we–as a community–are doing.
 
