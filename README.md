@@ -2,8 +2,12 @@
 
 [design]: TODO: link to design process
 [topics]: survey-topics.md
+[survey-url]: http://opensourcesurvey.org
+[issues-url]: https://github.com/github/the-open-source-survey/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 
 This November, we plan to run the biggest survey of the Open Source Software community to date, the results of which will be an open dataset for the community to use and learn from. We hope to answer some of the most pressing questions about open source software, the people that create it, their experience, and their relationship to the industry that depends on it.
+
+Learn more about the [survey design][design] and the [topics we're studying](topics).
 
 ## Why is GitHub doing this?
 
@@ -11,9 +15,18 @@ At GitHub our goal is to help everyone build better software. We believe open so
 
 To build better software, then we need a software community where anyone, regardless of what they look like or where they come from, can participate. This survey will help us see how we, as a community, are doing.
 
+## How you can help
+
+Right now we're looking for your help in two main areas:
+
+0. If you're a researcher who's studied topics similar to the ones [we're interested in](topics), we'd love to hear from you about any existing survey instruments that explore these topic areas. There's [an issue](issues-url) in this repository for each topic area - please let us know about existing work there.
+0. If you're active in an open source community that doesn't use GitHub as their primary platform for collaboration we'd love to hear from you. We want to reach _all_ open source communities with this survey and so if you think you might be able to help us reach our to your community email opensource@github.com.
+
+Finally, if you'd like to be notified of any updates about this project, please fill in your email address on the [survey website](survey-url).
+
 ## Open data
 
-Open source is bigger than any company or community. The result of this survey will be an open data set for anyone to use and learn from. Learn more about the [survey design][design] and the [topics we're studying](topics).
+Open source is bigger than any company or community. The result of this survey will be an open data set for anyone to use and learn from.
 
 ## Contributors
 
