@@ -17,7 +17,7 @@ To build better software, then we need a software community where anyone, regard
 
 ## How you can help
 
-Right now we're looking for your help in two main areas:
+We're still putting the finishing touches on the survey instrument and so aren't quite ready to start collecting survey responses. Right now we're looking for your help in two main areas:
 
 0. If you're a researcher who's studied topics similar to the ones [we're interested in](topics), we'd love to hear from you about any existing survey instruments that explore these topic areas. There's [an issue](issues-url) in this repository for each topic area - please let us know about existing work there.
 0. If you're active in an open source community that doesn't use GitHub as their primary platform for collaboration we'd love to hear from you. We want to reach _all_ open source communities with this survey and so if you think you might be able to help us reach our to your community email opensource@github.com.
