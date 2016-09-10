@@ -1,6 +1,7 @@
 # The Open Source Survey
 
 [design]: TODO: link to design process
+[topics]: survey-topics.md
 
 This November, we plan to run the biggest survey of the Open Source Software community to date, the results of which will be an open dataset for the community to use and learn from. We hope to answer some of the most pressing questions about open source software, the people that create it, their experience, and their relationship to the industry that depends on it.
 
@@ -8,15 +9,15 @@ This November, we plan to run the biggest survey of the Open Source Software com
 
 At GitHub our goal is to help everyone build better software. We believe open source code, communities, and principles create better software. As an industry, we know a lot about how open source software is created but very little about the people who create and use it. Are they professional developers, students, or hobbyists?
 
-To build better software, then we need a software community where anyone, regardless of what they look like or where they come from, can participate. This survey will help us see how we–as a community–are doing.
+To build better software, then we need a software community where anyone, regardless of what they look like or where they come from, can participate. This survey will help us see how we, as a community, are doing.
 
 ## Open data
 
-Open source is bigger than any company or community. The result of this survey will be an open data set for anyone to use and learn from. [Lean more about the survey design][design].
+Open source is bigger than any company or community. The result of this survey will be an open data set for anyone to use and learn from. Learn more about the [survey design][design] and the [topics we're studying](topics).
 
 ## Contributors
 
-This survey is designed and implemented by GitHub
+This survey is primarily designed and implemented by GitHub:
 
 - @franniez - TODO: creds
 - @arfon - TODO: creds
