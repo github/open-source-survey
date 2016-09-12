@@ -1,13 +1,10 @@
 # The Open Source Survey
 
 [design]: TODO: link to design process
-[topics]: survey-topics.md
-[survey-url]: http://opensourcesurvey.org
-[issues-url]: https://github.com/github/the-open-source-survey/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 
 This November, we plan to run the biggest survey of the Open Source Software community to date, the results of which will be an open dataset for the community to use and learn from. We hope to answer some of the most pressing questions about open source software, the people that create it, their experience, and their relationship to the industry that depends on it.
 
-Learn more about the [survey design][design] and the [topics we're studying][topics].
+Learn more about the [survey design][design] and the [topics we're studying](https://github.com/github/the-open-source-survey/blob/master/survey-topics.md).
 
 ## Why is GitHub doing this?
 
@@ -19,10 +16,10 @@ To build better software, then we need a software community where anyone, regard
 
 We're still putting the finishing touches on the survey instrument and so aren't quite ready to start collecting survey responses. Right now we're looking for your help in two main areas:
 
-0. If you're a researcher who's studied topics similar to the ones [we're interested in][topics], we'd love to hear from you about any existing survey instruments that explore these topic areas. There's [an issue][issues-url] in this repository for each topic area - please let us know about existing work there.
+0. If you're a researcher who's studied topics similar to the ones [we're interested in](https://github.com/github/the-open-source-survey/blob/master/survey-topics.md), we'd love to hear from you about any existing survey instruments that explore these topic areas. There's [an issue](https://github.com/github/the-open-source-survey/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) in this repository for each topic area - please let us know about existing work there.
 0. If you're active in an open source community that doesn't use GitHub as their primary platform for collaboration we'd love to hear from you. We want to reach _all_ open source communities with this survey and so if you think you might be able to help us reach our to your community email opensource@github.com.
 
-Finally, if you'd like to be notified of any updates about this project, please fill in your email address on the [survey website][survey-url].
+Finally, if you'd like to be notified of any updates about this project, please fill in your email address on the [survey website](http://opensourcesurvey.org).
 
 ## Open data
 
