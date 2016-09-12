@@ -12,15 +12,6 @@ At GitHub our goal is to help everyone build better software. We believe open so
 
 To build better software, then we need a software community where anyone, regardless of what they look like or where they come from, can participate. This survey will help us see how we, as a community, are doing.
 
-## How you can help
-
-We're still putting the finishing touches on the survey instrument and so aren't quite ready to start collecting survey responses. Right now we're looking for your help in two main areas:
-
-0. If you're a researcher who's studied topics similar to the ones [we're interested in](https://github.com/github/the-open-source-survey/blob/master/survey-topics.md), we'd love to hear from you about any existing survey instruments that explore these topic areas. There's [an issue](https://github.com/github/the-open-source-survey/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) in this repository for each topic area - please let us know about existing work there.
-0. If you're active in an open source community that doesn't use GitHub as their primary platform for collaboration we'd love to hear from you. We want to reach _all_ open source communities with this survey and so if you think you might be able to help us reach our to your community email opensource@github.com.
-
-Finally, if you'd like to be notified of any updates about this project, please fill in your email address on the [survey website](http://opensourcesurvey.org).
-
 ## Open data
 
 Open source is bigger than any company or community. The result of this survey will be an open data set for anyone to use and learn from.
@@ -38,6 +29,8 @@ This isn't a solo effort for us, these awesome organizations have helped us desi
 - [Carnegie Mellon University](http://www.cmu.edu/)
 - [Open Source Initiative](https://opensource.org/)
 - ...
+
+Check out the [contributing guidelines](./CONTRIBUTING.md) if you want to get involved.
 
 ## Licenses
 
