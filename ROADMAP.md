@@ -17,6 +17,6 @@ November 2016
 
 - [ ] Run the survey
 
-January 2016
+January 2017
 
 - [ ] Release data and an analysis of the results
