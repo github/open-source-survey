@@ -1,11 +1,12 @@
 # Roadmap
 
 [feedback]: todo://link/to/feedback/milestone
+[topics]: ./survey-topics.md
 
 September 2016
 
 - [ ] announce the intent to run a survey
-- [ ] collect [feedback on survey topics][feedback] (closes October 5 at 5pm Pacific)
+- [ ] [collect feedback][feedback] on [survey topics][topics] (closes October 5 at 5pm Pacific)
 
 October 2016
 
