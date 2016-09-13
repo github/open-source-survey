@@ -1,6 +1,6 @@
 # Roadmap
 
-[feedback]: todo://link/to/feedback/milestone
+[feedback]: /milestone/1
 [topics]: ./survey-topics.md
 
 September 2016
