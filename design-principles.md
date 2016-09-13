@@ -28,7 +28,7 @@ Respondents will be sampled and invited to participate in the survey randomly. F
 
 ##### Internationalization
 
-We aim to field the survey in several languages, including but not limited to: English, Spanish, Mandarin, Japanese, and Russian. Other language communities exist in large numbers in open source, but generally have higher levels of English fluency among the developer population (e.g. Germany, India). Wherever possible, we have written the instrument with international audiences in mind and avoided U.S. or North American -centric concepts or terminology.
+Wherever possible, we have written the survey instrument with global audiences in mind and avoided Northern American -centric concepts or terminology. We aim to field the survey in several languages, including but not limited to: English, Spanish, Chinese, Japanese, and Russian. Because of the sensitivity of surveys to word choice, instead of relying only on crowdsourcing, we plan to use professional survey translators to translate the instrument, and request community review of their work. We will evaluate additional languages based on availability of translators and populations of open source contributors and users to whom an English version would be inaccessible.
 
 ##### Time and Respondent Experience
 
