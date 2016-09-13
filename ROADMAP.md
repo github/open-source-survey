@@ -1,6 +1,6 @@
 # Roadmap
 
-[feedback]: /milestone/1
+[feedback]: https://github.com/github/the-open-source-survey/milestone/1
 [topics]: ./survey-topics.md
 
 September 2016
