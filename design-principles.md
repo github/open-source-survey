@@ -24,7 +24,7 @@ Respondents will be sampled and invited to participate in the survey randomly. F
 
 ##### Internationalization
 
-We aim to field the survey in several languages, including but not limited to: English, Spanish, Mandarin, Japanese, and Russian. Large developer populations exist among other nationalities, but generally have higher levels of English fluency among the developer population (e.g. Germany, India). Wherever possible, we have written the instrument with international audiences in mind and avoided U.S. or North American -centric concepts or terminology.
+We aim to field the survey in several languages, including but not limited to: English, Spanish, Mandarin, Japanese, and Russian. Other language communities exist in large numbers in open source, but generally have higher levels of English fluency among the developer population (e.g. Germany, India). Wherever possible, we have written the instrument with international audiences in mind and avoided U.S. or North American -centric concepts or terminology.
 
 ##### Time and Respondent Experience
 
