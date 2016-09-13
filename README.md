@@ -24,11 +24,10 @@ This survey is primarily designed and implemented by GitHub:
 - [@arfon](https://github.com/arfon) - Program Manager for Open Source Data at GitHub. A lapsed academic with a passion for new models of scientific collaboration, he's used big telescopes to [study dust in space](http://www.arfon.org/thesis), built sequencing pipelines in [Cambridge](http://www.sanger.ac.uk/) and have engaged millions of people in online citizen science by co-founding the [Zooniverse](http://zooniverse.org).
 - [@mlinksva](https://github.com/mlinksva) - Open Source Maven at GitHub. A lapsed engineer and non-lawyer with a passion for increasing the efficacy and scope of open production and policy, he is an advisor/director/volunteer for various open initiatives and was previously a manager and technologist at Creative Commons.
 
-This isn't a solo effort for us, these awesome organizations have helped us design this survey:
+This isn't a solo effort for us, these awesome individuals and organizations have helped us design this survey:
 
-- [Carnegie Mellon University](http://www.cmu.edu/)
+- Dr Anna Filippova - Postdoctoral researcher at Carnegie Mellon University, Institute for Software Research
 - [Open Source Initiative](https://opensource.org/)
-- ...
 
 Check out the [contributing guidelines](./CONTRIBUTING.md) if you want to get involved.
 
