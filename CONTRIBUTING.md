@@ -14,7 +14,7 @@ We've put together the following guidelines to help you figure out where you can
 
 We're still putting the finishing touches on the survey instrument and aren't quite ready to start collecting survey responses. [Sign up for updates](http://opensourcesurvey.org) if you'd like to be notified when the survey is available.
 
-Right now we're looking for your help in two main areas:
+Right now we're looking for your help in three main areas:
 
 0. If you're a researcher who's studied topics similar to the ones [we're interested in](./survey-topics.md), we'd love to hear from you about any existing survey instruments that explore these topic areas. There's [an issue](https://github.com/github/the-open-source-survey/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) in this repository for each topic area - please let us know about existing work there.
 
