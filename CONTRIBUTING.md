@@ -12,7 +12,7 @@ We've put together the following guidelines to help you figure out where you can
 
 ## Types of contributions we're looking for
 
-We're still putting the finishing touches on the survey instrument and aren't quite ready to start collecting survey responses. [Sign up for updates](http://opensourcesurvey.org) if you'd like to be notified when the survey is available.
+We're still putting the finishing touches on the survey instrument and aren't quite ready to start collecting survey responses. [Sign up here](http://opensourcesurvey.org) if you'd like to be notified of updates on our progress.
 
 Right now we're looking for your help in three main areas:
 
