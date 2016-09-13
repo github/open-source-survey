@@ -6,7 +6,7 @@
 September 2016
 
 - [ ] Announce the intent to run a survey
-- [ ] [Collect feedback][feedback] on [survey topics][topics] (closes October 5 at 5pm Pacific)
+- [ ] [Collect feedback][feedback] on [survey topics][topics] (closes October 12 at 5pm Pacific)
 
 October 2016
 
