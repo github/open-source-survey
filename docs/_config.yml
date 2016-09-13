@@ -26,8 +26,6 @@ github_username:  github
 
 # Build settings
 markdown: kramdown
-theme: minima
 
 gems:
-  - jekyll-mentions
   - jekyll-octicons
