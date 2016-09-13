@@ -18,7 +18,9 @@ Right now we're looking for your help in two main areas:
 
 0. If you're a researcher who's studied topics similar to the ones [we're interested in](./survey-topics.md), we'd love to hear from you about any existing survey instruments that explore these topic areas. There's [an issue](https://github.com/github/the-open-source-survey/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) in this repository for each topic area - please let us know about existing work there.
 
-0. If you're active in an open source community that doesn't use GitHub as their primary platform for collaboration we'd love to hear from you. We want to reach _all_ open source communities with this survey and so if you think you might be able to help us reach our to your community email opensource@github.com.
+0. If you're active in an open source community that doesn't use GitHub as their primary platform for collaboration we'd love to hear from you. We want to reach _all_ open source communities with this survey and so if you think you might be able to help us reach our to your community email opensource@github.com
+
+0. If you believe this survey should be investigating additional and/or alternative topics then feel free to suggest them in [the survey repository](https://github.com/github/the-open-source-survey/issues/new?title=I%27d%20like%20to%20suggest%20a%20survey%20topic). We can't promise that we'll include your suggestion in this iteration of the survey (or any future one) but if you can make a strong case for the inclusion of a new topic we'd love to hear your suggestions.
 
 ## Ground rules & expectations
 
