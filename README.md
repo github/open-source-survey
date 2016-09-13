@@ -29,7 +29,7 @@ Open source is bigger than any company or community. The result of this survey w
 
 This survey is primarily designed and implemented by GitHub:
 
-- [@franniez](https://github.com/franniez) - TODO: creds
+- [@franniez](https://github.com/franniez) -  Data and social scientist at GitHub. New to open source but not to studying people or movements, she's done extensive survey research in Washington D.C, from inside the ivory tower, and within the technology sector. 
 - [@arfon](https://github.com/arfon) - Program Manager for Open Source Data at GitHub. A lapsed academic with a passion for new models of scientific collaboration, he's used big telescopes to [study dust in space](http://www.arfon.org/thesis), built sequencing pipelines in [Cambridge](http://www.sanger.ac.uk/) and have engaged millions of people in online citizen science by co-founding the [Zooniverse](http://zooniverse.org).
 - [@mlinksva](https://github.com/mlinksva) - TODO: creds
 
