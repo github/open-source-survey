@@ -11,7 +11,7 @@ September 2016
 October 2016
 
 - [ ] Release a draft of the survey instrument
-- [ ] Document plans for administration of survey
+- [ ] Document plans for fielding survey
 
 November 2016
 
