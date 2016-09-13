@@ -13,6 +13,10 @@ Our primary deliverable for this project is a dataset on attitudes, backgrounds,
 
 Releasing the data publicly entails tradeoffs in order to maintain respondent privacy, principally in the form of the kinds of data we can collect and release. We aim not to collect any personally identifying information, such as GitHub username or email address. In the event that identifying information is provided, such as in open-text responses, we will remove it before releasing the data publicly. Some data, such as gender, is not directly identifying and has been widely requested, but when combined with other data, may make respondents identifiable. Though we hope and aim to release all of the data that we collect, we may withhold data if necessary to prevent identification of individuals.
 
+##### Led by GitHub, but not for GitHub
+
+The principal designers of this survey are employed by GitHub in various capacities relating to data and open source. However, this is not intended to be a product survey, and we aim to avoid adopting a privileged position in regards to the final dataset. Responsible data stewardship requires us to have some selective access (e.g. to clean and de-identify the data), but otherwise we do not intend to collect any data that is not made available to other users.
+
 ##### Comparability and Prior art
 
 Data on unique populations, such as the Open Source community, is most enlightening when viewed in contrast to the general population, or other related communities (e.g. professional developers). Even small differences in question wording can yield differences in responses, so in order to facilitate such comparisons, we aim to re-use items from studies of relevant populations where they exist and are appropriate. While we are aware of much of the existing work on developer communities specifically, the field of public opinion research is vast, and we welcome pointers towards prior work that can inform our design.
