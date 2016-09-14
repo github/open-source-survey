@@ -1,6 +1,6 @@
 # The Open Source Survey
 
-[design]: TODO: link to design process
+[design]: https://github.com/github/open-source-survey/blob/master/design-principles.md
 
 This November, we plan to run the biggest survey of the Open Source Software community to date, the results of which will be an open dataset for the community to use and learn from. We hope to answer some of the most pressing questions about open source software, the people that create it, their experience, and their relationship to the industry that depends on it.
 
