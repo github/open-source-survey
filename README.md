@@ -14,7 +14,7 @@ To build better software, then we need a software community where anyone, regard
 
 ## Open data
 
-Open source is bigger than any company or community. The result of this survey will be an open data set for anyone to use and learn from.
+Open source is bigger than any company or community. The result of this survey will be an open data set released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) for anyone to use and learn from.
 
 ## Contributors
 
@@ -31,12 +31,12 @@ This isn't a solo effort for us, these awesome individuals and organizations hav
 
 Check out the [contributing guidelines](./CONTRIBUTING.md) if you want to get involved.
 
-## Licenses
+## License
 
 Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which gives you permission to use content for almost any purpose but does not grant you any trademark permissions, so long as you note the license and give credit, such as follows:
 
-> Content based on github.com/github/the-open-source-survey used under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
+> Content based on [github.com/github/open-source-survey](https://github.com/github/open-source-survey) used under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
-This means you can use the code and content in this repository except for GitHub trademarks in your own projects.
+This means you can use the content in this repository except for GitHub trademarks in your own projects.
 
 When you contribute to this repository you are doing so under the above license.
