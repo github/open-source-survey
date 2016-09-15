@@ -1,4 +1,4 @@
-This is an overview of the survey topics we're planning to explore with the 2016 Open Source Survey. Please see the [how you can help section](https://github.com/github/the-open-source-survey#how-you-can-help) of the README for the ways in which you can help us improve this survey.
+This is an overview of the survey topics we're planning to explore with the 2016 Open Source Survey. Please see [contributing to this survey](./CONTRIBUTING.md) for the ways in which you can help us improve this survey.
 
 ## Transparency vs Privacy
 
