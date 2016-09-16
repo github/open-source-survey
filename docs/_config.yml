@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The Open Source Survey
 email: opensource@github.com
-description: This fall, we're running the largest survey of the open source community to date, the results of which will be an open dataset for us all to use and learn from.
+description: We're running the largest survey of the open source community to date, the results of which will be an open dataset for us all to use and learn from.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://opensourcesurvey.org" # the base hostname & protocol for your site
