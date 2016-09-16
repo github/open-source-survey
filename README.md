@@ -2,7 +2,7 @@
 
 [design]: https://github.com/github/open-source-survey/blob/master/design-principles.md
 
-Within the next few weeks or months, we plan to run the biggest survey of the Open Source Software community to date, the results of which will be an open dataset for the community to use and learn from. We hope to answer some of the most pressing questions about open source software, the people that create it, their experience, and their relationship to the industry that depends on it.
+Over the last months of 2016, we plan to run the biggest survey of the Open Source Software community to date, the results of which will be an open dataset for the community to use and learn from. We hope to answer some of the most pressing questions about open source software, the people that create it, their experience, and their relationship to the industry that depends on it.
 
 Learn more about the [survey design][design] and the [topics we're studying](https://github.com/github/open-source-survey/blob/master/survey-topics.md).
 
