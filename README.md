@@ -26,7 +26,7 @@ This survey is primarily designed and implemented by GitHub:
 
 This isn't a solo effort for us, these awesome individuals and organizations have helped us design this survey:
 
-- Dr Anna Filippova - Postdoctoral researcher at Carnegie Mellon University, Institute for Software Research
+- [@annafil](https://github.com/annafil) - Postdoctoral researcher at Carnegie Mellon University, Institute for Software Research
 - [Open Source Initiative](https://opensource.org/)
 
 Check out the [contributing guidelines](./CONTRIBUTING.md) if you want to get involved.
