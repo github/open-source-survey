@@ -1,12 +1,13 @@
 
-:wave: Hello! We're studying how people use and think about open source software. Whether you're a long-time maintainer, a new contributor, or an interested browser, we want to hear from you. This survey will take 10 to 15 minutes or less, and will be used to create a open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies.
 
-All questions are optional. The data collected here is anonymous and will not be linked to any other data sources. We aim **not** to collect any personally identifying information, and will remove any that is provided before publicly releasing the data.
+:wave: Hello! We're studying how people use and think about open source software. Whether you're a long-time maintainer, a new contributor, or an interested browser, we want to hear from you. This survey will take 15 minutes or less, and will be used to create a open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies.
+
+All questions are optional. The data collected here is anonymous and will not be linked to any other data sources. We aim not to collect any personally identifying information, and will remove any that is provided before publicly releasing the data. 
 
 We're inviting you to take part based on having visited an open source project on GitHub [or off-site sampling process].
 This survey is open to anyone who uses, contributes to, or thinks about open source software.
 
-For the purposes of this survey, **open source software (OSS) is software available in source code form under terms that allow anyone to use, modify, and/or distribute the software for any purpose, subject, at most, to conditions that preserve provenance and openness.**  We acknowledge there are distinct ideologies behind Free/Libré and Open Source Software; we use the general term "open source" here for simplicity rather than as indication of support for one community over another.
+For the purposes of this survey, **open source software is software available in source code form under terms that allow anyone to use, modify, and/or distribute the software for any purpose, subject, at most, to conditions that preserve provenance and openness.**  We acknowledge there are distinct ideologies behind Free/Libré and Open Source Software; we use the general term "open source" here for simplicity rather than as indication of support for one community over another.
 
 [Click here to take the survey](survey link goes here)
 
@@ -195,7 +196,7 @@ Q12
 **OSS-SECURITY**
 (single choice)
 
-Do you believe that open source software is genrally more secure than closed source (proprietary) software, less secure, or about the same?
+Do you believe that open source software is generally more secure than closed source (proprietary) software, less secure, or about the same?
 
  - _(1)_ Generally more secure
  - _(2)_ Generally less secure
@@ -213,7 +214,6 @@ Do you believe that open source software is generally more stable than closed so
  - _(1)_ Generally more stable
  - _(2)_ Generally less stable
  - _(3)_ About the same
-
 
 
 
@@ -278,6 +278,8 @@ In general, how much information about you is publicly available online?
 - _(4)_ No information at all about me.
 
 
+ 
+
 
 Q18
 **INFO-JOB**
@@ -289,6 +291,8 @@ Do you feel that you need to make information available about yourself online fo
 - _(1)_ Yes
 - _(2)_ No
 
+
+ 
 
 
 Q19
@@ -334,6 +338,7 @@ Which of the following best describes your practices when making open source con
 - _(2)_ I usually contribute using a consistent pseudonym that is easily linked to my real name online.
 - _(3)_ I usually contribute using a consistent pseudonym that is not linked anywhere with my real name online.
 - _(4)_ I take precautions to use different pesudonymns in different projects.
+
 
 
 
@@ -417,7 +422,6 @@ Thinking of the most recent case where you helped someone, how did you come to h
 - _(3)_ I reached out to them to offer unsolicited help.
 - _(4)_ Other (please describe)
  
-
 Q28
 **HELPEE-PRIOR-RELATIONSHIP**
 (single choice)
@@ -446,6 +450,8 @@ What kind of problem did you help them with?
 
 
 
+
+
 ## Harassment / Inclusiveness of OSS
 
 The next set of questions is about negative interpersonal experiences in the context of open source projects or communities.
@@ -463,7 +469,8 @@ _(1)_ Lack of response to contributions or questions     |
 _(2)_ Rejection of contributions without explanation     | 
 _(3)_ Dismissive responses to contributions or questions |
 _(4)_ Documentation that is incomplete or difficult to understand |
-_(5)_ Language or other content that made you feel unwelcome (e.g. profanity, racist jokes, sexual imagery, etc.) |
+_(5)_ Conflict or interpersonal tension between contributors |
+_(6)_ Language or other content that made you feel unwelcome (e.g. profanity, racist jokes, sexual imagery, etc.) |
 
 
 
@@ -486,10 +493,9 @@ _(7)_ Stalking  |  |  |
 _(8)_ Unsolicited sexual advances or comments  |  |  | 
 _(9)_ Stereotyping based on perceived demographic characteristics |  |  | 
 _(10)_ Malicious publication of personal information (doxxing) |  |  | 
+_(11)_ Other (please describe) |  |  | 
 
 
-
- [adapted from: Pew 2014 American Trends Panel, wave 4, ON5 + Wikimedia Foundation 2015 Harassment Survey]
 
 Q32
 **HARASSMENT-EXPERIENCE**
@@ -509,6 +515,8 @@ _(7)_ Stalking  |  |  |
 _(8)_ Unsolicited sexual advances or comments  |  |  |
 _(9)_ Stereotyping based on perceived demographic characteristics |  |  |
 _(10)_ Malicious publication of personal information (doxxing) |  |  |
+_(11)_ Other (please describe) |  |  | 
+
 
 
 
@@ -543,6 +551,7 @@ How effective were the following responses?
   | Not at all effective | A little effective  | Somewhat effective | Mostly effective | Completely effective
  -----------|-------|------|-------|--------|--------|
 _1 row per option selected in HARASSMENT-RESPONSE_ |||||
+
 
 
 
@@ -623,9 +632,9 @@ _if EMPLOYMENT-STATUS < 3, then:_
 
 Which is closest to your employer’s policy on using open source software applications?
 
-- _(1)_ Use of OSS is encouraged.
-- _(2)_ Use of OSS is acceptable if it is the most appropriate tool.
-- _(3)_ Use of OSS is rarely, if ever, permitted.
+- _(1)_ Use of open source applications is encouraged.
+- _(2)_ Use of open source applications is acceptable if it is the most appropriate tool.
+- _(3)_ Use of open source applications is rarely, if ever, permitted.
 - _(4)_ My employer doesn't have a clear policy on this.
 - _(5)_ I'm not sure.
 - _(5)_ Not applicable
@@ -639,9 +648,9 @@ _if EMPLOYMENT-STATUS < 3 and PROFESSIONAL-SOFTWARE < 4, then:_
 
 Which is closest to your employer’s policy on incorporating open source dependencies into your codebase?
 
-- _(1)_ Use of OSS dependencies is encouraged.
-- _(2)_ Use of OSS dependencies is acceptable if it is the most appropriate tool.
-- _(3)_ Use of OSS dependencies is rarely, if ever, permitted.
+- _(1)_ Use of open source dependencies is encouraged.
+- _(2)_ Use of open source dependencies is acceptable if it is the most appropriate tool.
+- _(3)_ Use of open source dependencies is rarely, if ever, permitted.
 - _(4)_ My employer doesn't have a clear policy on this.
 - _(5)_ I'm not sure.
 - _(6)_ Not Applicable
@@ -659,7 +668,7 @@ How important do you think your involvement in open source was to getting your c
 - _(2)_ Somewhat important
 - _(3)_ Not too important
 - _(4)_ Not at all important
-- _(5)_ N/A, I hadn't made any contributions when I got this job.
+- _(5)_ Not applicable, I hadn't made any contributions when I got this job.
 
 
 
@@ -716,10 +725,10 @@ What is your gender?
 - _(4)_ Prefer not to say
 
 Q46
-**SEXUAL-ORIENTATION**
+**TRANSGENDER-IDENTITY**
 (single choice)
 
-Do you identify as gay, lesbian, bisexual, or transgender?
+Do you identify as transgender?
 
 - _(1)_ Yes
 - _(2)_ No
@@ -727,7 +736,21 @@ Do you identify as gay, lesbian, bisexual, or transgender?
 - _(4)_ Prefer not to say
 
 
+
 Q47
+**SEXUAL-ORIENTATION**
+(single choice)
+
+Do you identify as gay, lesbian, or bisexual, asexual, or any other minority sexual orientation?
+
+- _(1)_ Yes
+- _(2)_ No
+- _(3)_ Not sure
+- _(4)_ Prefer not to say
+
+
+
+Q48
 **WRITTEN-ENGLISH**
 (single choice)
 
@@ -739,7 +762,8 @@ How well can you read and write in English?
 - _(4)_ Not at all
 
 
-Q48
+
+Q49
 **AGE**
 (dropdown menu)
 
@@ -754,7 +778,7 @@ Q48
  - _(9)_ Prefer not say
 
 
-Q49
+Q50
 **FORMAL-EDUCATION**
 (single choice)
 
@@ -770,7 +794,7 @@ What is highest level of formal education that you have completed?
 
 
 
-Q50
+Q51
 **PARENTS-FORMAL-EDUCATION**
 (single choice)
 
@@ -787,7 +811,7 @@ What is the highest level of formal education that either of your parents comple
 
 
 
-Q51
+Q52
 **AGE-AT-FIRST-COMPUTER-INTERNET**
 (single choice)
 
@@ -800,7 +824,7 @@ How old were you when you first had regular access to a computer with an interne
  - _(5)_ Older than 45 years old
 
 
-Q52
+Q53
 **LOCATION-OF-FIRST-COMPUTER-INTERNET**
  (single choice)
 
@@ -811,6 +835,21 @@ Q52
  - _(3)_ At a public library or community center
  - _(4)_ At an internet cafe or similar space
  - _(5)_ Other (please describe)
+
+
+
+Q54
+**PUBLIC-DATA-RELEASE-CONSENT**
+(single choice + textbox)
+
+As a reminder, the responses from this survey will be released as an open data set, available for anyone to analyze and study. Aside from responses, the only other information that will be released is a binary indicator of whether a respondent was sourced from GitHub.com traffic or an off-site open source communty. Response data will **not** be linked to any metadata such as IP address/geography, browser information, survey language, or identity on any project or site.
+
+We will make every effort to de-identify data before release. However, there is always a possibility of re-identification based on survey responses. If you've reconsidered participation, or would like us to redact responses to any questions before release, please let us know below.
+
+- _(1)_ I consent to having my responses to this survey released.
+- _(2)_ Please delete all of my responses.
+- _(3)_ Please redact only my responses to the following questions: (please describe as best you can the question(s) to which you'd like us to delete your response(s)) 
+
 
 
 
