@@ -4,7 +4,7 @@
 
 All questions are optional. The data collected here is anonymous and will not be linked to any other data sources. We aim not to collect any personally identifying information, and will remove any that is provided before publicly releasing the data. 
 
-We're inviting you to take part based on having visited an open source project on GitHub [or off-site sampling process].
+We're inviting you to take part based on having visited an open source project on GitHub indicating interest in an open source project hosted elsewhere.
 This survey is open to anyone who uses, contributes to, or thinks about open source software.
 
 For the purposes of this survey, **open source software is software available in source code form under terms that allow anyone to use, modify, and/or distribute the software for any purpose, subject, at most, to conditions that preserve provenance and openness.**  We acknowledge there are distinct ideologies behind Free/Libré and Open Source Software; we use the general term "open source" here for simplicity rather than as indication of support for one community over another.
