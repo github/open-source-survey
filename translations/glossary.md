@@ -1,5 +1,8 @@
 ## Term Glossary
 
+Here are some of the terms from [the survey](https://github.com/github/open-source-survey/blob/master/survey-instrument.md) that might trip up translators.
+
+
 | English | Spanish | Russian | Chinese (trad.) | Japanese |
 |---------|---------|---------|-----------------|----------|
 open source |código abierto, but more commonly, untranslated|Открытое программное обеспечение, sometimes used untranslated|開放原始碼|オープンソース|
