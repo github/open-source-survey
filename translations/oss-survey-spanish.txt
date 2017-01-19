@@ -51,7 +51,7 @@ La gente participa en código abierto de diferentes formas. ¿En cuál de las si
 [[[ - _(2)_ ]]] Empleado a tiempo parcial
 [[[ - _(3)_ ]]] Estudiante a tiempo completo
 [[[ - _(4)_ ]]] Temporalmente desempleado
-[[[ - _(5)_ ]]] Jubilado / sin empleo de forma permanente (p. ej. no es posible trabajar debido a una minusvalía, etc.)
+[[[ - _(5)_ ]]] Jubilado / sin empleo de forma permanente (p. ej. no es posible trabajar debido a una discapacidad, etc.)
 [[[ - _(6)_ ]]] Otras (por favor, describa)
 
 [[[Q4
