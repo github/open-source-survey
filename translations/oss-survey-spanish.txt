@@ -1,14 +1,14 @@
-﻿¡Hola! Estamos estudiando cómo la gente usa y piensa sobre el software de código abierto. Ya sea que usted sea un mantenedor durante mucho tiempo, un nuevo colaborador o simplemente esté comenzando con el código abierto, queremos saber qué piensa. Esta encuesta toma aproximadamente 15 minutos y se usará para crear datos abiertos de forma gratuita para investigadores y miembros de la comunidad para entender mejor a la gente que usa y crea tecnologías de código abierto.
+﻿¡Hola! Estamos estudiando cómo la gente usa y piensa sobre el software de código abierto. Ya sea que usted ha sido un mantenedor durante mucho tiempo, un nuevo colaborador o simplemente esté comenzando a participar, queremos saber qué piensa. Responder esta encuesta le tomará aproximadamente 15 minutos, los resultados se publicarán como un set de datos abiertos, disponibles de forma gratuita para investigadores y miembros de la comunidad, para entender mejor a las personas que usan y crean tecnologías de código abierto.
 
-Todas las preguntas son opcionales. Los datos recopilados aquí son anónimos y no se enlazarán a ninguna otra fuente de datos. Nuestra intención no es recopilar ninguna información identificativa personal, y eliminaremos cualquiera que sea proporcionada antes de publicar los datos. 
+Todas las preguntas son opcionales. Los datos recopilados aquí son anónimos y no se enlazarán a ninguna otra fuente de datos. Nuestra intención no es recopilar ninguna información identificativa personal, y eliminaremos cualquiera que sea proporcionada antes de publicar los datos.
 
-Le invitamos a tomar parte dado que ha visitado un proyecto de código abierto en GitHub o ha mostrado interés en un proyecto de código abierto alojado en otro lugar. Esta encuesta está abierta a cualquier persona que use, contribuya o reflexione sobre el software de código abierto.
+Está recibiendo esta invitación dado que ha visitado un proyecto de código abierto en GitHub o ha mostrado interés en un proyecto de código abierto alojado en otro lugar. Esta encuesta está abierta a cualquier persona que use, contribuya o reflexione sobre el software de código abierto.
 
-Para propósitos de esta encuesta, «el software de código abierto es software disponible en forma de código fuente bajo términos que permiten a cualquier persona usarlo, modificarlo o distribuirlo para cualquier propósito, tema, a lo sumo, con condiciones que preserven el origen y transparencia». Sabemos que hay distintas ideologías detrás del software libre y de código abierto (FOSS) y código abierto (OSS); usamos el término general «código abierto» aquí por simplicidad, en vez de muestra de apoyo a una comunidad sobre la otra.
+Para propósitos de esta encuesta, «el software de código abierto es software disponible en forma de código fuente bajo términos que permiten a cualquier persona usarlo, modificarlo o distribuirlo para cualquier propósito, tema, a lo sumo, con condiciones que preserven el origen y transparencia». Sabemos que hay distintas ideologías detrás del software libre y de código abierto (FOSS) y código abierto (OSS); usamos el término general «código abierto» aquí por simplicidad, no como muestra de apoyo a una comunidad sobre la otra.
 
-Haga clic aquí para realizar la encuesta
+Haga click aquí para tomar la encuesta
 
-## Identidad del colaborador
+## Formas de participación
 
 [[[Q1
 **PARTICIPATION-TYPE**
@@ -16,7 +16,7 @@ Haga clic aquí para realizar la encuesta
 
 La gente participa en código abierto de diferentes formas. ¿En cuál de las siguientes actividades participa? Escoja todas las opciones que le correspondan.
 
-[[[- _(1)_]]]  Sigo las novedades y debates de proyectos de código abierto
+[[[- _(1)_]]] Sigo las novedades y debates de proyectos de código abierto
 [[[- _(2)_]]] Uso aplicaciones de código abierto
 [[[- _(3)_]]] Uso dependencias de código abierto en otros proyectos
 [[[- _(4)_]]] Participo en desarrollo de código abierto (incluyendo la creación de sugerencias de funciones, contribuciones de documentos o código, mantenimiento del proyecto, etc.)
@@ -32,12 +32,12 @@ La gente participa en código abierto de diferentes formas. ¿En cuál de las si
 
 | Nunca | Rara vez   | Ocasionalmente  |  A menudo
 
-[[[ _(1)_ ]]] contribuyo con código                                                                         
-[[[ _(2)_ ]]] contribuyo con documentación                                                              
-[[[ _(3)_ ]]] mantengo un proyecto (p. ej. revisar y fusionar contribuciones, gestionar lanzamientos)  
-[[[ _(4)_ ]]] documento errores y comportamientos inesperados
-[[[ _(5)_ ]]] ofrezco ideas para nuevas características                                    
-[[[ _(6)_ ]]] realizo funciones organizativas/administrativas (p. ej. gestionar listas de correo, organizar eventos)
+[[[ _(1)_ ]]] Contribuyo con código
+[[[ _(2)_ ]]] Contribuyo con documentación
+[[[ _(3)_ ]]] Mantengo un proyecto (p. ej. revisar y fusionar contribuciones, gestionar lanzamientos)
+[[[ _(4)_ ]]] Documento errores y comportamientos inesperados
+[[[ _(5)_ ]]] Ofrezco ideas para nuevas características
+[[[ _(6)_ ]]] Realizo funciones organizativas/administrativas (p. ej. gestionar listas de correo, organizar eventos)
 
 
 [[[Q3
@@ -50,18 +50,18 @@ La gente participa en código abierto de diferentes formas. ¿En cuál de las si
 [[[ - _(2)_ ]]] Empleado a tiempo parcial
 [[[ - _(3)_ ]]] Estudiante a tiempo completo
 [[[ - _(4)_ ]]] Temporalmente desempleado
-[[[ - _(5)_ ]]] Jubilado / Permanentemente desempleado (p. ej. no es posible trabajar debido a una minusvalía, etc.)
+[[[ - _(5)_ ]]] Jubilado / Permanentemente desempleado (p. ej. no es posible trabajar debido a una discapacidad, etc.)
 [[[ - _(6)_ ]]] Otras (por favor, describa)
 
 [[[Q4
 **PROFESSIONAL-SOFTWARE**
 (single choice)]]]
 
-En su trabajo principal, ¿con qué frecuencia escribe o contribuye de forma directa a la producción de software? 
+En su trabajo principal, ¿con qué frecuencia escribe o contribuye de forma directa a la producción de software?
 
 [[[ - _(1)_ ]]] A menudo
 [[[ - _(2)_ ]]] Ocasionalmente
-[[[ - _(3)_ ]]] Rara vez 
+[[[ - _(3)_ ]]] Rara vez
 [[[ - _(4)_ ]]] Nunca
 
 
@@ -82,8 +82,8 @@ En su trabajo principal, ¿con qué frecuencia escribe o contribuye de forma dir
 
 ¿Qué posibilidad hay de que en el futuro contribuya a proyectos de código abierto?
 
-[[[ - _(1)_ ]]] Muy posible
-[[[ - _(2)_ ]]] Algo posible
+[[[ - _(1)_ ]]] Muy probable
+[[[ - _(2)_ ]]] Algo probable
 [[[ - _(3)_ ]]] Algo improbable
 [[[ - _(4)_ ]]] Muy improbable
 
@@ -97,25 +97,7 @@ Las siguientes preguntas son sobre aspectos que son importantes para usted al de
 **OSS-USER-PRIORITIES**
 (grid)]]]
 
-Cuando usted considera en usar código abierto, ¿qué tan importante son los siguientes aspectos?
-
-
-    | Muy importante que haya | Algo importante que haya   | No es importante que haya  |  Algo importante que no haya | Muy importante que no haya
-
-[[[ _(1)_ ]]] Una licencia de código abierto
-[[[ _(2)_ ]]] Un código de conducta     
-[[[ _(3)_ ]]] Una guía para contribuciones
-[[[ _(4)_ ]]] Un acuerdo de licencia para el colaborador
-[[[ _(5)_ ]]] Un desarrollo activo                                               
-[[[ _(6)_ ]]] Mantenedores receptivos     
-[[[ _(7)_ ]]] Una comunidad acogedora 
-[[[ _(8)_ ]]] Uso generalizado
-
-[[[Q8
-**OSS-CONTRIBUTOR-PRIORITIES**
-(grid)]]]
-
-Cuando usted considera si contribuir o no en un proyecto de código abierto, ¿qué tan importante son los siguientes aspectos?
+Cuando considera usar código abierto, ¿qué tan importantes son los siguientes aspectos?
 
 
     | Muy importante que haya | Algo importante que haya   | No es importante que haya  |  Algo importante que no haya | Muy importante que no haya
@@ -124,10 +106,28 @@ Cuando usted considera si contribuir o no en un proyecto de código abierto, ¿q
 [[[ _(2)_ ]]] Un código de conducta
 [[[ _(3)_ ]]] Una guía para contribuciones
 [[[ _(4)_ ]]] Un acuerdo de licencia para el colaborador
-[[[ _(5)_ ]]] Un desarrollo activo                                               
+[[[ _(5)_ ]]] Un desarrollo activo
 [[[ _(6)_ ]]] Mantenedores receptivos
-[[[ _(7)_ ]]] Una comunidad acogedora 
-[[[ _(8)_ ]]] Uso generalizado        
+[[[ _(7)_ ]]] Una comunidad acogedora
+[[[ _(8)_ ]]] Uso generalizado
+
+[[[Q8
+**OSS-CONTRIBUTOR-PRIORITIES**
+(grid)]]]
+
+Cuando considera si contribuir o no en un proyecto de código abierto, ¿qué tan importantes son los siguientes aspectos?
+
+
+    | Muy importante que haya | Algo importante que haya   | No es importante que haya  |  Algo importante que no haya | Muy importante que no haya
+
+[[[ _(1)_ ]]] Una licencia de código abierto
+[[[ _(2)_ ]]] Un código de conducta
+[[[ _(3)_ ]]] Una guía para contribuciones
+[[[ _(4)_ ]]] Un acuerdo de licencia para el colaborador
+[[[ _(5)_ ]]] Un desarrollo activo
+[[[ _(6)_ ]]] Mantenedores receptivos
+[[[ _(7)_ ]]] Una comunidad acogedora
+[[[ _(8)_ ]]] Uso generalizado
 
 
 [[[Q9
@@ -138,14 +138,14 @@ Al usar cualquier tipo de software, ¿qué tan importantes son los siguientes as
 
 |   | Extremadamente importante | Muy importante | Moderadamente importante | Ligeramente importante | Nada importante |
 
-Estabilidad (compatibilidad retroactiva, actualizaciones continuas) 
-Innovación (cambios rápidos y potencialmente innovadores) 
-Replicabilidad (archivo de versiones a largo plazo para que el comportamiento exacto del código puede replicarse) 
+Estabilidad (compatibilidad retroactiva, actualizaciones continuas)
+Innovación (cambios rápidos y potencialmente innovadores)
+Replicabilidad (archivo de versiones a largo plazo para que el comportamiento exacto del código puede replicarse)
 Compatibilidad (es compatible con muchas versiones de diferentes paquetes)
 Seguridad (protege los datos de acceso no autorizado)
-Costo (costo financiero de adquisición y configuración) 
-Transparencia (capacidad para saber exactamente qué es lo que está haciendo el código) 
-Experiencia del usuario (interfaz de uso intuitivo y fácil) 
+Costo (costo financiero de adquisición y configuración)
+Transparencia (capacidad para saber exactamente qué es lo que está haciendo el código)
+Experiencia del usuario (interfaz de uso intuitivo y fácil)
 Personalización/modificación (capacidad de personalizarlo para mis necesidades)
 Disponibilidad de asistencia técnica (disponibilidad de personas competentes para ayudar con problemas)
 Confiable (producto de una persona, comunidad o compañía en la que confíe)
@@ -155,7 +155,7 @@ Confiable (producto de una persona, comunidad o compañía en la que confíe)
 **SEEK-OPEN-SOURCE**
 (single choice)]]]
 
-¿Con qué frecuencia intenta encontrar opciones de código abierto en vez de otro tipo de software?
+¿Con qué frecuencia intenta encontrar opciones de código abierto en lugar de otro tipo de software?
 
 [[[ - _(1)_ ]]] Siempre
 [[[ - _(2)_ ]]] A veces
@@ -177,7 +177,7 @@ Confiable (producto de una persona, comunidad o compañía en la que confíe)
 
 [[[Q12
 **OSS-SECURITY**
-(single choice)]]] 
+(single choice)]]]
 
 ¿Cree usted que el software de código abierto es normalmente más seguro, menos seguro o más o menos igual de seguro que el software de código cerrado (propietario)?
 
@@ -206,7 +206,7 @@ Tengo las aptitudes y conocimientos necesarios para realizar contribuciones de i
 
 [[[ - _(1)_ ]]] Muy de acuerdo
 [[[ - _(2)_ ]]] Algo de acuerdo
-[[[ - _(3)_ ]]] Ni de acuerdo ni en desacuerdo 
+[[[ - _(3)_ ]]] Ni de acuerdo ni en desacuerdo
 [[[ - _(4)_ ]]] Algo en desacuerdo
 [[[ - _(5)_ ]]] Muy en desacuerdo
 
@@ -219,7 +219,7 @@ La comunidad de código abierto valora las contribuciones de gente como yo.
 
 [[[ - _(1)_ ]]] Muy de acuerdo
 [[[ - _(2)_ ]]] Algo de acuerdo
-[[[ - _(3)_ ]]] Ni de acuerdo ni en desacuerdo 
+[[[ - _(3)_ ]]] Ni de acuerdo ni en desacuerdo
 [[[ - _(4)_ ]]] Algo en desacuerdo
 [[[ - _(5)_ ]]] Muy en desacuerdo
 
@@ -232,7 +232,7 @@ Me considero parte de la comunidad de código abierto (o software libre y de có
 
 [[[ - _(1)_ ]]] Muy de acuerdo
 [[[ - _(2)_ ]]] Algo de acuerdo
-[[[ - _(3)_ ]]] Ni de acuerdo ni en desacuerdo 
+[[[ - _(3)_ ]]] Ni de acuerdo ni en desacuerdo
 [[[ - _(4)_ ]]] Algo en desacuerdo
 [[[ - _(5)_ ]]] Muy en desacuerdo
 
@@ -241,7 +241,7 @@ Me considero parte de la comunidad de código abierto (o software libre y de có
 Las siguientes preguntas son sobre prácticas y actitudes de privacidad y transparencia, ambas dentro del código abierto y en Internet en general.
 
 
-[[[Q17 
+[[[Q17
 **INFO-AVAILABILITY**
 (single choice)]]]
 
@@ -259,7 +259,7 @@ En general, ¿cuánta información sobre usted está disponible públicamente en
 **INFO-JOB**
 (single choice)]]]
 
-¿Cree usted que necesita poner información disponible sobre usted en Internet por razones profesionales?
+¿Cree usted que es necesario publicar información personal en Internet por razones profesionales?
 
 [[[ - _(1)_ ]]] Sí
 [[[ - _(2)_ ]]] No
@@ -267,7 +267,7 @@ En general, ¿cuánta información sobre usted está disponible públicamente en
 
 [[[Q19
 **TRANSPARENCY-PRIVACY-BELIEFS**
-(single choice)]]] 
+(single choice)]]]
 
 ¿Cuál de las siguientes afirmaciones es más cercana a su opinión acerca de la atribución en el desarrollo de software?
 
@@ -319,7 +319,7 @@ Las siguientes preguntas son sobre cómo la gente encuentra y busca ayuda dentro
 Algunas personas trabajan y usan proyectos de código abiertos solas, mientras que otras reciben ayuda de otros usuarios y colaboradores. Otras personas pueden ayudar con problemas técnicos, entendiendo los estándares y normas de la comunidad y presentando a otras personas involucradas en el proyecto o en otros relacionados.  ¿Ha recibido alguna vez algún tipo de ayuda de otras personas en relación al uso o contribución a proyectos de código abierto?
 
 [[[ - _(1)_ ]]] Sí
-[[[ - _(2)_ ]]]  No
+[[[ - _(2)_ ]]] No
 
 
 [[[Q23
@@ -343,7 +343,7 @@ Teniendo en cuenta el caso más reciente en el que alguien le ayudó, ¿cómo en
 
 ¿Cuál de las siguientes afirmaciones describe mejor su relación anterior con la persona que le ayudó?
 
-[[[ - _(1)_ ]]]  Nos conocíamos bien.
+[[[ - _(1)_ ]]] Nos conocíamos bien.
 [[[ - _(2)_ ]]] Nos conocíamos un poco.
 [[[ - _(3)_ ]]] Los conocía por sus contribuciones a los proyectos, pero no los conocía personalmente.
 [[[ - _(4)_ ]]] Totalmente desconocidos, no los conocía anteriormente.
@@ -395,8 +395,8 @@ Teniendo en cuenta el caso más reciente en el que haya ayudado a alguien, ¿có
 
 ¿Cuál es la opción que mejor describe su relación anterior con la persona a la que ayudó?
 
-[[[ - _(1)_ ]]]  Nos conocíamos bien.
-[[[ - _(2)_ ]]]  Nos conocíamos un poco.
+[[[ - _(1)_ ]]] Nos conocíamos bien.
+[[[ - _(2)_ ]]] Nos conocíamos un poco.
 [[[ - _(3)_ ]]] Los conocía por sus contribuciones a los proyectos, pero no los conocía personalmente.
 [[[ - _(4)_ ]]] Totalmente desconocidos, no los conocía anteriormente.
 
@@ -405,7 +405,7 @@ Teniendo en cuenta el caso más reciente en el que haya ayudado a alguien, ¿có
 **PROVIDED-HELP-TYPE**
 (single choice)]]]
 
-¿Con qué tipo de problema le ayudaste?
+¿Con qué tipo de problema le ayudó?
 
 [[[ - _(1)_ ]]] Ayuda al escribir código o para implementar ideas.
 [[[ - _(2)_ ]]] Ayuda a instalar o usar una aplicación.
@@ -427,7 +427,7 @@ El siguiente conjunto de preguntas es sobre las experiencias interpersonales neg
 
        |  No | Sí |
 
-[[[ _(1)_ ]]] Falta de respuesta a contribuciones o preguntas. 
+[[[ _(1)_ ]]] Falta de respuesta a contribuciones o preguntas.
 [[[ _(2)_ ]]] Rechazo de contribuciones sin explicación.
 [[[ _(3)_ ]]] Respuestas despectivas a contribuciones o preguntas.
 [[[ _(4)_ ]]] Documentación que está incompleta o es difícil de entender.
@@ -446,23 +446,23 @@ El siguiente conjunto de preguntas es sobre las experiencias interpersonales neg
   | No | Sí |
 
 [[[ _(1)_ ]]] Hostilidad o brusquedad
-[[[ _(2)_ ]]] Insultos 
+[[[ _(2)_ ]]] Insultos
 [[[ _(3)_ ]]] Amenazas violentas
 [[[ _(4)_ ]]] Suplantación de identidad
-[[[ _(5)_ ]]] Acoso durante un periodo de tiempo prolongado 
-[[[ _(6)_ ]]] Acoso en varias plataformas 
+[[[ _(5)_ ]]] Acoso durante un periodo de tiempo prolongado
+[[[ _(6)_ ]]] Acoso en varias plataformas
 [[[ _(7)_ ]]] Persecución o acecho
-[[[ _(8)_ ]]] Insinuaciones o comentarios sexuales no solicitados 
-[[[ _(9)_ ]]] Estereotipación basada en características demográficas percibidas 
-[[[ _(10)_ ]]] Divulgación malintencionada de información personal (doxxing)  
-]]] _(11)_ ]]]Otro (por favor, describa)
+[[[ _(8)_ ]]] Insinuaciones o comentarios sexuales no solicitados
+[[[ _(9)_ ]]] Estereotipación basada en características demográficas percibidas
+[[[ _(10)_ ]]] Divulgación malintencionada de información personal (doxxing)
+]]] _(11)_ ]]] Otro (por favor, describa)
 
 
 [[[Q32
 **HARASSMENT-EXPERIENCE**
 (grid)]]]
 
-¿Ha experimentado alguna vez alguno de los siguientes comportamientos dirigidos a usted en el contexto de un proyecto de código abierto? 
+¿Ha experimentado alguna vez alguno de los siguientes comportamientos dirigidos a usted en el contexto de un proyecto de código abierto?
 
   | No | Sí |
 [[[ _(1)_ ]]] Hostilidad o brusquedad
@@ -488,7 +488,7 @@ Teniendo en cuenta la última vez que experimento acoso, ¿cómo respondió? Esc
 
 [[[_If HARASSMENT-RESPONSE(1) is selected, all other options should be grayed out._]]]
 
-[[[ - _(1)_ ]]] No reaccioné / ignoré el incidente. 
+[[[ - _(1)_ ]]] No reaccioné / ignoré el incidente.
 [[[ - _(2)_ ]]] Pedí al usuario que parará el comportamiento de acoso.
 [[[ - _(3)_ ]]] Solicité ayuda a otros usuarios de la comunidad.
 [[[ - _(4)_ ]]] Bloqueé al usuario(s) que me acosaba.
@@ -506,7 +506,7 @@ Teniendo en cuenta la última vez que experimento acoso, ¿cómo respondió? Esc
 ¿Qué tan efectivas fueron las respuestas?
 
   | Nada efectivo | Un poco efectivo  | Algo efectivo | Muy eficaz | Completamente efectivo
- 
+
 
 
 
@@ -525,14 +525,14 @@ Como resultado de experimentar u observar acoso, ¿cuál de las siguientes accio
 [[[ - _(5)_ ]]] Eliminé o cambié contenido en mi presencia pública en línea.
 [[[ - _(6)_ ]]] Sugerí la creación o modificación de un código de conducta.
 [[[ - _(7)_ ]]] Participé en un debate público con miembros de la comunidad acerca del problema.
-[[[ - _(8)_ ]]] Participé en un debate privado con miembros de la comunidad acerca del problema. 
+[[[ - _(8)_ ]]] Participé en un debate privado con miembros de la comunidad acerca del problema.
 [[[ - _(9)_ ]]] Hice cambios en mi vida fuera de Internet (p. ej. dejé de asistir a encuentros, conferencias, etc.)
 [[[ - _(10)_ ]]] Otro (por favor, describa)
 
 
 
 
-## Software de código abierto en trabajo remunerado 
+## Software de código abierto en trabajo remunerado
 
 El siguiente conjunto de preguntas es sobre su relación con el software de código abierto en el contexto de su trabajo profesional.
 
@@ -541,7 +541,7 @@ El siguiente conjunto de preguntas es sobre su relación con el software de cód
 (single choice)]]]
 
 
-¿Contribuye a código abierto como parte de su trabajo profesional? En otras palabras, ¿le pagan por el tiempo que pasa realizando contribuciones de código abierto?  
+¿Contribuye a código abierto como parte de su trabajo profesional? En otras palabras, ¿le pagan por el tiempo que pasa realizando contribuciones de código abierto?
 
 [[[ - _(1)_ ]]] Sí, de forma directa; algunas o todas de mis tareas de trabajo incluyen contribuir a proyectos de código abierto.
 [[[ - _(2)_ ]]] Sí, de forma indirecta; contribuyo a proyectos de código abierto efectuando otras tareas de trabajo, pero no se me pide o se espera que lo haga.
@@ -556,7 +556,7 @@ El siguiente conjunto de preguntas es sobre su relación con el software de cód
 ¿Con qué frecuencia usa software de código abierto en su trabajo profesional?
 
 [[[ - _(1)_ ]]] A menudo
-[[[ - _(2)_ ]]] A veces 
+[[[ - _(2)_ ]]] A veces
 [[[ - _(3)_ ]]] Rara vez
 [[[ - _(4)_ ]]] Nunca
 
@@ -582,7 +582,7 @@ El siguiente conjunto de preguntas es sobre su relación con el software de cód
 (single choice)]]]
 
 
-¿Cuál de las siguientes afirmaciones está más cerca de la política de su lugar de trabajo sobre el uso de aplicaciones de código abierto?
+¿Cuál de las siguientes afirmaciones está más cerca de la política de su lugar de trabajo acerca del uso de aplicaciones de código abierto?
 
 [[[ - _(1)_ ]]] Se fomenta el uso de aplicaciones de código abierto.
 [[[ - _(2)_ ]]] El uso de aplicaciones de código abierto es aceptable si es la herramienta más apropiada.
@@ -597,7 +597,7 @@ El siguiente conjunto de preguntas es sobre su relación con el software de cód
 (single choice)]]]
 
 
-¿Cuál de las siguientes afirmaciones está más cerca de la política de su lugar de trabajo sobre incorporar dependencias de código abierto en su código base?
+¿Cuál de las siguientes afirmaciones está más cerca de la política de su lugar de trabajo respecto a incorporar dependencias de código abierto en su código base?
 
 [[[ - _(1)_ ]]] Se fomenta el uso de dependencias de código abierto.
 [[[ - _(2)_ ]]] El uso de dependencias de código abierto es aceptable si es la herramienta más apropiada.
@@ -710,8 +710,8 @@ Teniendo en cuenta donde vive actualmente, ¿es miembro de una etnia o nacionali
 
 [[[ - _(1)_ ]]] Muy bien
 [[[ - _(2)_ ]]] Moderadamente bien
-[[[ - _(3)_ ]]] No bien
-[[[ - _(4)_ ]]] Nada 
+[[[ - _(3)_ ]]] Poco bien
+[[[ - _(4)_ ]]] Nada
 
 
 
@@ -775,7 +775,7 @@ Teniendo en cuenta donde vive actualmente, ¿es miembro de una etnia o nacionali
 
 [[[Q53
 **LOCATION-OF-FIRST-COMPUTER-INTERNET**
- (single choice)]]] 
+ (single choice)]]]
 
 ¿Dónde tuvo acceso por primera vez a un ordenador/computadora con conexión a Internet?
 
@@ -789,15 +789,15 @@ Teniendo en cuenta donde vive actualmente, ¿es miembro de una etnia o nacionali
 
 [[[Q54
 **PUBLIC-DATA-RELEASE-CONSENT**
-(single choice + textbox)]]] 
+(single choice + textbox)]]]
 
 Como recordatorio, las respuestas de esta encuesta se publicarán como un conjunto de datos abiertos, disponibles para que cualquiera pueda analizarlos y estudiarlos. A parte de las respuestas, la única otra información que se publicará es un indicador binario sobre si el encuestado procede de GitHub.com o de una comunidad de código abierto externa. Los datos de las respuestas no se enlazarán a ningún metadato como direcciones IP/geografía, información del navegador, idioma de la encuesta o identidad en cualquier proyecto o sitio web.
 
-Haremos todos los esfuerzos posibles para desidentificar los datos antes lanzamiento. Sin embargo, siempre hay la posibilidad de una reidentificación según las respuestas de la encuesta. Si ha reconsiderado su participación, o quiere que redactemos respuestas a cualquier pregunta antes del lanzamiento, por favor, háganoslo saber a continuación.
+Haremos todos los esfuerzos posibles para desidentificar los datos previo al lanzamiento. Sin embargo, siempre hay la posibilidad de una reidentificación según las respuestas de la encuesta. Si ha reconsiderado su participación, o quiere que redactemos sus respuestas a cualquier pregunta antes de la publicación, por favor, háganoslo saber a continuación.
 
 [[[ - _(1)_ ]]] Doy mi consentimiento para que se publiquen mis respuestas a esta encuesta.
 [[[ - _(2)_ ]]] Por favor, borren todas mis respuestas.
-[[[ - _(3)_ ]]] Por favor, redacte solo mis respuestas sobre los siguientes temas: (por favor, describa lo mejor que pueda la(s) pregunta(s) en las que quiere que borremos su(s) respuesta(s)) 
+[[[ - _(3)_ ]]] Por favor, redacte solo mis respuestas sobre los siguientes temas: (por favor, describa lo mejor que pueda la(s) pregunta(s) en las que quiere que borremos su(s) respuesta(s))
 
 
 
