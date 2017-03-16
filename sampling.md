@@ -10,9 +10,7 @@ In other words, we want to sample as many different open source communities as p
 
 ## Sampling on GitHub
 
-Broadly the plan is to sample a randomly selected set of visitors (either logged in or logged out) to licensed open source repositories. They will be presented with a dialog inviting them to complete the survey.
-
-We will post more details here once this has been implemented.
+A small percentage of randomly selected visitors (either logged in or logged out) to licensed open source repositories on GitHub.com will be enrolled in the sample. They will be presented with a dialog inviting them to take the survey.  To preserve anonymity, we’re not recording data about which users take the survey.
 
 ## Sampling off GitHub
 
