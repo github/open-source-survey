@@ -28,7 +28,7 @@ Email template:
 >
 > As a member of the {{Community Name}} community, you are invited to participate in a survey about how people use and think about open source software. Whether you're a long-time maintainer, a new contributor, or an interested browser, we want to hear from you.
 >
-> This survey will take 15 minutes or less. All questions are optional. Your anonymous answers will be released as part of an open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies. No personally identifiable information will be solicited, and will remove any that is provided before publicly releasing the data.
+> This survey will take 10-15 minutes. All questions are optional. Your anonymous answers will be released as part of an open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies. No personally identifiable information will be solicited, and will remove any that is provided before publicly releasing the data.
 >
 > Please take 15 minutes to share your perspective by {{date 2 weeks from now}}.
 >
@@ -38,6 +38,6 @@ Email template:
 
 Each community will be sent a URL with a unique identifier. Please do not share this URL on social media or any medium that includes people that are not involved in your community. The survey is intended for people that have demonstrated an interest in open source and have a connection with the community.
 
-This identifier will be used to ensure the response rate is expected given the size of the community. In the event that the response rate from a community greatly exceeds the expected community size (e.g. a survey URL is published to social media or some other medium that solicits responses from people who are not actively engaged in the community), answers from this community will de omitted from the results to ensure the data set represents the intended population.
+This identifier will be used to ensure the response rate is expected given the size of the community. In the event that the response rate from a community greatly exceeds the expected community size (e.g. a survey URL is published to social media or some other medium that solicits responses from people who are not actively engaged in the community), answers from this community will be omitted from the results to ensure the data set represents the intended population.
 
 Responses from each offsite community _will not_ be segmented in the released data set due to privacy concerns.
