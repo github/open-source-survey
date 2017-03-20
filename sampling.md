@@ -44,9 +44,9 @@ Responses from each offsite community _will not_ be segmented in the released da
 
 #### Can I post the survey URL on the public forum for my community?
 
-If you have a way of delivering the survey to members of community, such as a mailing list, then please use that instead.
+If you have a way of delivering the survey directly to members of community, such as a mailing list, then please use that instead.
 
-If you don't have a way of contacting community members individually, or it is not inclusive of the entire community, then a public forum is acceptable as long as it is specific to the people that are involved in your community. Avoid sharing it on forums that have a cross section of people from other communities.
+If you don't have a way of contacting community members directly, or it is not inclusive of the entire community, then a public forum is acceptable as long as it is specific to the people that are involved in your community. Avoid sharing it on forums that have a cross section of people from other communities.
 
 - 😄 [Atom's Discuss forum](https://discuss.atom.io/)
 - 😢 [redit.com/r/atom](https://www.reddit.com/r/atom/)
