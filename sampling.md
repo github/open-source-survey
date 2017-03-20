@@ -32,7 +32,7 @@ Email template:
 >
 >     https://link/to/survey/for/offsite/population
 >
-> Thank you for your time and input. If you have any questions or feedback please email opensource@github.com.
+> Thank you for your time and input. If you have any questions or feedback please email opensource@github.com. For more information or to subscribe to updates, visit http://opensourcesurvey.org/.
 
 Each community will be sent a URL with a unique identifier. Please do not share this URL on social media or any medium that includes people that are not involved in your community. The survey is intended for people that have demonstrated an interest in open source and have a connection with the community.
 
