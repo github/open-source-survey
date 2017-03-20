@@ -28,7 +28,7 @@ Email template:
 >
 > This survey will take 10-15 minutes. All questions are optional. Your anonymous answers will be released as part of an open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies. No personally identifiable information will be solicited, and will remove any that is provided before publicly releasing the data.
 >
-> Please take 15 minutes to share your perspective by {{date 2 weeks from now}}.
+> Please take 10-15 minutes to share your perspective by {{date 2 weeks from now}}.
 >
 >     https://link/to/survey/for/offsite/population
 >
