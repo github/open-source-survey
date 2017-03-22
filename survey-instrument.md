@@ -1,6 +1,6 @@
 
 
-:wave: Hello! We're studying how people use and think about open source software. Whether you're a long-time maintainer, a new contributor, or an interested browser, we want to hear from you. This survey will take 15 minutes or less, and will be used to create a open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies.
+:wave: Hello! We're studying how people use and think about open source software. Whether you're a long-time maintainer, a new contributor, or an interested browser, we want to hear from you. This survey will take 15 minutes or less, and will be used to create an open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies.
 
 All questions are optional. The data collected here is anonymous and will not be linked to any other data sources. We aim not to collect any personally identifying information, and will remove any that is provided before publicly releasing the data. 
 
