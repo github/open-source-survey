@@ -842,7 +842,7 @@ Q54
 **PUBLIC-DATA-RELEASE-CONSENT**
 (single choice + textbox)
 
-As a reminder, the responses from this survey will be released as an open data set, available for anyone to analyze and study. Aside from responses, the only other information that will be released is a binary indicator of whether a respondent was sourced from GitHub.com traffic or an off-site open source communty. Response data will **not** be linked to any metadata such as IP address/geography, browser information, survey language, or identity on any project or site.
+As a reminder, the responses from this survey will be released as an open data set, available for anyone to analyze and study. Aside from responses, the only other information that will be released is a binary indicator of whether a respondent was sourced from GitHub.com traffic or an off-site open source communtiy. Response data will **not** be linked to any metadata such as IP address/geography, browser information, survey language, or identity on any project or site.
 
 We will make every effort to de-identify data before release. However, there is always a possibility of re-identification based on survey responses. If you've reconsidered participation, or would like us to redact responses to any questions before release, please let us know below.
 
