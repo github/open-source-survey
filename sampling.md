@@ -49,4 +49,4 @@ If you have a way of delivering the survey directly to members of community, suc
 If you don't have a way of contacting community members directly, or it is not inclusive of the entire community, then a public forum is acceptable as long as it is specific to the people that are involved in your community. Avoid sharing it on forums that have a cross section of people from other communities.
 
 - 😄 [Atom's Discuss forum](https://discuss.atom.io/)
-- 😢 [redit.com/r/atom](https://www.reddit.com/r/atom/)
+- 😢 [reddit.com/r/atom](https://www.reddit.com/r/atom/)
