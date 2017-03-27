@@ -2,7 +2,7 @@
 
 Hello! We're studying how people use and think about open source software. Whether you're a long-time maintainer, a new contributor, or an interested browser, we want to hear from you. This survey will take 15 minutes or less, and will be used to create an open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies.
 
-We're inviting you to take part based on having visited an open source project on GitHub indicating interest in an open source project hosted elsewhere.
+We're inviting you to take part based on having visited an open source project on GitHub or indicating interest in an open source project hosted elsewhere.
 This survey is open to anyone who uses, contributes to, or thinks about open source software.
 
 
