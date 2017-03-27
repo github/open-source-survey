@@ -1,11 +1,12 @@
 
 
-:wave: Hello! We're studying how people use and think about open source software. Whether you're a long-time maintainer, a new contributor, or an interested browser, we want to hear from you. This survey will take 15 minutes or less, and will be used to create an open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies.
-
-All questions are optional. The data collected here is anonymous and will not be linked to any other data sources. We aim not to collect any personally identifying information, and will remove any that is provided before publicly releasing the data. This survey uses cookies, but only to prevent duplicate responses. To take the survey in Chinese, Japanese, Spanish, or Russian, click the bar titled "Select another language" at the top of this page and choose your preferred language. 
+Hello! We're studying how people use and think about open source software. Whether you're a long-time maintainer, a new contributor, or an interested browser, we want to hear from you. This survey will take 15 minutes or less, and will be used to create an open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies.
 
 We're inviting you to take part based on having visited an open source project on GitHub indicating interest in an open source project hosted elsewhere.
 This survey is open to anyone who uses, contributes to, or thinks about open source software.
+
+
+All questions are optional. The data collected here is anonymous and will not be linked to any other data sources. We aim not to collect any personally identifying information, and will remove any that is provided before publicly releasing the data. This survey uses cookies, but only to prevent duplicate responses. To take the survey in Chinese, Japanese, Spanish, or Russian, click the bar titled "Select another language" at the top of this page and choose your preferred language. 
 
 For the purposes of this survey, **open source software is software available in source code form under terms that allow anyone to use, modify, and/or distribute the software for any purpose, subject, at most, to conditions that preserve provenance and openness.**  We acknowledge there are distinct ideologies behind Free/Libré and Open Source Software; we use the general term "open source" here for simplicity rather than as indication of support for one community over another.
 
@@ -101,7 +102,8 @@ The following questions ask about the things that are important to you when choo
 Q7
 **OSS-USER-PRIORITIES**
 (grid)
-_If PARTICIPATION-TYPE(2) == 1 or PARTICIPATION-TYPE(3)==1 or PARTICIPATION-TYPE(4)==1,, then:_
+
+_If PARTICIPATION-TYPE(2) == 1 or PARTICIPATION-TYPE(3)==1 or PARTICIPATION-TYPE(4)==1, then:_
 
 When thinking about whether to **use open source software**, how important are the following things?
 
@@ -269,7 +271,7 @@ Q17
 
 Which of the following statements is closest to your beliefs about attribution in software development?
 
-_rotate order_
+_randomize order_
 
 - _(1)_ Records of authorship should be required so that end users know who created the source code they are working with.
 or
@@ -296,15 +298,13 @@ In general, how much information about you is publicly available online?
 Q19
 **INFO-JOB**
 (single choice)
+
 _If EMPLOYMENT-STATUS != 5, then:_
 
 Do you feel that you need to make information available about yourself online for professional reasons?
 
 - _(1)_ Yes
 - _(2)_ No
-
-
- 
 
 
 
@@ -348,11 +348,12 @@ Q22
 **RECEIVED-HELP**
 (single choice)
 
-_randomize order_
 
 Some people work on and use open source projects completely on their own, while others receive help from other users or contributors. Other people can help with technical problems, understanding community standards and norms, and making introductions to other people involved in the project or related ones.  
 
 Have you ever _received_ any kind of help from other people related to using or contributing to an open source project?
+
+_randomize order_
 
 - _(1)_ Yes
 - _(2)_ No
@@ -394,9 +395,9 @@ _if RECEIVED-HELP == 1, then:_
 
 What kind of problem did they help you with?
 
-- _(1)_ Help writing code or otherwise implementing ideas.
-- _(2)_ Help installing or using an application.
-- _(3)_ Help understanding community norms (e.g. how to submit a contribution, how to communicate effectively).
+- _(1)_ Writing code or otherwise implementing ideas.
+- _(2)_ Installing or using an application.
+- _(3)_ Understanding community norms (e.g. how to submit a contribution, how to communicate effectively).
 - _(4)_ Introductions to other people.
 - _(5)_ Other (please describe)
 
@@ -405,9 +406,9 @@ Q26
 **PROVIDED-HELP**
  (single choice)
 
-_randomize order_
-
 Have you ever _provided_ help for another person on an open source project?
+
+_randomize order_
 
 - _(1)_ Yes
 - _(2)_ No
@@ -447,9 +448,9 @@ _if PROVIDED-HELP == 1, then:_
 
 What kind of problem did you help them with?
 
-- _(1)_ Help writing code or otherwise implementing ideas
-- _(2)_ Help installing or using an application
-- _(3)_ Help understanding community norms (e.g. how to submit a contribution, how to communicate effectively)
+- _(1)_ Writing code or otherwise implementing ideas
+- _(2)_ Installing or using an application
+- _(3)_ Understanding community norms (e.g. how to submit a contribution, how to communicate effectively)
 - _(4)_ Introductions to other people
 - _(5)_ Other (please describe)
 
@@ -558,7 +559,7 @@ How effective were the following responses?
 
   | Not at all effective | A little effective  | Somewhat effective | Mostly effective | Completely effective
  -----------|-------|------|-------|--------|--------|
-_1 row per option selected in HARASSMENT-RESPONSE_ |||||
+_1 row per option selected in HARASSMENT-RESPONSE_ 
 
 
 
@@ -581,7 +582,7 @@ As a result of experiencing or witnessing harassment, which, if any, of the foll
 - _(8)_ Engaged in private discussion with community members about the issue 
 - _(9)_ Made changes in my life offline (e.g. stopped attending meetups or conferences, etc.)
 - _(10)_ Other (please describe)
-- _(12)_ None of the above
+- _(11)_ None of the above
 
 
 
@@ -669,7 +670,7 @@ Q41
 **OSS-HIRING**
 (single choice)
 
-_if PARTICIPATION-TYPE == 4 and EMPLOYMENT-STATUS < 3, then:__
+_if PARTICIPATION-TYPE == 4 and EMPLOYMENT-STATUS < 3, then:_
 
 How important do you think your involvement in open source was to getting your current job?
 
