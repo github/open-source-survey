@@ -1,12 +1,11 @@
 ﻿¡Hola! Estamos estudiando cómo la gente usa y piensa sobre el software de código abierto. Ya sea que usted ha sido un mantenedor durante mucho tiempo, un nuevo colaborador o simplemente esté comenzando a participar, queremos saber qué piensa. Responder esta encuesta le tomará aproximadamente 15 minutos, los resultados se publicarán como un set de datos abiertos, disponibles de forma gratuita para investigadores y miembros de la comunidad, para entender mejor a las personas que usan y crean tecnologías de código abierto.
 
-Todas las preguntas son opcionales. Los datos recopilados aquí son anónimos y no se enlazarán a ninguna otra fuente de datos. Nuestra intención no es recopilar ninguna información identificativa personal, y eliminaremos cualquiera que sea proporcionada antes de publicar los datos.
-
 Está recibiendo esta invitación dado que ha visitado un proyecto de código abierto en GitHub o ha mostrado interés en un proyecto de código abierto alojado en otro lugar. Esta encuesta está abierta a cualquier persona que use, contribuya o reflexione sobre el software de código abierto.
+
+Todas las preguntas son opcionales. Los datos recopilados aquí son anónimos y no se enlazarán a ninguna otra fuente de datos. Nuestra intención no es recopilar ninguna información identificativa personal, y eliminaremos cualquiera que sea proporcionada antes de publicar los datos.
 
 Para propósitos de esta encuesta, «el software de código abierto es software disponible en forma de código fuente bajo términos que permiten a cualquier persona usarlo, modificarlo o distribuirlo para cualquier propósito, tema, a lo sumo, con condiciones que preserven el origen y transparencia». Sabemos que hay distintas ideologías detrás del software libre y de código abierto (FOSS) y código abierto (OSS); usamos el término general «código abierto» aquí por simplicidad, no como muestra de apoyo a una comunidad sobre la otra.
 
-Haga click aquí para tomar la encuesta
 
 ## Formas de participación
 
@@ -27,6 +26,8 @@ La gente participa en código abierto de diferentes formas. ¿En cuál de las si
 [[[Q2
 **CONTRIBUTOR-TYPE**
 (grid)]]]
+
+_if PARTICIPATION-TYPE(4) == 1, then:_
 
 ¿Con qué frecuencia participa en cada una de las siguientes actividades?
 
@@ -97,15 +98,18 @@ Las siguientes preguntas son sobre aspectos que son importantes para usted al de
 **OSS-USER-PRIORITIES**
 (grid)]]]
 
+_If PARTICIPATION-TYPE(2) == 1 or PARTICIPATION-TYPE(3)==1 or PARTICIPATION-TYPE(4)==1,, then:_
+
+
 Cuando considera usar código abierto, ¿qué tan importantes son los siguientes aspectos?
 
 
-    | Muy importante que haya | Algo importante que haya   | No es importante que haya  |  Algo importante que no haya | Muy importante que no haya
+    | Muy importante que haya | Algo importante que haya   | No es importante que haya  |  Algo importante que no haya | Muy importante que no haya | No sé lo que es esto
 
 [[[ _(1)_ ]]] Una licencia de código abierto
 [[[ _(2)_ ]]] Un código de conducta
 [[[ _(3)_ ]]] Una guía para contribuciones
-[[[ _(4)_ ]]] Un acuerdo de licencia para el colaborador
+[[[ _(4)_ ]]] Un acuerdo de licencia para el colaborador (CLA)
 [[[ _(5)_ ]]] Un desarrollo activo
 [[[ _(6)_ ]]] Mantenedores receptivos
 [[[ _(7)_ ]]] Una comunidad acogedora
@@ -115,43 +119,25 @@ Cuando considera usar código abierto, ¿qué tan importantes son los siguientes
 **OSS-CONTRIBUTOR-PRIORITIES**
 (grid)]]]
 
+_if PARTICIPATION-TYPE(4) ==1, then:_
+
 Cuando considera si contribuir o no en un proyecto de código abierto, ¿qué tan importantes son los siguientes aspectos?
 
 
-    | Muy importante que haya | Algo importante que haya   | No es importante que haya  |  Algo importante que no haya | Muy importante que no haya
+    | Muy importante que haya | Algo importante que haya   | No es importante que haya  |  Algo importante que no haya | Muy importante que no haya | No sé lo que es esto
 
 [[[ _(1)_ ]]] Una licencia de código abierto
 [[[ _(2)_ ]]] Un código de conducta
 [[[ _(3)_ ]]] Una guía para contribuciones
-[[[ _(4)_ ]]] Un acuerdo de licencia para el colaborador
+[[[ _(4)_ ]]] Un acuerdo de licencia para el colaborador (CLA)
 [[[ _(5)_ ]]] Un desarrollo activo
 [[[ _(6)_ ]]] Mantenedores receptivos
 [[[ _(7)_ ]]] Una comunidad acogedora
 [[[ _(8)_ ]]] Uso generalizado
 
 
+
 [[[Q9
-**USER-VALUES**
-(grid) ]]]
-
-Al usar cualquier tipo de software, ¿qué tan importantes son los siguientes aspectos para usted?
-
-|   | Extremadamente importante | Muy importante | Moderadamente importante | Ligeramente importante | Nada importante |
-
-Estabilidad (compatibilidad retroactiva, actualizaciones continuas)
-Innovación (cambios rápidos y potencialmente innovadores)
-Replicabilidad (archivo de versiones a largo plazo para que el comportamiento exacto del código puede replicarse)
-Compatibilidad (es compatible con muchas versiones de diferentes paquetes)
-Seguridad (protege los datos de acceso no autorizado)
-Costo (costo financiero de adquisición y configuración)
-Transparencia (capacidad para saber exactamente qué es lo que está haciendo el código)
-Experiencia del usuario (interfaz de uso intuitivo y fácil)
-Personalización/modificación (capacidad de personalizarlo para mis necesidades)
-Disponibilidad de asistencia técnica (disponibilidad de personas competentes para ayudar con problemas)
-Confiable (producto de una persona, comunidad o compañía en la que confíe)
-
-
-[[[Q10
 **SEEK-OPEN-SOURCE**
 (single choice)]]]
 
@@ -164,7 +150,7 @@ Confiable (producto de una persona, comunidad o compañía en la que confíe)
 
 
 
-[[[Q11
+[[[Q10
 **OSS-UX**
 (single choice)]]]
 
@@ -175,7 +161,7 @@ Confiable (producto de una persona, comunidad o compañía en la que confíe)
  [[[ - _(3)_ ]]] Más o menos igual
 
 
-[[[Q12
+[[[Q11
 **OSS-SECURITY**
 (single choice)]]]
 
@@ -187,7 +173,7 @@ Confiable (producto de una persona, comunidad o compañía en la que confíe)
 
 
 
-[[[Q13
+[[[Q12
 **OSS-STABILITY**
 (single choice)]]]
 
@@ -198,7 +184,7 @@ Confiable (producto de una persona, comunidad o compañía en la que confíe)
  [[[ - _(3)_]]] Más o menos igual
 
 
-[[[Q14
+[[[Q13
 **INTERNAL-EFFICACY**
 (single choice)]]]
 
@@ -211,7 +197,7 @@ Tengo las aptitudes y conocimientos necesarios para realizar contribuciones de i
 [[[ - _(5)_ ]]] Muy en desacuerdo
 
 
-[[[Q15
+[[[Q14
 **EXTERNAL-EFFICACY**
 (single choice)]]]
 
@@ -224,7 +210,7 @@ La comunidad de código abierto valora las contribuciones de gente como yo.
 [[[ - _(5)_ ]]] Muy en desacuerdo
 
 
-[[[Q16
+[[[Q15
 **OSS-IDENTIFICATION**
 (single choice)]]]
 
@@ -236,12 +222,50 @@ Me considero parte de la comunidad de código abierto (o software libre y de có
 [[[ - _(4)_ ]]] Algo en desacuerdo
 [[[ - _(5)_ ]]] Muy en desacuerdo
 
+
+[[[Q16
+**USER-VALUES**
+(grid) ]]]
+
+_row order randomized_
+
+Al usar cualquier tipo de software, ¿qué tan importantes son los siguientes aspectos para usted?
+
+|   | Extremadamente importante | Muy importante | Moderadamente importante | Ligeramente importante | Nada importante |
+
+Estabilidad 
+Innovación 
+Replicabilidad 
+Compatibilidad 
+Seguridad 
+Costo 
+Transparencia
+Experiencia del usuario 
+Personalización/modificación 
+Disponibilidad de asistencia técnica 
+Confiable
+
+
 ## Transparencia vs. privacidad
 
 Las siguientes preguntas son sobre prácticas y actitudes de privacidad y transparencia, ambas dentro del código abierto y en Internet en general.
 
 
 [[[Q17
+**TRANSPARENCY-PRIVACY-BELIEFS**
+(single choice)]]]
+
+¿Cuál de las siguientes afirmaciones es más cercana a su opinión acerca de la atribución en el desarrollo de software?
+
+_rotate order_
+
+[[[ - _(1)_ ]]] Se deben exigir registros de autoría para que los usuarios finales sepan quién creó el software con el que están trabajando.
+
+[[[ - _(2)_ ]]] La gente podría contribuir con código sin atribución si desean permanecer anónimos.
+
+
+
+[[[Q18
 **INFO-AVAILABILITY**
 (single choice)]]]
 
@@ -255,26 +279,16 @@ En general, ¿cuánta información sobre usted está disponible públicamente en
 
 
 
-[[[Q18
+[[[Q19
 **INFO-JOB**
 (single choice)]]]
+
+_If EMPLOYMENT-STATUS != 5, then:_
 
 ¿Cree usted que es necesario publicar información personal en Internet por razones profesionales?
 
 [[[ - _(1)_ ]]] Sí
 [[[ - _(2)_ ]]] No
-
-
-[[[Q19
-**TRANSPARENCY-PRIVACY-BELIEFS**
-(single choice)]]]
-
-¿Cuál de las siguientes afirmaciones es más cercana a su opinión acerca de la atribución en el desarrollo de software?
-
-
-[[[ - _(1)_ ]]] Se deben exigir registros de autoría para que los usuarios finales sepan quién creó el software con el que están trabajando.
-o
-[[[ - _(2)_ ]]] La gente podría contribuir con código sin atribución si desean permanecer anónimos.
 
 
 
@@ -296,7 +310,7 @@ o
 **TRANSPARENCY-PRIVACY-PRACTICES-OSS**
 (single choice)]]]
 
-
+_if PARTICIPATION-TYPE(4)==1, then:_
 
 ¿Cuál de las siguientes afirmaciones describe mejor sus prácticas al realizar contribuciones de código abierto?
 
@@ -316,7 +330,11 @@ Las siguientes preguntas son sobre cómo la gente encuentra y busca ayuda dentro
 **RECEIVED-HELP**
 (single choice) ]]]
 
-Algunas personas trabajan y usan proyectos de código abiertos solas, mientras que otras reciben ayuda de otros usuarios y colaboradores. Otras personas pueden ayudar con problemas técnicos, entendiendo los estándares y normas de la comunidad y presentando a otras personas involucradas en el proyecto o en otros relacionados.  ¿Ha recibido alguna vez algún tipo de ayuda de otras personas en relación al uso o contribución a proyectos de código abierto?
+Algunas personas trabajan y usan proyectos de código abiertos solas, mientras que otras reciben ayuda de otros usuarios y colaboradores. Otras personas pueden ayudar con problemas técnicos, entendiendo los estándares y normas de la comunidad y presentando a otras personas involucradas en el proyecto o en otros relacionados.  
+
+¿Ha recibido alguna vez algún tipo de ayuda de otras personas en relación al uso o contribución a proyectos de código abierto?
+
+_randomize order_
 
 [[[ - _(1)_ ]]] Sí
 [[[ - _(2)_ ]]] No
@@ -326,6 +344,7 @@ Algunas personas trabajan y usan proyectos de código abiertos solas, mientras q
 **FIND-HELPER**
 (single choice)]]]
 
+_if RECEIVED-HELP == 1, then:_
 
 Teniendo en cuenta el caso más reciente en el que alguien le ayudó, ¿cómo encontró a alguien que le ayudara?
 
@@ -339,7 +358,7 @@ Teniendo en cuenta el caso más reciente en el que alguien le ayudó, ¿cómo en
 **HELPER-PRIOR-RELATIONSHIP**
 (single choice)]]]
 
-[[[_if RECEIVED-HELP == 1, then:_ ]]]
+_if RECEIVED-HELP == 1, then:_
 
 ¿Cuál de las siguientes afirmaciones describe mejor su relación anterior con la persona que le ayudó?
 
@@ -354,6 +373,7 @@ Teniendo en cuenta el caso más reciente en el que alguien le ayudó, ¿cómo en
 **RECEIVED-HELP-TYPE**
 (single choice)]]]
 
+_if RECEIVED-HELP == 1, then:_
 
 ¿Con qué tipo de problema le ayudaron?
 
@@ -370,6 +390,8 @@ Teniendo en cuenta el caso más reciente en el que alguien le ayudó, ¿cómo en
 
 ¿Ha ayudado alguna vez a otra persona o grupo en un proyecto de código abierto?
 
+_randomize order_
+
 [[[ - _(1)_ ]]] Sí
 [[[ - _(2)_ ]]] No
 
@@ -378,6 +400,7 @@ Teniendo en cuenta el caso más reciente en el que alguien le ayudó, ¿cómo en
 **FIND-HELPEES**
 (single choice)]]]
 
+_if PROVIDED-HELP == 1, then:_
 
 Teniendo en cuenta el caso más reciente en el que haya ayudado a alguien, ¿cómo llegó usted a ayudarle?
 
@@ -391,7 +414,7 @@ Teniendo en cuenta el caso más reciente en el que haya ayudado a alguien, ¿có
 **HELPEE-PRIOR-RELATIONSHIP**
 (single choice)]]]
 
-[[[_if PROVIDED-HELP == 1, then:_]]]
+_if PROVIDED-HELP == 1, then:_
 
 ¿Cuál es la opción que mejor describe su relación anterior con la persona a la que ayudó?
 
@@ -405,7 +428,7 @@ Teniendo en cuenta el caso más reciente en el que haya ayudado a alguien, ¿có
 **PROVIDED-HELP-TYPE**
 (single choice)]]]
 
-¿Con qué tipo de problema le ayudó?
+_if PROVIDED-HELP == 1, then:_
 
 [[[ - _(1)_ ]]] Ayuda al escribir código o para implementar ideas.
 [[[ - _(2)_ ]]] Ayuda a instalar o usar una aplicación.
@@ -424,6 +447,8 @@ El siguiente conjunto de preguntas es sobre las experiencias interpersonales neg
 (grid)]]]
 
  ¿Ha observado alguna vez alguno de los siguientes comportamientos en el contexto de un proyecto de código abierto?
+
+_row order randomized_
 
        |  No | Sí |
 
@@ -456,6 +481,7 @@ El siguiente conjunto de preguntas es sobre las experiencias interpersonales neg
 [[[ _(9)_ ]]] Estereotipación basada en características demográficas percibidas
 [[[ _(10)_ ]]] Divulgación malintencionada de información personal (doxxing)
 ]]] _(11)_ ]]] Otro (por favor, describa)
+]]] _(12)_ ]]] Ninguna de las opciones anteriores
 
 
 [[[Q32
@@ -476,28 +502,28 @@ El siguiente conjunto de preguntas es sobre las experiencias interpersonales neg
 [[[ _(9)_ ]]] Estereotipación basada en características demográficas percibidas
 [[[ _(10)_ ]]] Divulgación malintencionada de información personal (doxxing)
 [[[ _(11)_ ]]] Otro (por favor, describa)
+]]] _(12)_ ]]] Ninguna de las opciones anteriores
 
 
 [[[Q33
 **HARASSMENT-RESPONSE**
 (multiple response)]]]
 
-[[[_if  any HARASSMENT-EXPERIENCE == 1, then:_]]]
+_if HARASSMENT-EXPERIENCE(12)!=1, then:_
 
 Teniendo en cuenta la última vez que experimento acoso, ¿cómo respondió? Escoja todas las respuestas que correspondan.
 
-[[[_If HARASSMENT-RESPONSE(1) is selected, all other options should be grayed out._]]]
+_If HARASSMENT-RESPONSE(9) is selected, all other options should be grayed out._
 
-[[[ - _(1)_ ]]] No reaccioné / ignoré el incidente.
-[[[ - _(2)_ ]]] Pedí al usuario que parará el comportamiento de acoso.
-[[[ - _(3)_ ]]] Solicité ayuda a otros usuarios de la comunidad.
-[[[ - _(4)_ ]]] Bloqueé al usuario(s) que me acosaba.
-[[[ - _(5)_ ]]] Informe del incidente a los mantenedores del proyecto.
-[[[ - _(6)_ ]]] Informe del incidente al servicio de alojamiento o al proveedor de servicio de Internet.
-[[[ - _(7)_ ]]] Consulté a un asesor jurídico / un abogado.
-[[[ - _(8)_ ]]] Contacté a la policía.
-[[[ - _(9)_ ]]] Otro (por favor, describa)
-
+[[[ - _(1)_ ]]] Pedí al usuario que parará el comportamiento de acoso.
+[[[ - _(2)_ ]]] Solicité ayuda a otros usuarios de la comunidad.
+[[[ - _(3)_ ]]] Bloqueé al usuario(s) que me acosaba.
+[[[ - _(4)_ ]]] Informe del incidente a los mantenedores del proyecto.
+[[[ - _(5)_ ]]] Informe del incidente al servicio de alojamiento o al proveedor de servicio de Internet.
+[[[ - _(6)_ ]]] Consulté a un asesor jurídico / un abogado.
+[[[ - _(7)_ ]]] Contacté a la policía.
+[[[ - _(8)_ ]]] Otro (por favor, describa)
+[[[ - _(9)_ ]]] No reaccioné / ignoré el incidente.
 
 [[[Q34
 **RESPONSE-EFFECTIVENESS**
@@ -506,6 +532,7 @@ Teniendo en cuenta la última vez que experimento acoso, ¿cómo respondió? Esc
 ¿Qué tan efectivas fueron las respuestas?
 
   | Nada efectivo | Un poco efectivo  | Algo efectivo | Muy eficaz | Completamente efectivo
+_1 row per option selected in HARASSMENT-RESPONSE_
 
 
 
@@ -515,6 +542,7 @@ Teniendo en cuenta la última vez que experimento acoso, ¿cómo respondió? Esc
 **HARASSMENT-CONSEQUENCES**
 (multiple response)]]]
 
+_if HARASSMENT-EXPERIENCE(12) != 1 or HARASSMENT-WITNESS(12) !=1, then:_
 
 Como resultado de experimentar u observar acoso, ¿cuál de las siguientes acciones realizó (si es que realizó alguna)?
 
@@ -528,6 +556,7 @@ Como resultado de experimentar u observar acoso, ¿cuál de las siguientes accio
 [[[ - _(8)_ ]]] Participé en un debate privado con miembros de la comunidad acerca del problema.
 [[[ - _(9)_ ]]] Hice cambios en mi vida fuera de Internet (p. ej. dejé de asistir a encuentros, conferencias, etc.)
 [[[ - _(10)_ ]]] Otro (por favor, describa)
+[[[ - _(11)_ ]]] Ninguna de las opciones anteriores
 
 
 
@@ -540,6 +569,7 @@ El siguiente conjunto de preguntas es sobre su relación con el software de cód
 **OSS-AS-JOB**
 (single choice)]]]
 
+_if PARTICIPATION-TYPE(4)== 1 and EMPLOYMENT-STATUS < 3, then:_
 
 ¿Contribuye a código abierto como parte de su trabajo profesional? En otras palabras, ¿le pagan por el tiempo que pasa realizando contribuciones de código abierto?
 
@@ -552,6 +582,8 @@ El siguiente conjunto de preguntas es sobre su relación con el software de cód
 [[[Q37
 **OSS-AT-WORK**
 (single choice)]]]
+
+_if EMPLOYMENTMENT-STATUS < 3, then:_
 
 ¿Con qué frecuencia usa software de código abierto en su trabajo profesional?
 
@@ -566,6 +598,7 @@ El siguiente conjunto de preguntas es sobre su relación con el software de cód
 **OSS-IP-POLICY**
 (single choice)]]]
 
+_if PARTICIPATION-TYPE(4) == 1 & EMPLOYMENT-STATUS < 3, then:_
 
 ¿Cómo afecta la política/acuerdo de propiedad intelectual de su lugar de trabajo a las contribuciones que hace en su tiempo libre a proyectos de código abierto no relacionadas con su trabajo?
 
@@ -581,6 +614,7 @@ El siguiente conjunto de preguntas es sobre su relación con el software de cód
 **EMPLOYER-ATTITUDES-APPLICATIONS**
 (single choice)]]]
 
+_if EMPLOYMENT-STATUS < 3, then:_
 
 ¿Cuál de las siguientes afirmaciones está más cerca de la política de su lugar de trabajo acerca del uso de aplicaciones de código abierto?
 
@@ -596,6 +630,7 @@ El siguiente conjunto de preguntas es sobre su relación con el software de cód
 **EMPLOYER-ATTITUDES-DEPENDENCIES**
 (single choice)]]]
 
+_if EMPLOYMENT-STATUS < 3 and PROFESSIONAL-SOFTWARE < 4, then:_
 
 ¿Cuál de las siguientes afirmaciones está más cerca de la política de su lugar de trabajo respecto a incorporar dependencias de código abierto en su código base?
 
@@ -611,6 +646,7 @@ El siguiente conjunto de preguntas es sobre su relación con el software de cód
 **OSS-HIRING**
 (single choice)]]]
 
+_if PARTICIPATION-TYPE == 4 and EMPLOYMENT-STATUS < 3, then:_
 
 ¿Qué tan importante cree usted que fué su participación en código abierto para conseguir su empleo actual?
 
@@ -644,6 +680,7 @@ Las siguientes preguntas son sobre sus características demográficas personales
 **MINORITY-HOMECOUNTRY**
 (single choice)]]]
 
+_if IMMIGRATION < 4, then:_ 
 
 Teniendo en cuenta donde nació, ¿es miembro de una etnia o nacionalidad que es considerada una minoría en tal país?
 
@@ -719,6 +756,8 @@ Teniendo en cuenta donde vive actualmente, ¿es miembro de una etnia o nacionali
 **AGE**
 (dropdown menu)]]]
 
+¿Cuántos años tienes?
+
  [[[ - _(1)_ ]]] 17 años o menos
  [[[ - _(2)_ ]]] De 18 a 24 años
  [[[ - _(3)_ ]]] De 25 a 34 años
@@ -767,8 +806,8 @@ Teniendo en cuenta donde vive actualmente, ¿es miembro de una etnia o nacionali
 ¿Qué edad tenía cuando tuvo acceso regular a un ordenador/computadora con conexión a Internet por primera vez?
 
  [[[ - _(1)_ ]]] Menos de 13 años
- [[[ - _(2)_ ]]] Entre 13 y 18 años
- [[[ - _(3)_ ]]] Entre 18 y 25 años
+ [[[ - _(2)_ ]]] Entre 13 y 17 años
+ [[[ - _(3)_ ]]] Entre 18 y 24 años
  [[[ - _(4)_ ]]] Entre 25 y 45 años
  [[[ - _(5)_ ]]] Más de 45 años
 
@@ -786,19 +825,9 @@ Teniendo en cuenta donde vive actualmente, ¿es miembro de una etnia o nacionali
 [[[ - _(5)_ ]]] Otro (por favor, describa)
 
 
+END
 
-[[[Q54
-**PUBLIC-DATA-RELEASE-CONSENT**
-(single choice + textbox)]]]
-
-Como recordatorio, las respuestas de esta encuesta se publicarán como un conjunto de datos abiertos, disponibles para que cualquiera pueda analizarlos y estudiarlos. A parte de las respuestas, la única otra información que se publicará es un indicador binario sobre si el encuestado procede de GitHub.com o de una comunidad de código abierto externa. Los datos de las respuestas no se enlazarán a ningún metadato como direcciones IP/geografía, información del navegador, idioma de la encuesta o identidad en cualquier proyecto o sitio web.
-
-Haremos todos los esfuerzos posibles para desidentificar los datos previo al lanzamiento. Sin embargo, siempre hay la posibilidad de una reidentificación según las respuestas de la encuesta. Si ha reconsiderado su participación, o quiere que redactemos sus respuestas a cualquier pregunta antes de la publicación, por favor, háganoslo saber a continuación.
-
-[[[ - _(1)_ ]]] Doy mi consentimiento para que se publiquen mis respuestas a esta encuesta.
-[[[ - _(2)_ ]]] Por favor, borren todas mis respuestas.
-[[[ - _(3)_ ]]] Por favor, redacte solo mis respuestas sobre los siguientes temas: (por favor, describa lo mejor que pueda la(s) pregunta(s) en las que quiere que borremos su(s) respuesta(s))
-
+Thank you for participating in the Open Source Survey. We appreciate your time and willingness to contribute to this project. You can follow the project and data release in our public GitHub repo at https://github.com/github/open-source-survey.
 
 
 [[[Miscellaneous Words/Phrases]]]

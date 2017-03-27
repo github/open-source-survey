@@ -1,15 +1,15 @@
 
 
-:wave: Hello! We're studying how people use and think about open source software. Whether you're a long-time maintainer, a new contributor, or an interested browser, we want to hear from you. This survey will take 15 minutes or less, and will be used to create an open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies.
+Hello! We're studying how people use and think about open source software. Whether you're a long-time maintainer, a new contributor, or an interested browser, we want to hear from you. This survey will take 15 minutes or less, and will be used to create an open data set that is freely available to researchers and members of the community to better understand the people who use and create open source technologies.
 
-All questions are optional. The data collected here is anonymous and will not be linked to any other data sources. We aim not to collect any personally identifying information, and will remove any that is provided before publicly releasing the data. 
-
-We're inviting you to take part based on having visited an open source project on GitHub indicating interest in an open source project hosted elsewhere.
+We're inviting you to take part based on having visited an open source project on GitHub or indicating interest in an open source project hosted elsewhere.
 This survey is open to anyone who uses, contributes to, or thinks about open source software.
+
+
+All questions are optional. The data collected here is anonymous and will not be linked to any other data sources. We aim not to collect any personally identifying information, and will remove any that is provided before publicly releasing the data. This survey uses cookies, but only to prevent duplicate responses. To take the survey in Chinese, Japanese, Spanish, or Russian, click the bar titled "Select another language" at the top of this page and choose your preferred language. 
 
 For the purposes of this survey, **open source software is software available in source code form under terms that allow anyone to use, modify, and/or distribute the software for any purpose, subject, at most, to conditions that preserve provenance and openness.**  We acknowledge there are distinct ideologies behind Free/Libré and Open Source Software; we use the general term "open source" here for simplicity rather than as indication of support for one community over another.
 
-[Click here to take the survey](survey link goes here)
 
 ## Contributor Identity
 
@@ -35,12 +35,12 @@ How often do you engage in each of the following activities?
 
                                                                              | Never | Rarely   | Occasionally  |  Frequently
 -------------------------------------------------------------------------------------------|------|------|------|--------------  
-_(1)_ contribute code                                                                         |     |      |      |
-_(2)_ contribute documentation                                                              |     |      |      |
-_(3)_ maintain project (e.g. review and merge contributions, manage releases)  |     |      |     |
-_(4)_ document bugs and unexpected behaviors                                           |     |      |     |
-_(5)_ offer ideas for new features                                               |    |      |      |
-_(6)_ perform organizational/administrative functions (e.g. manage mailing lists, organize events)                     |      |      |      |     
+_(1)_ Contribute code                                                                         |     |      |      |
+_(2)_ Contribute documentation                                                              |     |      |      |
+_(3)_ Maintain project (e.g. review and merge contributions, manage releases)  |     |      |     |
+_(4)_ Report or document bugs and unexpected behaviors                                           |     |      |     |
+_(5)_ Offer ideas for new features                                               |    |      |      |
+_(6)_ Perform organizational/administrative functions (e.g. manage mailing lists, organize events)                     |      |      |      |     
 
 
 Q3
@@ -53,7 +53,7 @@ Which best describes your employment (paid work) status?
 - _(2)_ Employed part time
 - _(3)_ Full time student
 - _(4)_ Temporarily not working
-- _(5)_ Retired / Permanently not working (e.g. unable to work due to disability, etc.)
+- _(5)_ Retired or Permanently not working (e.g. due to disability, etc.)
 - _(6)_ Other (please describe)
 
 
@@ -102,23 +102,21 @@ The following questions ask about the things that are important to you when choo
 Q7
 **OSS-USER-PRIORITIES**
 (grid)
-_If PARTICIPATION-TYPE(2) == 1 or PARTICIPATION-TYPE(3)==1, then:_
+
+_If PARTICIPATION-TYPE(2) == 1 or PARTICIPATION-TYPE(3)==1 or PARTICIPATION-TYPE(4)==1, then:_
 
 When thinking about whether to **use open source software**, how important are the following things?
 
-
-_rotate item order but keep consistent across this block of questions_
-
-    | Very important to have | Somewhat important to have   | Not important either way  |  Somewhat important not to have | Very important not to have
--------------------------------|------|------|------|------|-----|-----------------  
-_(1)_ An open source license                                                                         |     |      |      |
-_(2)_ A code of conduct                                                              |     |      |      |
-_(3)_ A contributing guide                         |     |      |     |
-_(4)_ A contributor's license agreement                                          |     |      |     |
-_(5)_ Active development                                               |    |      |      |
-_(6)_ Responsive maintainers                          |      |      |      |     
-_(7)_ A welcoming community                          |      |      |      |
-_(8)_ Widespread use                        |      |      |      |
+|   | Very important to have | Somewhat important to have   | Not important either way  |  Somewhat important not to have | Very important not to have | Don't know what this is |
+|-------------------------------|------|------|------|------|-----|--------------|  
+_(1)_ An open source license                                                                         |     |      |      | |
+_(2)_ A code of conduct                                                              |     |      |      | |
+_(3)_ A contributing guide                         |     |      |     | |
+_(4)_ A contributor's license agreement  (CLA)                                         |     |      |     ||
+_(5)_ Active development                                               |    |      |      | |
+_(6)_ Responsive maintainers                          |      |      |      | |     
+_(7)_ A welcoming community                          |      |      |      | |
+_(8)_ Widespread use                        |      |      |      | |
 
 
 Q8
@@ -129,45 +127,23 @@ _if PARTICIPATION-TYPE(4) ==1, then:_
 
 When thinking about whether to **contribute to an open source project**, how important are the following things?
 
-_rotate item order but keep consistent across this block of questions_
 
-    | Very important to have | Somewhat important to have   | Not important either way  |  Somewhat important not to have | Very important not to have
--------------------------------|------|------|------|------|-----|-----------------  
-_(1)_ An open source license                                                                         |     |      |      |
-_(2)_ A code of conduct                                                              |     |      |      |
-_(3)_ A contributing guide                         |     |      |     |
-_(4)_ A contributor's license agreement                                          |     |      |     |
-_(5)_ Active development                                               |    |      |      |
-_(6)_ Responsive maintainers                          |      |      |      |     
-_(7)_ A welcoming community                          |      |      |      |
-_(8)_ Widespread use                        |      |      |      |
+|   | Very important to have | Somewhat important to have   | Not important either way  |  Somewhat important not to have | Very important not to have | Don't know what this is |
+|-------------------------------|------|------|------|------|-----|--------------|  
+_(1)_ An open source license                                                                         |     |      |      | |
+_(2)_ A code of conduct                                                              |     |      |      | |
+_(3)_ A contributing guide                         |     |      |     | |
+_(4)_ A contributor's license agreement  (CLA)                                         |     |      |     ||
+_(5)_ Active development                                               |    |      |      | |
+_(6)_ Responsive maintainers                          |      |      |      | |     
+_(7)_ A welcoming community                          |      |      |      | |
+_(8)_ Widespread use                        |      |      |      | |
+
 
 
 
 
 Q9
-**USER-VALUES**
-(grid)
-
-When using any kind of software, how important are the following things to you?
-
-|   | Extremely important | Very important | Moderately important | Slightly important | Not at all important |
-|--------|---------------------|---------------|--------------------|-------------------------------|-------------|
-Stability [Backward compatibility, seamless updates] | | | | | |
-Innovation [fast and potentially disruptive changes] | | | | | |
-Replicability [Long term archival of versions, such that exact behavior of code can be replicated] | | | | | |
-Compatibility [is compatable with many versions of different packages] | | | | | |
-Security [protects data from unauthorized access] | | | | | |
-Cost [financial cost of acquiring and setting up] | | | | | |
-Transparency [ability to know exactly what the code is doing] | | | | | |
-User experience [intuitive and easy to use interface] | | | | | |
-Customizability/Modifiability [ability to customize for my needs] | | | | | |
-Availability of technical support [availability of skilled people to help with problems] | | | | | |
-Trusted producer [product of a person, community, or company that I trust] | | | | | |
-
-
-
-Q10
 **SEEK-OPEN-SOURCE**
 (single choice)
 
@@ -180,11 +156,11 @@ How often do you try to find open source options over other kinds of software?
 
 
 
-Q11
+Q10
 **OSS-UX**
 (single choice)
 
-Do you believe that open source software is generally easier to use than closed source (proprietary) software, harder to use, or about the same?
+Do you believe that open source software is generally easier _to use_ than closed source (proprietary) software, harder to use, or about the same?
 
  - _(1)_ Generally easier to use
  - _(2)_ Generally harder to use
@@ -192,11 +168,11 @@ Do you believe that open source software is generally easier to use than closed 
 
 
 
-Q12
+Q111
 **OSS-SECURITY**
 (single choice)
 
-Do you believe that open source software is generally more secure than closed source (proprietary) software, less secure, or about the same?
+Do you believe that open source software is generally more _secure_ than closed source (proprietary) software, less secure, or about the same?
 
  - _(1)_ Generally more secure
  - _(2)_ Generally less secure
@@ -205,11 +181,11 @@ Do you believe that open source software is generally more secure than closed so
 
 
 
-Q13
+Q12
 **OSS-STABILITY**
 (single choice)
 
-Do you believe that open source software is generally more stable than closed source (proprietary), less stable, or about the same?
+Do you believe that open source software is generally more _stable_ than closed source (proprietary), less stable, or about the same?
 
  - _(1)_ Generally more stable
  - _(2)_ Generally less stable
@@ -217,8 +193,7 @@ Do you believe that open source software is generally more stable than closed so
 
 
 
-
-Q14
+Q13
 **INTERNAL-EFFICACY**
 (single choice)
 
@@ -233,7 +208,7 @@ I have the skills and understanding necessary to make meaningful contributions t
 
 
 
-Q15
+Q14
 **EXTERNAL-EFFICACY**
 (single choice)
 
@@ -247,7 +222,7 @@ The open source community values contributions from people like me.
 
 
 
-Q16
+Q15
 **OSS-IDENTIFICATION**
 (single choice)
 
@@ -260,54 +235,76 @@ I consider myself to be a member of the open source (and/or the Free/Libré soft
 - _(5)_ Strongly disagree
 
 
+Q16
+**USER-VALUES**
+(grid)
+
+_row order randomized_
+
+When using any kind of software, how important are the following things to you?
+
+|   | Extremely important | Very important | Moderately important | Slightly important | Not at all important |
+|--------|---------------------|---------------|--------------------|-------------------------------|-------------|
+Stability | | | | | |
+Innovation  | | | | | |
+Replicability  | | | | | |
+Compatibility  | | | | | |
+Security  | | | | | |
+Cost  | | | | | |
+Transparency  | | | | | |
+User experience  | | | | | |
+Customizability/Modifiability  | | | | | |
+Availability of technical support  | | | | | |
+Trusted producer  | | | | | |
+
+
 
 ## Transparency vs Privacy
 
 The following questions ask about practices and attitudes about privacy and transparency, both within open source and online in general.
 
 
+
 Q17
-**INFO-AVAILABILITY**
-(single choice)
-
-In general, how much information about you is publicly available online?
-
-- _(1)_ A lot of information about me.
-- _(2)_ Some information about me.
-- _(3)_ A small amount of information about me.
-- _(4)_ No information at all about me.
-
-
- 
-
-
-Q18
-**INFO-JOB**
-(single choice)
-_If EMPLOYMENT-STATUS != 5, then:_
-
-Do you feel that you need to make information available about yourself online for professional reasons?
-
-- _(1)_ Yes
-- _(2)_ No
-
-
- 
-
-
-Q19
 **TRANSPARENCY-PRIVACY-BELIEFS**
 (single choice)
 
 Which of the following statements is closest to your beliefs about attribution in software development?
 
-_rotate order_
+_randomize order_
 
 - _(1)_ Records of authorship should be required so that end users know who created the source code they are working with.
 or
 - _(2)_ People should be able to contribute code without attribution, if they wish to remain anonymous.
 
 
+
+
+Q18
+**INFO-AVAILABILITY**
+(single choice)
+
+In general, how much information about you is publicly available online?
+
+- _(1)_ A lot of information about me
+- _(2)_ Some information about me
+- _(3)_ A small amount of information about me
+- _(4)_ No information at all about me
+
+
+ 
+
+
+Q19
+**INFO-JOB**
+(single choice)
+
+_If EMPLOYMENT-STATUS != 5, then:_
+
+Do you feel that you need to make information available about yourself online for professional reasons?
+
+- _(1)_ Yes
+- _(2)_ No
 
 
 
@@ -351,7 +348,12 @@ Q22
 **RECEIVED-HELP**
 (single choice)
 
-Some people work on and use open source projects completely on their own, while others receive help from other users or contributors. Other people can help with technical problems, understanding community standards and norms, and making introductions to other people involved in the project or related ones.  Have you ever received any kind of help from other people related to using or contributing to an open source project?
+
+Some people work on and use open source projects completely on their own, while others receive help from other users or contributors. Other people can help with technical problems, understanding community standards and norms, and making introductions to other people involved in the project or related ones.  
+
+Have you ever _received_ any kind of help from other people related to using or contributing to an open source project?
+
+_randomize order_
 
 - _(1)_ Yes
 - _(2)_ No
@@ -393,9 +395,9 @@ _if RECEIVED-HELP == 1, then:_
 
 What kind of problem did they help you with?
 
-- _(1)_ Help writing code or otherwise implementing ideas.
-- _(2)_ Help installing or using an application.
-- _(3)_ Help understanding community norms (e.g. how to submit a contribution, how to communicate effectively).
+- _(1)_ Writing code or otherwise implementing ideas.
+- _(2)_ Installing or using an application.
+- _(3)_ Understanding community norms (e.g. how to submit a contribution, how to communicate effectively).
 - _(4)_ Introductions to other people.
 - _(5)_ Other (please describe)
 
@@ -404,7 +406,9 @@ Q26
 **PROVIDED-HELP**
  (single choice)
 
-Have you ever provided help for another person on an open source project?
+Have you ever _provided_ help for another person on an open source project?
+
+_randomize order_
 
 - _(1)_ Yes
 - _(2)_ No
@@ -440,11 +444,13 @@ Q29
 **PROVIDED-HELP-TYPE**
 (single choice)
 
+_if PROVIDED-HELP == 1, then:_
+
 What kind of problem did you help them with?
 
-- _(1)_ Help writing code or otherwise implementing ideas
-- _(2)_ Help installing or using an application
-- _(3)_ Help understanding community norms (e.g. how to submit a contribution, how to communicate effectively)
+- _(1)_ Writing code or otherwise implementing ideas
+- _(2)_ Installing or using an application
+- _(3)_ Understanding community norms (e.g. how to submit a contribution, how to communicate effectively)
 - _(4)_ Introductions to other people
 - _(5)_ Other (please describe)
 
@@ -460,6 +466,8 @@ The next set of questions is about negative interpersonal experiences in the con
 Q30
 **DISCOURAGING-BEHAVIOR**
 (grid)
+
+_row order randomized_
 
  Have you ever observed any of the following in the context of an open source project?
 
@@ -494,7 +502,7 @@ _(8)_ Unsolicited sexual advances or comments  |  |  |
 _(9)_ Stereotyping based on perceived demographic characteristics |  |  | 
 _(10)_ Malicious publication of personal information (doxxing) |  |  | 
 _(11)_ Other (please describe) |  |  | 
-
+_(12)_ None of the above |  |  | 
 
 
 Q32
@@ -516,6 +524,7 @@ _(8)_ Unsolicited sexual advances or comments  |  |  |
 _(9)_ Stereotyping based on perceived demographic characteristics |  |  |
 _(10)_ Malicious publication of personal information (doxxing) |  |  |
 _(11)_ Other (please describe) |  |  | 
+_(12)_ None of the above |  |  | 
 
 
 
@@ -524,21 +533,21 @@ Q33
 **HARASSMENT-RESPONSE**
 (multiple response)
 
-_if  any HARASSMENT-EXPERIENCE == 1, then:_
+_if HARASSMENT-EXPERIENCE(12)!=1, then:_
 
 Thinking of the last time you experienced harassment, how did you respond? Choose all that apply.
 
-_If HARASSMENT-RESPONSE(1) is selected, all other options should be grayed out.__
+_If HARASSMENT-RESPONSE(9) is selected, all other options should be grayed out._
 
-- _(1)_ I did not react / ignored the incident 
-- _(2)_ Asked the user(s) to stop the harassing behavior
-- _(3)_ Solicited support from other community members
-- _(4)_ Blocked the user(s) harassing me 
-- _(5)_ Reported the incident to project maintainers
-- _(6)_ Reported the incident to the hosting service or ISP
-- _(7)_ Consulted legal counsel/ an attorney
-- _(8)_ Contacted law enforcement
-- _(9)_ Other (please describe)
+- _(1)_ Asked the user(s) to stop the harassing behavior
+- _(2)_ Solicited support from other community members
+- _(3)_ Blocked the user(s) harassing me 
+- _(4)_ Reported the incident to project maintainers
+- _(5)_ Reported the incident to the hosting service or ISP
+- _(6)_ Consulted legal counsel/ an attorney
+- _(7)_ Contacted law enforcement
+- _(8)_ Other (please describe)
+- _(9)_ I did not react / ignored the incident 
 
 
 
@@ -550,7 +559,7 @@ How effective were the following responses?
 
   | Not at all effective | A little effective  | Somewhat effective | Mostly effective | Completely effective
  -----------|-------|------|-------|--------|--------|
-_1 row per option selected in HARASSMENT-RESPONSE_ |||||
+_1 row per option selected in HARASSMENT-RESPONSE_ 
 
 
 
@@ -559,7 +568,7 @@ Q35
 **HARASSMENT-CONSEQUENCES**
 (multiple response)
 
-_if any HARASSMENT-EXPERIENCE == 1 or any HARASSMENT-WITNESS == 1, then:_
+_if HARASSMENT-EXPERIENCE(12) != 1 or HARASSMENT-WITNESS(12) !=1, then:_
 
 As a result of experiencing or witnessing harassment, which, if any, of the following have you done?
 
@@ -573,6 +582,7 @@ As a result of experiencing or witnessing harassment, which, if any, of the foll
 - _(8)_ Engaged in private discussion with community members about the issue 
 - _(9)_ Made changes in my life offline (e.g. stopped attending meetups or conferences, etc.)
 - _(10)_ Other (please describe)
+- _(11)_ None of the above
 
 
 
@@ -590,8 +600,8 @@ _if PARTICIPATION-TYPE(4)== 1 and EMPLOYMENT-STATUS < 3, then:_
 
 Do you contribute to open source as part of your professional work? In other words, are you paid for any of your time spent on open source contributions?  
 
-- _(1)_ Yes, Directly - some or all of my work duties include contributing to open source projects.
-- _(2)_ Yes, Indirectly - I contribute to open source projects in carrying out other work duties, but am not required or expected to do so.
+- _(1)_ Yes, directly - some or all of my work duties include contributing to open source projects.
+- _(2)_ Yes, indirectly - I contribute to open source projects in carrying out other work duties, but am not required or expected to do so.
 - _(3)_ No.
 
 
@@ -660,7 +670,7 @@ Q41
 **OSS-HIRING**
 (single choice)
 
-_if PARTICIPATION-TYPE == 4 and EMPLOYMENT-STATUS < 3, then:__
+_if PARTICIPATION-TYPE == 4 and EMPLOYMENT-STATUS < 3, then:_
 
 How important do you think your involvement in open source was to getting your current job?
 
@@ -767,6 +777,8 @@ Q49
 **AGE**
 (dropdown menu)
 
+What is your age?
+
  - _(1)_ 17 or younger
  - _(2)_ 18 to 24
  - _(3)_ 25 to 34
@@ -818,8 +830,8 @@ Q52
 How old were you when you first had regular access to a computer with an internet connection?
 
  - _(1)_ Younger than 13 years old
- - _(2)_ Between 13 and 18 years old
- - _(3)_ Between 18 and 25 years old
+ - _(2)_ Between 13 and 17 years old
+ - _(3)_ Between 18 and 24 years old
  - _(4)_ Between 25 and 45 years old
  - _(5)_ Older than 45 years old
 
@@ -838,17 +850,10 @@ Q53
 
 
 
-Q54
-**PUBLIC-DATA-RELEASE-CONSENT**
-(single choice + textbox)
+END
 
-As a reminder, the responses from this survey will be released as an open data set, available for anyone to analyze and study. Aside from responses, the only other information that will be released is a binary indicator of whether a respondent was sourced from GitHub.com traffic or an off-site open source communty. Response data will **not** be linked to any metadata such as IP address/geography, browser information, survey language, or identity on any project or site.
+Thank you for participating in the Open Source Survey. We appreciate your time and willingness to contribute to this project. You can follow the project and data release in our public GitHub repo at https://github.com/github/open-source-survey.
 
-We will make every effort to de-identify data before release. However, there is always a possibility of re-identification based on survey responses. If you've reconsidered participation, or would like us to redact responses to any questions before release, please let us know below.
-
-- _(1)_ I consent to having my responses to this survey released.
-- _(2)_ Please delete all of my responses.
-- _(3)_ Please redact only my responses to the following questions: (please describe as best you can the question(s) to which you'd like us to delete your response(s)) 
 
 
 
