@@ -18,7 +18,7 @@ software | programa, but more commonly, untranslated| программное о�
 code of conduct |código de conducta|Кодекс поведения|行為準則|行動規範|
 contributing guide |Guía para contribuciones|руководство контрибьютора|貢獻指南|コントリビューティングガイド|
 contributor's license agreement |Acuerdo de Licencia para el colaborador|Лицензионноe соглашение контрибьютора (CLA)|授權貢獻同意書|貢献者ライセンス同意書(CLA)|
-Free/Libré | Libre |свободное|自由|自由(Is it free of free software, not free of free beer, right?)|
+Free/Libre | Libre |свободное|自由|自由(Is it free of free software, not free of free beer, right?)|
 pull request |solicitud de descarga|pull request/Пул-реквест|pull request(s)|プルリクエスト(or English term is also ok to use)|
 (GitHub) issue | problema |issue|issue(s)|イシュー/課題|
 hosting service |servicio de alojamiento|услуги хостинга|寄存服務|ホスティングサービス|
