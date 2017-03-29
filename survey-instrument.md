@@ -8,7 +8,7 @@ This survey is open to anyone who uses, contributes to, or thinks about open sou
 
 All questions are optional. The data collected here is anonymous and will not be linked to any other data sources. We aim not to collect any personally identifying information, and will remove any that is provided before publicly releasing the data. This survey uses cookies, but only to prevent duplicate responses. To take the survey in Chinese, Japanese, Spanish, or Russian, click the bar titled "Select another language" at the top of this page and choose your preferred language. 
 
-For the purposes of this survey, **open source software is software available in source code form under terms that allow anyone to use, modify, and/or distribute the software for any purpose, subject, at most, to conditions that preserve provenance and openness.**  We acknowledge there are distinct ideologies behind Free/Libré and Open Source Software; we use the general term "open source" here for simplicity rather than as indication of support for one community over another.
+For the purposes of this survey, **open source software is software available in source code form under terms that allow anyone to use, modify, and/or distribute the software for any purpose, subject, at most, to conditions that preserve provenance and openness.**  We acknowledge there are distinct ideologies behind Free/Libre and Open Source Software; we use the general term "open source" here for simplicity rather than as indication of support for one community over another.
 
 
 ## Contributor Identity
@@ -226,7 +226,7 @@ Q15
 **OSS-IDENTIFICATION**
 (single choice)
 
-I consider myself to be a member of the open source (and/or the Free/Libré software) community.
+I consider myself to be a member of the open source (and/or the Free/Libre software) community.
 
 - _(1)_ Strongly agree
 - _(2)_ Somewhat agree
