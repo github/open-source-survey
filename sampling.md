@@ -38,7 +38,8 @@ Each community will be sent a URL with a unique identifier. Please do not share 
 
 This identifier will be used to ensure the response rate is expected given the size of the community. In the event that the response rate from a community greatly exceeds the expected community size (e.g. a survey URL is published to social media or some other medium that solicits responses from people who are not actively engaged in the community), answers from this community will be omitted from the results to ensure the data set represents the intended population.
 
-Responses from each offsite community _will not_ be segmented in the released data set due to privacy concerns.
+Responses originating from the same community may be linked by an anonymized identifier (e.g. 'offsite_community_01'), but the names of the communities will not be identified in the released data set due to privacy concerns.  
+
 
 ### Frequently Answered Questions
 
