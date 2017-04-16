@@ -33,7 +33,7 @@ _if PARTICIPATION-TYPE(4) == 1, then:_
 
 How often do you engage in each of the following activities?
 
-                                                                             | Never | Rarely   | Occasionally  |  Frequently
+|                                                                             | Never | Rarely   | Occasionally  |  Frequently
 -------------------------------------------------------------------------------------------|------|------|------|--------------  
 _(1)_ Contribute code                                                                         |     |      |      |
 _(2)_ Contribute documentation                                                              |     |      |      |
