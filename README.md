@@ -14,7 +14,7 @@ To build better software, then we need a software community where anyone, regard
 
 ## Open data
 
-Open source is bigger than any company or community. The dataset is released under CC0-1.0 for anyone to use and learn from. See [licenses](#licenses) below for important information.
+Open source is bigger than any company or community. The dataset is released under [CC0-1.0](#license) for anyone to use and learn from.
 
 ## Contributors
 
@@ -31,18 +31,11 @@ This isn't a solo effort for us, these awesome individuals and organizations hav
 
 Check out the [contributing guidelines](./CONTRIBUTING.md) if you want to get involved.
 
-## Licenses
+## License
 
-**Content** is released under [CC-BY-4.0](LICENSE.md), which gives you permission to use content for almost any purpose but does not grant you any trademark permissions, so long as you note the license and give credit, such as follows:
-
-> Content based on [github.com/github/open-source-survey](https://github.com/github/open-source-survey) used under the [CC-BY-4.0](LICENSE.md) license.
-
-This means you can use the content in this repository except for GitHub trademarks in your own projects.
-
-The **results dataset** is open data released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). This means you need no copyright or database right (if any) permissions to make use of this data. However:
+The material in this repo is open data released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). This means you need no copyright or database right (if any) permissions to make use of this data and survey questions. However:
 
 - Survey participants have not waived their privacy rigths; read our [Privacy Statment](https://github.com/site/privacy) regardling [Public Information on GitHub](https://github.com/site/privacy#public-information-on-github). In particular, do not attempt to reidentify survey participants.
 - If you use this dataset in a publication, a link to or citation of this repository would be appreciated.
 - If you extend this dataset, sharing your additions as open data would also be appreciated.
-
-When you contribute to this repository you are doing so under the above licenses.
+- CC0-1.0 does not grant any trademark permissions. GitHub® and its stylized versions and the Invertocat mark are GitHub's Trademarks or registered Trademarks. When using GitHub's logos, be sure to follow the GitHub [logo guidelines](https://github.com/logos).
