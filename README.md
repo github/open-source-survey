@@ -33,7 +33,7 @@ Check out the [contributing guidelines](./CONTRIBUTING.md) if you want to get in
 
 ## License
 
-The material in this repo is open data released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). This means you need no copyright or database right (if any) permissions to make use of this data and survey questions. However:
+The material in this repo is open data released under [CC0-1.0](LICENSE). This means you need no copyright or database right (if any) permissions to make use of this data and survey questions. However:
 
 - Survey participants have not waived their privacy rigths; read our [Privacy Statment](https://github.com/site/privacy) regarding [Public Information on GitHub](https://github.com/site/privacy#public-information-on-github). In particular, do not attempt to reidentify survey participants.
 - If you use this dataset in a publication, a link to or citation of this repository would be appreciated.
