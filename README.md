@@ -2,7 +2,7 @@
 
 [design]: https://github.com/github/open-source-survey/blob/master/design-principles.md
 
-We're running the largest survey of the open source community to date, the results of which will be an open dataset for us all to use and learn from. We hope to answer some of the most pressing questions about open source software, the people that create it, their experience, and their relationship to the industry that depends on it.
+We've run the largest survey of the open source community to date, the results of are an open dataset for us all to use and learn from. We hope the dataset informs some of the most pressing questions about open source software, the people that create it, their experience, and their relationship to the industry that depends on it.
 
 Learn more about the [survey design][design] and the [topics we're studying](https://github.com/github/open-source-survey/blob/master/survey-topics.md).
 
@@ -14,7 +14,7 @@ To build better software, then we need a software community where anyone, regard
 
 ## Open data
 
-Open source is bigger than any company or community. The result of this survey will be an open data set released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) for anyone to use and learn from.
+Open source is bigger than any company or community. The dataset is released under CC0-1.0 for anyone to use and learn from. See [licenses](#licenses) below for important information.
 
 ## Contributors
 
@@ -31,12 +31,18 @@ This isn't a solo effort for us, these awesome individuals and organizations hav
 
 Check out the [contributing guidelines](./CONTRIBUTING.md) if you want to get involved.
 
-## License
+## Licenses
 
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which gives you permission to use content for almost any purpose but does not grant you any trademark permissions, so long as you note the license and give credit, such as follows:
+**Content** is released under [CC-BY-4.0](LICENSE.md), which gives you permission to use content for almost any purpose but does not grant you any trademark permissions, so long as you note the license and give credit, such as follows:
 
-> Content based on [github.com/github/open-source-survey](https://github.com/github/open-source-survey) used under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
+> Content based on [github.com/github/open-source-survey](https://github.com/github/open-source-survey) used under the [CC-BY-4.0](LICENSE.md) license.
 
 This means you can use the content in this repository except for GitHub trademarks in your own projects.
 
-When you contribute to this repository you are doing so under the above license.
+The **results dataset** is open data released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). This means you need no copyright or database right (if any) permissions to make use of this data. However:
+
+- Survey participants have not waived their privacy rigths; read our [Privacy Statment](https://github.com/site/privacy) regardling [Public Information on GitHub](https://github.com/site/privacy#public-information-on-github). In particular, do not attempt to reidentify survey participants.
+- If you use this dataset in a publication, a link to or citation of this repository would be appreciated.
+- If you extend this dataset, sharing your additions as open data would also be appreciated.
+
+When you contribute to this repository you are doing so under the above licenses.
