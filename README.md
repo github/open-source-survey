@@ -35,7 +35,7 @@ Check out the [contributing guidelines](./CONTRIBUTING.md) if you want to get in
 
 The material in this repo is open data released under [CC0-1.0](LICENSE). This means you need no copyright or database right (if any) permissions to make use of this data and survey questions. However:
 
-- Survey participants have not waived their privacy rights; read our [Privacy Statment](https://github.com/site/privacy) regarding [Public Information on GitHub](https://github.com/site/privacy#public-information-on-github). In particular, do not attempt to reidentify survey participants.
+- Survey participants have not waived their privacy rights; read our [Privacy Statement](https://github.com/site/privacy) regarding [Public Information on GitHub](https://github.com/site/privacy#public-information-on-github). In particular, do not attempt to reidentify survey participants.
 - If you use this dataset in a publication, a link to or citation of this repository would be appreciated.
 - If you extend this dataset, sharing your additions as open data would also be appreciated.
 - CC0-1.0 does not grant any trademark permissions. GitHub® and its stylized versions and the Invertocat mark are GitHub's Trademarks or registered Trademarks. When using GitHub's logos, be sure to follow the GitHub [logo guidelines](https://github.com/logos).
