@@ -62,4 +62,5 @@ The data is additionally published on [Zenodo](https://zenodo.org/record/806811)
 
 ## Citations and Reuse
 
+- R. Stuart Geiger [Summary Analysis of the 2017 GitHub Open Source Survey](https://arxiv.org/abs/1706.02777) "presenting frequency counts, proportions, and frequency or proportion bar plots for every question asked in the survey."
 - The LibreOffice Design Team asked users what aspects of open source are important, using questions from the Open Source Survey are important, using questions from the Open Source Survey. Their [summary](https://design.blog.documentfoundation.org/2017/09/13/open-source-means-libreoffice-users/) includes a comparison with Open Source Survey responses, and their data is also released under CC0-1.0.
