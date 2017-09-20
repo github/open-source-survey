@@ -59,3 +59,7 @@ The data is additionally published on [Zenodo](https://zenodo.org/record/806811)
   howpublished = {\url{http://opensourcesurvey.org/2017/}}
 }
 ```
+
+## Citations and Reuse
+
+- The LibreOffice Design Team asked users what aspects of open source are important, using questions from the Open Source Survey are important, using questions from the Open Source Survey. Their [summary](https://design.blog.documentfoundation.org/2017/09/13/open-source-means-libreoffice-users/) includes a comparison with Open Source Survey responses, and their data is also released under CC0-1.0.
