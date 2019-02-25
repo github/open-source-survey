@@ -55,7 +55,7 @@ The data is additionally published on [Zenodo](https://zenodo.org/record/806811)
   month        = jun,
   year         = 2017,
   doi          = {10.5281/zenodo.806811},
-  publisher    = {GitHub, Inc.}
+  publisher    = {GitHub, Inc.},
   howpublished = {\url{http://opensourcesurvey.org/2017/}}
 }
 ```
