@@ -1,0 +1,6 @@
+column,response,year,count,total_count,proportion
+MULT.AI_EMPLOYER_POLICY,Use of open source AI models is acceptable if it is the most appropriate tool.,2024,884,2938,0.3008849557522124
+MULT.AI_EMPLOYER_POLICY,My employer doesn't have a clear policy on this.,2024,673,2938,0.22906739278420693
+MULT.AI_EMPLOYER_POLICY,Use of open source AI models is encouraged.,2024,600,2938,0.2042205582028591
+MULT.AI_EMPLOYER_POLICY,I'm not sure.,2024,479,2938,0.1630360789652825
+MULT.AI_EMPLOYER_POLICY,"Use of open source AI models is rarely, if ever, permitted.",2024,302,2938,0.10279101429543908

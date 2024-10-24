@@ -1,0 +1,25 @@
+column,response,year,count,total_count,proportion
+"Contribute to projects that develop AI infrastructure (e.g. models, datasets, orchestration, evaluation)",Never,2024,3488,4710,0.740552016985138
+"Contribute to projects that develop AI infrastructure (e.g. models, datasets, orchestration, evaluation)",Rarely,2024,600,4710,0.12738853503184713
+"Contribute to projects that develop AI infrastructure (e.g. models, datasets, orchestration, evaluation)",Occasionally,2024,386,4710,0.08195329087048832
+"Contribute to projects that develop AI infrastructure (e.g. models, datasets, orchestration, evaluation)",Frequently,2024,236,4710,0.05010615711252654
+Contribute to projects that use not publicly available AI models (e.g. accessible only through an API) to provide AI-powered features,Never,2024,3577,4718,0.7581602373887241
+Contribute to projects that use not publicly available AI models (e.g. accessible only through an API) to provide AI-powered features,Rarely,2024,553,4718,0.1172106824925816
+Contribute to projects that use not publicly available AI models (e.g. accessible only through an API) to provide AI-powered features,Occasionally,2024,352,4718,0.07460788469690546
+Contribute to projects that use not publicly available AI models (e.g. accessible only through an API) to provide AI-powered features,Frequently,2024,236,4718,0.05002119542178889
+Contribute to projects that use publicly available AI models to provide AI-powered features,Never,2024,3330,4734,0.7034220532319392
+Contribute to projects that use publicly available AI models to provide AI-powered features,Rarely,2024,708,4734,0.14955640050697086
+Contribute to projects that use publicly available AI models to provide AI-powered features,Occasionally,2024,443,4734,0.09357836924376849
+Contribute to projects that use publicly available AI models to provide AI-powered features,Frequently,2024,253,4734,0.05344317701732151
+Use AI assistance in any other task supporting software development,Never,2024,1834,4763,0.3850514381692211
+Use AI assistance in any other task supporting software development,Rarely,2024,1090,4763,0.2288473651060256
+Use AI assistance in any other task supporting software development,Occasionally,2024,1022,4763,0.21457064875078732
+Use AI assistance in any other task supporting software development,Frequently,2024,817,4763,0.171530547973966
+"When doing any of the above, have awareness of and follow applicable ethics/governance/responsibility/safety/security practices",Frequently,2024,1080,3658,0.2952433023510115
+"When doing any of the above, have awareness of and follow applicable ethics/governance/responsibility/safety/security practices",Never,2024,1062,3658,0.2903225806451613
+"When doing any of the above, have awareness of and follow applicable ethics/governance/responsibility/safety/security practices",Occasionally,2024,866,3658,0.23674138873701475
+"When doing any of the above, have awareness of and follow applicable ethics/governance/responsibility/safety/security practices",Rarely,2024,650,3658,0.17769272826681246
+Write code or documentation with assistance from AI,Frequently,2024,1309,4772,0.27430846605196985
+Write code or documentation with assistance from AI,Never,2024,1300,4772,0.27242246437552387
+Write code or documentation with assistance from AI,Occasionally,2024,1230,4772,0.25775356244761105
+Write code or documentation with assistance from AI,Rarely,2024,933,4772,0.1955155071248952

@@ -1,0 +1,506 @@
+modeling_column,response_2024,response_2017
+ONEHOT.PARTICIPATION_TYPE.FOLLOW,Follow updates and discussions of open source projects,1
+ONEHOT.PARTICIPATION_TYPE.USE_APPLICATIONS,Use open source applications,1
+ONEHOT.PARTICIPATION_TYPE.USE_DEPENDENCIES,Use open source dependencies in other projects,1
+ONEHOT.PARTICIPATION_TYPE.CONTRIBUTE,"Participate in open source development (including making feature requests, filing bugs, contribution of docs or code, project maintenance, etc.)",1
+LIKERT.CONTRIBUTOR_TYPE.CONTRIBUTE_CODE,Frequently,Frequently
+LIKERT.CONTRIBUTOR_TYPE.CONTRIBUTE_CODE,Never,Never
+LIKERT.CONTRIBUTOR_TYPE.CONTRIBUTE_CODE,Occasionally,Occasionally
+LIKERT.CONTRIBUTOR_TYPE.CONTRIBUTE_CODE,Rarely,Rarely
+LIKERT.CONTRIBUTOR_TYPE.CONTRIBUTE_DOCS,Frequently,Frequently
+LIKERT.CONTRIBUTOR_TYPE.CONTRIBUTE_DOCS,Never,Never
+LIKERT.CONTRIBUTOR_TYPE.CONTRIBUTE_DOCS,Occasionally,Occasionally
+LIKERT.CONTRIBUTOR_TYPE.CONTRIBUTE_DOCS,Rarely,Rarely
+LIKERT.CONTRIBUTOR_TYPE.PROJECT_MAINTENANCE,Frequently,Frequently
+LIKERT.CONTRIBUTOR_TYPE.PROJECT_MAINTENANCE,Never,Never
+LIKERT.CONTRIBUTOR_TYPE.PROJECT_MAINTENANCE,Occasionally,Occasionally
+LIKERT.CONTRIBUTOR_TYPE.PROJECT_MAINTENANCE,Rarely,Rarely
+LIKERT.CONTRIBUTOR_TYPE.FILE_BUGS,Frequently,Frequently
+LIKERT.CONTRIBUTOR_TYPE.FILE_BUGS,Never,Never
+LIKERT.CONTRIBUTOR_TYPE.FILE_BUGS,Occasionally,Occasionally
+LIKERT.CONTRIBUTOR_TYPE.FILE_BUGS,Rarely,Rarely
+LIKERT.CONTRIBUTOR_TYPE.FEATURE_REQUESTS,Frequently,Frequently
+LIKERT.CONTRIBUTOR_TYPE.FEATURE_REQUESTS,Never,Never
+LIKERT.CONTRIBUTOR_TYPE.FEATURE_REQUESTS,Occasionally,Occasionally
+LIKERT.CONTRIBUTOR_TYPE.FEATURE_REQUESTS,Rarely,Rarely
+LIKERT.CONTRIBUTOR_TYPE.COMMUNITY_ADMIN,Frequently,Frequently
+LIKERT.CONTRIBUTOR_TYPE.COMMUNITY_ADMIN,Never,Never
+LIKERT.CONTRIBUTOR_TYPE.COMMUNITY_ADMIN,Occasionally,Occasionally
+LIKERT.CONTRIBUTOR_TYPE.COMMUNITY_ADMIN,Rarely,Rarely
+MULT.EMPLOYMENT_STATUS,Employed full time,Employed full time
+MULT.EMPLOYMENT_STATUS,Employed part time,Employed part time
+MULT.EMPLOYMENT_STATUS,Full time student,Full time student
+MULT.EMPLOYMENT_STATUS,Other (please describe),Other - please describe
+MULT.EMPLOYMENT_STATUS,"Retired or Permanently not working (e.g. due to disability, etc.)",Retired or permanently not working (e.g. due to disability)
+MULT.EMPLOYMENT_STATUS,Temporarily not working,Temporarily not working
+LIKERT.PROFESSIONAL_SOFTWARE,Frequently,Frequently
+LIKERT.PROFESSIONAL_SOFTWARE,Never,Never
+LIKERT.PROFESSIONAL_SOFTWARE,Occasionally,Occasionally
+LIKERT.PROFESSIONAL_SOFTWARE,Rarely,Rarely
+LIKERT.FUTURE_CONTRIBUTION_INTEREST,Not interested at all,Not at all interested
+LIKERT.FUTURE_CONTRIBUTION_INTEREST,Not too interested,Not too interested
+LIKERT.FUTURE_CONTRIBUTION_INTEREST,Somewhat interested,Somewhat interested
+LIKERT.FUTURE_CONTRIBUTION_INTEREST,Very interested,Very interested
+POSNEG.FUTURE_CONTRIBUTION_LIKELIHOOD,Somewhat likely,Somewhat likely
+POSNEG.FUTURE_CONTRIBUTION_LIKELIHOOD,Somewhat unlikely,Somewhat unlikely
+POSNEG.FUTURE_CONTRIBUTION_LIKELIHOOD,Very likely,Very likely
+POSNEG.FUTURE_CONTRIBUTION_LIKELIHOOD,Very unlikely,Very unlikely
+POSNEG.OSS_USER_PRIORITIES.LICENSE,Don't know what this is,Don't know what this is
+POSNEG.OSS_USER_PRIORITIES.LICENSE,Not important either way,Not important either way
+POSNEG.OSS_USER_PRIORITIES.LICENSE,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_USER_PRIORITIES.LICENSE,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_USER_PRIORITIES.LICENSE,Very important not to have,Very important not to have
+POSNEG.OSS_USER_PRIORITIES.LICENSE,Very important to have,Very important to have
+POSNEG.OSS_USER_PRIORITIES.COC,Don't know what this is,Don't know what this is
+POSNEG.OSS_USER_PRIORITIES.COC,Not important either way,Not important either way
+POSNEG.OSS_USER_PRIORITIES.COC,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_USER_PRIORITIES.COC,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_USER_PRIORITIES.COC,Very important not to have,Very important not to have
+POSNEG.OSS_USER_PRIORITIES.COC,Very important to have,Very important to have
+POSNEG.OSS_USER_PRIORITIES.CONTRIBUTING_GUIDE,Don't know what this is,Don't know what this is
+POSNEG.OSS_USER_PRIORITIES.CONTRIBUTING_GUIDE,Not important either way,Not important either way
+POSNEG.OSS_USER_PRIORITIES.CONTRIBUTING_GUIDE,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_USER_PRIORITIES.CONTRIBUTING_GUIDE,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_USER_PRIORITIES.CONTRIBUTING_GUIDE,Very important not to have,Very important not to have
+POSNEG.OSS_USER_PRIORITIES.CONTRIBUTING_GUIDE,Very important to have,Very important to have
+POSNEG.OSS_USER_PRIORITIES.CLA,Don't know what this is,Don't know what this is
+POSNEG.OSS_USER_PRIORITIES.CLA,Not important either way,Not important either way
+POSNEG.OSS_USER_PRIORITIES.CLA,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_USER_PRIORITIES.CLA,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_USER_PRIORITIES.CLA,Very important not to have,Very important not to have
+POSNEG.OSS_USER_PRIORITIES.CLA,Very important to have,Very important to have
+POSNEG.OSS_USER_PRIORITIES.ACTIVE_DEVELOPMENT,Don't know what this is,Don't know what this is
+POSNEG.OSS_USER_PRIORITIES.ACTIVE_DEVELOPMENT,Not important either way,Not important either way
+POSNEG.OSS_USER_PRIORITIES.ACTIVE_DEVELOPMENT,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_USER_PRIORITIES.ACTIVE_DEVELOPMENT,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_USER_PRIORITIES.ACTIVE_DEVELOPMENT,Very important not to have,Very important not to have
+POSNEG.OSS_USER_PRIORITIES.ACTIVE_DEVELOPMENT,Very important to have,Very important to have
+POSNEG.OSS_USER_PRIORITIES.RESPONSIVE_MAINTAINERS,Don't know what this is,Don't know what this is
+POSNEG.OSS_USER_PRIORITIES.RESPONSIVE_MAINTAINERS,Not important either way,Not important either way
+POSNEG.OSS_USER_PRIORITIES.RESPONSIVE_MAINTAINERS,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_USER_PRIORITIES.RESPONSIVE_MAINTAINERS,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_USER_PRIORITIES.RESPONSIVE_MAINTAINERS,Very important not to have,Very important not to have
+POSNEG.OSS_USER_PRIORITIES.RESPONSIVE_MAINTAINERS,Very important to have,Very important to have
+POSNEG.OSS_USER_PRIORITIES.WELCOMING_COMMUNITY,Don't know what this is,Don't know what this is
+POSNEG.OSS_USER_PRIORITIES.WELCOMING_COMMUNITY,Not important either way,Not important either way
+POSNEG.OSS_USER_PRIORITIES.WELCOMING_COMMUNITY,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_USER_PRIORITIES.WELCOMING_COMMUNITY,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_USER_PRIORITIES.WELCOMING_COMMUNITY,Very important not to have,Very important not to have
+POSNEG.OSS_USER_PRIORITIES.WELCOMING_COMMUNITY,Very important to have,Very important to have
+POSNEG.OSS_USER_PRIORITIES.WIDESPREAD_USE,Don't know what this is,Don't know what this is
+POSNEG.OSS_USER_PRIORITIES.WIDESPREAD_USE,Not important either way,Not important either way
+POSNEG.OSS_USER_PRIORITIES.WIDESPREAD_USE,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_USER_PRIORITIES.WIDESPREAD_USE,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_USER_PRIORITIES.WIDESPREAD_USE,Very important not to have,Very important not to have
+POSNEG.OSS_USER_PRIORITIES.WIDESPREAD_USE,Very important to have,Very important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.LICENSE,Don't know what this is,Don't know what this is
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.LICENSE,Not important either way,Not important either way
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.LICENSE,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.LICENSE,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.LICENSE,Very important not to have,Very important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.LICENSE,Very important to have,Very important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.COC,Don't know what this is,Don't know what this is
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.COC,Not important either way,Not important either way
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.COC,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.COC,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.COC,Very important not to have,Very important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.COC,Very important to have,Very important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CONTRIBUTING_GUIDE,Don't know what this is,Don't know what this is
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CONTRIBUTING_GUIDE,Not important either way,Not important either way
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CONTRIBUTING_GUIDE,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CONTRIBUTING_GUIDE,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CONTRIBUTING_GUIDE,Very important not to have,Very important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CONTRIBUTING_GUIDE,Very important to have,Very important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CLA,Don't know what this is,Don't know what this is
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CLA,Not important either way,Not important either way
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CLA,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CLA,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CLA,Very important not to have,Very important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CLA,Very important to have,Very important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.ACTIVE_DEVELOPMENT,Don't know what this is,Don't know what this is
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.ACTIVE_DEVELOPMENT,Not important either way,Not important either way
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.ACTIVE_DEVELOPMENT,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.ACTIVE_DEVELOPMENT,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.ACTIVE_DEVELOPMENT,Very important not to have,Very important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.ACTIVE_DEVELOPMENT,Very important to have,Very important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.RESPONSIVE_MAINTAINERS,Don't know what this is,Don't know what this is
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.RESPONSIVE_MAINTAINERS,Not important either way,Not important either way
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.RESPONSIVE_MAINTAINERS,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.RESPONSIVE_MAINTAINERS,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.RESPONSIVE_MAINTAINERS,Very important not to have,Very important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.RESPONSIVE_MAINTAINERS,Very important to have,Very important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WELCOMING_COMMUNITY,Don't know what this is,Don't know what this is
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WELCOMING_COMMUNITY,Not important either way,Not important either way
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WELCOMING_COMMUNITY,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WELCOMING_COMMUNITY,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WELCOMING_COMMUNITY,Very important not to have,Very important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WELCOMING_COMMUNITY,Very important to have,Very important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WIDESPREAD_USE,Don't know what this is,Don't know what this is
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WIDESPREAD_USE,Not important either way,Not important either way
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WIDESPREAD_USE,Somewhat important not to have,Somewhat important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WIDESPREAD_USE,Somewhat important to have,Somewhat important to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WIDESPREAD_USE,Very important not to have,Very important not to have
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WIDESPREAD_USE,Very important to have,Very important to have
+LIKERT.SEEK_OPEN_SOURCE,Always,Always
+LIKERT.SEEK_OPEN_SOURCE,Never,Never
+LIKERT.SEEK_OPEN_SOURCE,Rarely,Rarely
+LIKERT.SEEK_OPEN_SOURCE,Sometimes,Sometimes
+POSNEG.OSS_UX,About the same,About the same
+POSNEG.OSS_UX,Generally easier to use,Generally easier to use
+POSNEG.OSS_UX,Generally harder to use,Generally harder to use
+POSNEG.OSS_SECURITY,About the same,About the same
+POSNEG.OSS_SECURITY,Generally less secure,Generally less secure
+POSNEG.OSS_SECURITY,Generally more secure,Generally more secure
+POSNEG.OSS_STABILITY,About the same,About the same
+POSNEG.OSS_STABILITY,Generally less stable,Generally less stable
+POSNEG.OSS_STABILITY,Generally more stable,Generally more stable
+POSNEG.INTERNAL_EFFICACY,Neither agree nor disagree,Neither agree nor disagree
+POSNEG.INTERNAL_EFFICACY,Somewhat agree,Somewhat agree
+POSNEG.INTERNAL_EFFICACY,Somewhat disagree,Somewhat disagree
+POSNEG.INTERNAL_EFFICACY,Strongly agree,Strongly agree
+POSNEG.INTERNAL_EFFICACY,Strongly disagree,Strongly disagree
+POSNEG.EXTERNAL_EFFICACY,Neither agree nor disagree,Neither agree nor disagree
+POSNEG.EXTERNAL_EFFICACY,Somewhat agree,Somewhat agree
+POSNEG.EXTERNAL_EFFICACY,Somewhat disagree,Somewhat disagree
+POSNEG.EXTERNAL_EFFICACY,Strongly agree,Strongly agree
+POSNEG.EXTERNAL_EFFICACY,Strongly disagree,Strongly disagree
+POSNEG.OSS_IDENTIFICATION,Neither agree nor disagree,Neither agree nor disagree
+POSNEG.OSS_IDENTIFICATION,Somewhat agree,Somewhat agree
+POSNEG.OSS_IDENTIFICATION,Somewhat disagree,Somewhat disagree
+POSNEG.OSS_IDENTIFICATION,Strongly agree,Strongly agree
+POSNEG.OSS_IDENTIFICATION,Strongly disagree,Strongly disagree
+LIKERT.USER_VALUES.STABILITY,Extremely important,Extremely important
+LIKERT.USER_VALUES.STABILITY,Moderately important,Moderately important
+LIKERT.USER_VALUES.STABILITY,Not at all important,Not at all important
+LIKERT.USER_VALUES.STABILITY,Slightly important,Slightly important
+LIKERT.USER_VALUES.STABILITY,Very important,Very important
+LIKERT.USER_VALUES.INNOVATION,Extremely important,Extremely important
+LIKERT.USER_VALUES.INNOVATION,Moderately important,Moderately important
+LIKERT.USER_VALUES.INNOVATION,Not at all important,Not at all important
+LIKERT.USER_VALUES.INNOVATION,Slightly important,Slightly important
+LIKERT.USER_VALUES.INNOVATION,Very important,Very important
+LIKERT.USER_VALUES.REPLICABILITY,Extremely important,Extremely important
+LIKERT.USER_VALUES.REPLICABILITY,Moderately important,Moderately important
+LIKERT.USER_VALUES.REPLICABILITY,Not at all important,Not at all important
+LIKERT.USER_VALUES.REPLICABILITY,Slightly important,Slightly important
+LIKERT.USER_VALUES.REPLICABILITY,Very important,Very important
+LIKERT.USER_VALUES.COMPATIBILITY,Extremely important,Extremely important
+LIKERT.USER_VALUES.COMPATIBILITY,Moderately important,Moderately important
+LIKERT.USER_VALUES.COMPATIBILITY,Not at all important,Not at all important
+LIKERT.USER_VALUES.COMPATIBILITY,Slightly important,Slightly important
+LIKERT.USER_VALUES.COMPATIBILITY,Very important,Very important
+LIKERT.USER_VALUES.SECURITY,Extremely important,Extremely important
+LIKERT.USER_VALUES.SECURITY,Moderately important,Moderately important
+LIKERT.USER_VALUES.SECURITY,Not at all important,Not at all important
+LIKERT.USER_VALUES.SECURITY,Slightly important,Slightly important
+LIKERT.USER_VALUES.SECURITY,Very important,Very important
+LIKERT.USER_VALUES.COST,Extremely important,Extremely important
+LIKERT.USER_VALUES.COST,Moderately important,Moderately important
+LIKERT.USER_VALUES.COST,Not at all important,Not at all important
+LIKERT.USER_VALUES.COST,Slightly important,Slightly important
+LIKERT.USER_VALUES.COST,Very important,Very important
+LIKERT.USER_VALUES.TRANSPARENCY,Extremely important,Extremely important
+LIKERT.USER_VALUES.TRANSPARENCY,Moderately important,Moderately important
+LIKERT.USER_VALUES.TRANSPARENCY,Not at all important,Not at all important
+LIKERT.USER_VALUES.TRANSPARENCY,Slightly important,Slightly important
+LIKERT.USER_VALUES.TRANSPARENCY,Very important,Very important
+LIKERT.USER_VALUES.USER_EXPERIENCE,Extremely important,Extremely important
+LIKERT.USER_VALUES.USER_EXPERIENCE,Moderately important,Moderately important
+LIKERT.USER_VALUES.USER_EXPERIENCE,Not at all important,Not at all important
+LIKERT.USER_VALUES.USER_EXPERIENCE,Slightly important,Slightly important
+LIKERT.USER_VALUES.USER_EXPERIENCE,Very important,Very important
+LIKERT.USER_VALUES.CUSTOMIZABILITY,Extremely important,Extremely important
+LIKERT.USER_VALUES.CUSTOMIZABILITY,Moderately important,Moderately important
+LIKERT.USER_VALUES.CUSTOMIZABILITY,Not at all important,Not at all important
+LIKERT.USER_VALUES.CUSTOMIZABILITY,Slightly important,Slightly important
+LIKERT.USER_VALUES.CUSTOMIZABILITY,Very important,Very important
+LIKERT.USER_VALUES.SUPPORT,Extremely important,Extremely important
+LIKERT.USER_VALUES.SUPPORT,Moderately important,Moderately important
+LIKERT.USER_VALUES.SUPPORT,Not at all important,Not at all important
+LIKERT.USER_VALUES.SUPPORT,Slightly important,Slightly important
+LIKERT.USER_VALUES.SUPPORT,Very important,Very important
+LIKERT.USER_VALUES.TRUSTED_PRODUCER,Extremely important,Extremely important
+LIKERT.USER_VALUES.TRUSTED_PRODUCER,Moderately important,Moderately important
+LIKERT.USER_VALUES.TRUSTED_PRODUCER,Not at all important,Not at all important
+LIKERT.USER_VALUES.TRUSTED_PRODUCER,Slightly important,Slightly important
+LIKERT.USER_VALUES.TRUSTED_PRODUCER,Very important,Very important
+BIN.TRANSPARENCY_PRIVACY_BELIEFS,"People should be able to contribute code without attribution, if they wish to remain anonymous.","People should be able to contribute code without attribution, if they wish to remain anonymous."
+BIN.TRANSPARENCY_PRIVACY_BELIEFS,Records of authorship should be required so that end users know who created the source code they are working with.,Records of authorship should be required so that end users know who created the source code they are working with.
+LIKERT.INFO_AVAILABILITY,A lot of information about me,A lot of information about me
+LIKERT.INFO_AVAILABILITY,A small amount of information about me,A little information about me
+LIKERT.INFO_AVAILABILITY,No information at all about me,No information at all about me
+LIKERT.INFO_AVAILABILITY,Some information about me,Some information about me
+BIN.INFO_JOB,No,No
+BIN.INFO_JOB,Yes,Yes
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_GENERAL,I don't publish this kind of content online.,I don't publish this kind of content online.
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_GENERAL,I include my real name.,I include my real name.
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_GENERAL,I take precautions to use different pseudonymns on different platforms.,I take precautions to use different pseudonymns on different platforms.
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_GENERAL,I usually use a consistent pseudonym that is easily linked to my real name online.,I usually use a consistent pseudonym that is easily linked to my real name online.
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_GENERAL,I usually use a consistent pseudonym that is not linked anywhere with my real name online.,I usually use a consistent pseudonym that is not linked anywhere with my real name online.
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I include my real name.,I include my real name.
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I take precautions to use different pesudonymns in different projects.,"I take precautions to use different usernames  in different projects."
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I usually contribute using a consistent pseudonym that is easily linked to my real name online.,I usually contribute using a consistent pseudonym that is easily linked to my real name online.
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I usually contribute using a consistent pseudonym that is not linked anywhere with my real name online.,"I usually contribute using a consistent pseudonym that is not linked anywhere with my real name online. "
+BIN.RECEIVED_HELP,No,No
+BIN.RECEIVED_HELP,Yes,Yes
+MULT.FIND_HELPER,I asked a specific person for help.,I asked a specific person for help.
+MULT.FIND_HELPER,"I asked for help in a public forum (e.g. in a GitHub issue/pull request, project mailing list, etc.) and someone responded.","I asked for help in a public forum (e.g. in a GitHub Issue, project mailing list, etc.) and someone responded."
+MULT.FIND_HELPER,Other (please describe),Other - Please describe
+MULT.FIND_HELPER,Someone offered me unsolicited help.,Someone offered me unsolicited help.
+LIKERT.HELPER_PRIOR_RELATIONSHIP,"I knew of them through their contributions to projects, but didn't know them personally.","I knew of them through their contributions to projects, but didn't know them personally."
+LIKERT.HELPER_PRIOR_RELATIONSHIP,"Total strangers, I didn't know of them previously.","Total strangers, I didn't know of them previously."
+LIKERT.HELPER_PRIOR_RELATIONSHIP,We knew each other a little.,We knew each other a little.
+LIKERT.HELPER_PRIOR_RELATIONSHIP,We knew each other well.,We knew each other well.
+MULT.RECEIVED_HELP_TYPE,Installing or using an application.,Installing or using an application.
+MULT.RECEIVED_HELP_TYPE,Introductions to other people.,Introductions to other people
+MULT.RECEIVED_HELP_TYPE,Other (please describe),Other (please describe)
+MULT.RECEIVED_HELP_TYPE,"Understanding community norms (e.g. how to submit a contribution, how to communicate effectively).","Understanding community norms (e.g. how to submit a contribution, how to communicate effectively)."
+MULT.RECEIVED_HELP_TYPE,Writing code or otherwise implementing ideas.,Writing code or otherwise implementing ideas.
+BIN.PROVIDED_HELP,No,No
+BIN.PROVIDED_HELP,Yes,Yes
+MULT.FIND_HELPEE,I reached out to them to offer unsolicited help.,I reached out to them to offer unsolicited help.
+MULT.FIND_HELPEE,Other (please describe),Other (please describe)
+MULT.FIND_HELPEE,"They asked for help in a public forum (e.g. in a GitHub Issue/pull request, project mailing list, etc.) and I responded.","They asked for help in a public forum (e.g. in a GitHub Issue, project mailing list, etc.) and I responded."
+MULT.FIND_HELPEE,They asked me directly for help.,They asked me directly for help.
+LIKERT.HELPEE_PRIOR_RELATIONSHIP,"I knew of them through their contributions to projects, but didn't know them personally.","I knew of them through their contributions to projects, but didn't know them personally."
+LIKERT.HELPEE_PRIOR_RELATIONSHIP,"Total strangers, I didn't know of them previously.","Total strangers, I didn't know of them previously."
+LIKERT.HELPEE_PRIOR_RELATIONSHIP,We knew each other a little.,"We knew each other  a little."
+LIKERT.HELPEE_PRIOR_RELATIONSHIP,We knew each other well.,We knew each other well.
+MULT.PROVIDED_HELP_TYPE,Installing or using an application,Installing or using an application.
+MULT.PROVIDED_HELP_TYPE,Introductions to other people,Introductions to other people.
+MULT.PROVIDED_HELP_TYPE,Other (please describe),Other (please describe)
+MULT.PROVIDED_HELP_TYPE,"Understanding community norms (e.g. how to submit a contribution, how to communicate effectively)","Understanding community norms (e.g. how to submit a contribution, how to communicate effectively)."
+MULT.PROVIDED_HELP_TYPE,Writing code or otherwise implementing ideas,Writing code or otherwise implementing ideas.
+BIN.DISCOURAGING_BEHAVIOR.LACK_OF_RESPONSE,No,No
+BIN.DISCOURAGING_BEHAVIOR.LACK_OF_RESPONSE,Yes,Yes
+BIN.DISCOURAGING_BEHAVIOR.REJECTION_WOUT_EXPLANATION,No,No
+BIN.DISCOURAGING_BEHAVIOR.REJECTION_WOUT_EXPLANATION,Yes,Yes
+BIN.DISCOURAGING_BEHAVIOR.DISMISSIVE_RESPONSE,No,No
+BIN.DISCOURAGING_BEHAVIOR.DISMISSIVE_RESPONSE,Yes,Yes
+BIN.DISCOURAGING_BEHAVIOR.BAD_DOCS,No,No
+BIN.DISCOURAGING_BEHAVIOR.BAD_DOCS,Yes,Yes
+BIN.DISCOURAGING_BEHAVIOR.CONFLICT,No,No
+BIN.DISCOURAGING_BEHAVIOR.CONFLICT,Yes,Yes
+BIN.DISCOURAGING_BEHAVIOR.UNWELCOMING_LANGUAGE,No,No
+BIN.DISCOURAGING_BEHAVIOR.UNWELCOMING_LANGUAGE,Yes,Yes
+ONEHOT.NEGATIVE_WITNESS.NONE_OF_THE_ABOVE,None of the above,1
+ONEHOT.NEGATIVE_WITNESS.RUDENESS,Hostility or rudeness,1
+ONEHOT.NEGATIVE_WITNESS.NAME_CALLING,Name calling,1
+ONEHOT.NEGATIVE_WITNESS.THREATS,Threats of violence,1
+ONEHOT.NEGATIVE_WITNESS.IMPERSONATION,Impersonation,1
+ONEHOT.NEGATIVE_WITNESS.SUSTAINED_HARASSMENT,Harassment over a sustained period,1
+ONEHOT.NEGATIVE_WITNESS.CROSS_PLATFORM_HARASSMENT,Harassment across multiple platforms,1
+ONEHOT.NEGATIVE_WITNESS.STALKING,Stalking,1
+ONEHOT.NEGATIVE_WITNESS.SEXUAL_ADVANCES,Unsolicited sexual advances or comments,1
+ONEHOT.NEGATIVE_WITNESS.STEREOTYPING,Stereotyping based on perceived demographic characteristics,1
+ONEHOT.NEGATIVE_WITNESS.DOXXING,Malicious publication of personal information (doxxing),1
+ONEHOT.NEGATIVE_EXPERIENCE.NONE_OF_THE_ABOVE,None of the above,1
+ONEHOT.NEGATIVE_EXPERIENCE.RUDENESS,Hostility or rudeness,1
+ONEHOT.NEGATIVE_EXPERIENCE.NAME_CALLING,Name calling,1
+ONEHOT.NEGATIVE_EXPERIENCE.THREATS,Threats of violence,1
+ONEHOT.NEGATIVE_EXPERIENCE.IMPERSONATION,Impersonation,1
+ONEHOT.NEGATIVE_EXPERIENCE.SUSTAINED_HARASSMENT,Harassment over a sustained period,1
+ONEHOT.NEGATIVE_EXPERIENCE.CROSS_PLATFORM_HARASSMENT,Harassment across multiple platforms,1
+ONEHOT.NEGATIVE_EXPERIENCE.STALKING,Stalking,1
+ONEHOT.NEGATIVE_EXPERIENCE.SEXUAL_ADVANCES,Unsolicited sexual advances or comments,1
+ONEHOT.NEGATIVE_EXPERIENCE.STEREOTYPING,Stereotyping based on perceived demographic characteristics,1
+ONEHOT.NEGATIVE_EXPERIENCE.DOXXING,Malicious publication of personal information (doxxing),1
+ONEHOT.NEGATIVE_RESPONSE.IGNORED,I did not react / ignored the incident,1
+ONEHOT.NEGATIVE_RESPONSE.ASKED_USER_TO_STOP,Asked the user(s) to stop the harassing behavior,1
+ONEHOT.NEGATIVE_RESPONSE.SOLICITED_COMMUNITY_SUPPORT,Solicited support from other community members,1
+ONEHOT.NEGATIVE_RESPONSE.BLOCKED_USER,Blocked the user(s) harassing me,1
+ONEHOT.NEGATIVE_RESPONSE.REPORTED_TO_MAINTAINERS,Reported the incident to project maintainers,1
+ONEHOT.NEGATIVE_RESPONSE.REPORTED_TO_HOST_OR_ISP,Reported the incident to the hosting service or ISP,1
+ONEHOT.NEGATIVE_RESPONSE.CONSULTED_LEGAL_COUNSEL,Consulted legal counsel/ an attorney,1
+ONEHOT.NEGATIVE_RESPONSE.CONTACTED_LAW_ENFORCEMENT,Contacted law enforcement,1
+LIKERT.RESPONSE_EFFECTIVENESS.ASKED_USER_TO_STOP,A little effective,A little effective
+LIKERT.RESPONSE_EFFECTIVENESS.ASKED_USER_TO_STOP,Completely effective,Completely effective
+LIKERT.RESPONSE_EFFECTIVENESS.ASKED_USER_TO_STOP,Mostly effective,Mostly effective
+LIKERT.RESPONSE_EFFECTIVENESS.ASKED_USER_TO_STOP,Not at all effective,Not at all effective
+LIKERT.RESPONSE_EFFECTIVENESS.ASKED_USER_TO_STOP,Somewhat effective,Somewhat effective
+LIKERT.RESPONSE_EFFECTIVENESS.SOLICITED_COMMUNITY_SUPPORT,A little effective,A little effective
+LIKERT.RESPONSE_EFFECTIVENESS.SOLICITED_COMMUNITY_SUPPORT,Completely effective,Completely effective
+LIKERT.RESPONSE_EFFECTIVENESS.SOLICITED_COMMUNITY_SUPPORT,Mostly effective,Mostly effective
+LIKERT.RESPONSE_EFFECTIVENESS.SOLICITED_COMMUNITY_SUPPORT,Not at all effective,Not at all effective
+LIKERT.RESPONSE_EFFECTIVENESS.SOLICITED_COMMUNITY_SUPPORT,Somewhat effective,Somewhat effective
+LIKERT.RESPONSE_EFFECTIVENESS.BLOCKED_USER,A little effective,A little effective
+LIKERT.RESPONSE_EFFECTIVENESS.BLOCKED_USER,Completely effective,Completely effective
+LIKERT.RESPONSE_EFFECTIVENESS.BLOCKED_USER,Mostly effective,Mostly effective
+LIKERT.RESPONSE_EFFECTIVENESS.BLOCKED_USER,Not at all effective,Not at all effective
+LIKERT.RESPONSE_EFFECTIVENESS.BLOCKED_USER,Somewhat effective,Somewhat effective
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_MAINTAINERS,A little effective,A little effective
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_MAINTAINERS,Completely effective,Completely effective
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_MAINTAINERS,Mostly effective,Mostly effective
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_MAINTAINERS,Not at all effective,Not at all effective
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_MAINTAINERS,Somewhat effective,Somewhat effective
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_HOST_OR_ISP,A little effective,A little effective
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_HOST_OR_ISP,Completely effective,Completely effective
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_HOST_OR_ISP,Mostly effective,Mostly effective
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_HOST_OR_ISP,Not at all effective,Not at all effective
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_HOST_OR_ISP,Somewhat effective,Somewhat effective
+LIKERT.RESPONSE_EFFECTIVENESS.CONSULTED_LEGAL_COUNSEL,A little effective,A little effective
+LIKERT.RESPONSE_EFFECTIVENESS.CONSULTED_LEGAL_COUNSEL,Completely effective,Completely effective
+LIKERT.RESPONSE_EFFECTIVENESS.CONSULTED_LEGAL_COUNSEL,Mostly effective,Mostly effective
+LIKERT.RESPONSE_EFFECTIVENESS.CONSULTED_LEGAL_COUNSEL,Not at all effective,Not at all effective
+LIKERT.RESPONSE_EFFECTIVENESS.CONSULTED_LEGAL_COUNSEL,Somewhat effective,Somewhat effective
+LIKERT.RESPONSE_EFFECTIVENESS.CONTACTED_LAW_ENFORCEMENT,A little effective,A little effective
+LIKERT.RESPONSE_EFFECTIVENESS.CONTACTED_LAW_ENFORCEMENT,Completely effective,Completely effective
+LIKERT.RESPONSE_EFFECTIVENESS.CONTACTED_LAW_ENFORCEMENT,Mostly effective,Mostly effective
+LIKERT.RESPONSE_EFFECTIVENESS.CONTACTED_LAW_ENFORCEMENT,Not at all effective,Not at all effective
+LIKERT.RESPONSE_EFFECTIVENESS.CONTACTED_LAW_ENFORCEMENT,Somewhat effective,Somewhat effective
+ONEHOT.NEGATIVE_CONSEQUENCES.NONE_OF_THE_ABOVE,None of the above,1
+ONEHOT.NEGATIVE_CONSEQUENCES.STOPPED_CONTRIBUTING,Stopped contributing to a project,1
+ONEHOT.NEGATIVE_CONSEQUENCES.PSEUDONYM,Started contributing under a pseudonym,1
+ONEHOT.NEGATIVE_CONSEQUENCES.WORK_IN_PRIVATE,"Worked, asked questions, or collaborated in private channels more often",1
+ONEHOT.NEGATIVE_CONSEQUENCES.CHANGE_USERNAME,Changed or deleted a username,1
+ONEHOT.NEGATIVE_CONSEQUENCES.CHANGE_ONLINE_PRESENCE,Removed or changed content on my public online presence,1
+ONEHOT.NEGATIVE_CONSEQUENCES.SUGGEST_COC,Suggested the creation or modification of a Code of Conduct,1
+ONEHOT.NEGATIVE_CONSEQUENCES.PUBLIC_COMMUNITY_DISCUSSION,Engaged in public discussion with community members about the issue,1
+ONEHOT.NEGATIVE_CONSEQUENCES.PRIVATE_COMMUNITY_DISCUSSION,Engaged in private discussion with community members about the issue,1
+ONEHOT.NEGATIVE_CONSEQUENCES.OFFLINE_CHANGES,"Made changes in my life offline (e.g. stopped attending meetups or conferences, etc.)",1
+MULT.OSS_AS_JOB,No.,No.
+MULT.OSS_AS_JOB,"Yes, directly - some or all of my work duties include contributing to open source projects.","Yes, directly-  some or all of my work duties include contributing to open source projects."
+MULT.OSS_AS_JOB,"Yes, indirectly - I contribute to open source projects in carrying out other work duties, but am not required or expected to do so.","Yes, indirectly- I contribute to open source in carrying out my work duties, but I am not required or expected to do so."
+LIKERT.OSS_AT_WORK,Frequently,Frequently
+LIKERT.OSS_AT_WORK,Never,Never
+LIKERT.OSS_AT_WORK,Rarely,Rarely
+LIKERT.OSS_AT_WORK,Sometimes,Sometimes
+MULT.OSS_IP_POLICY,I am free to contribute without asking for permission.,I am free to contribute without asking for permission.
+MULT.OSS_IP_POLICY,I am not permitted to contribute to open source at all.,I am not permitted to contribute to open source at all.
+MULT.OSS_IP_POLICY,I need to ask for permission.,"I am permitted to contribute to open source, but need to ask for permission."
+MULT.OSS_IP_POLICY,I'm not sure.,I'm not sure.
+MULT.OSS_IP_POLICY,My employer doesn't have a clear policy on this.,My employer doesn't have a clear policy on this.
+MULT.OSS_IP_POLICY,Not applicable,Not applicable
+MULT.EMPLOYER_POLICY_APPLICATIONS,I'm not sure.,I'm not sure.
+MULT.EMPLOYER_POLICY_APPLICATIONS,My employer doesn't have a clear policy on this.,My employer doesn't have a clear policy on this.
+MULT.EMPLOYER_POLICY_APPLICATIONS,Not applicable,Not applicable
+MULT.EMPLOYER_POLICY_APPLICATIONS,Use of open source applications is acceptable if it is the most appropriate tool.,Use of open source applications is acceptable if it is the most appropriate tool.
+MULT.EMPLOYER_POLICY_APPLICATIONS,Use of open source applications is encouraged.,Use of open source applications is encouraged.
+MULT.EMPLOYER_POLICY_APPLICATIONS,"Use of open source applications is rarely, if ever, permitted.","Use of open source applications is rarely, if ever, permitted."
+MULT.EMPLOYER_POLICY_DEPENDENCIES,I'm not sure.,I'm not sure.
+MULT.EMPLOYER_POLICY_DEPENDENCIES,My employer doesn't have a clear policy on this.,My employer doesn't have a clear policy on this.
+MULT.EMPLOYER_POLICY_DEPENDENCIES,Not Applicable,Not applicable
+MULT.EMPLOYER_POLICY_DEPENDENCIES,Use of open source dependencies is acceptable if it is the most appropriate tool.,Use of open source dependencies is acceptable if it is the most appropriate tool.
+MULT.EMPLOYER_POLICY_DEPENDENCIES,Use of open source dependencies is encouraged.,Use of open source dependencies is encouraged.
+MULT.EMPLOYER_POLICY_DEPENDENCIES,"Use of open source dependencies is rarely, if ever, permitted.","Use of open source dependencies is rarely, if ever permitted."
+LIKERT.OSS_HIRING,"Not applicable, I hadn't made any contributions when I got this job.",Not applicable-I hadn't made any contributions when I got this job.
+LIKERT.OSS_HIRING,Not at all important,Not at all important
+LIKERT.OSS_HIRING,Not too important,Not too important
+LIKERT.OSS_HIRING,Somewhat important,Somewhat important
+LIKERT.OSS_HIRING,Very important,Very important
+LIKERT.OSS_FINANCIAL_SUPPORT_SELF,Frequently,
+LIKERT.OSS_FINANCIAL_SUPPORT_SELF,Never,
+LIKERT.OSS_FINANCIAL_SUPPORT_SELF,Occasionally,
+LIKERT.OSS_FINANCIAL_SUPPORT_SELF,Rarely,
+LIKERT.OSS_FINANCIAL_SUPPORT_EMPLOYER,Frequently,
+LIKERT.OSS_FINANCIAL_SUPPORT_EMPLOYER,Never,
+LIKERT.OSS_FINANCIAL_SUPPORT_EMPLOYER,Occasionally,
+LIKERT.OSS_FINANCIAL_SUPPORT_EMPLOYER,Rarely,
+LIKERT.OSS_FINANCIAL_SUPPORT_EMPLOYER_INKIND,Frequently,
+LIKERT.OSS_FINANCIAL_SUPPORT_EMPLOYER_INKIND,Never,
+LIKERT.OSS_FINANCIAL_SUPPORT_EMPLOYER_INKIND,Occasionally,
+LIKERT.OSS_FINANCIAL_SUPPORT_EMPLOYER_INKIND,Rarely,
+LIKERT.OSS_FINANCIAL_SUPPORT_GOV,Frequently,
+LIKERT.OSS_FINANCIAL_SUPPORT_GOV,Never,
+LIKERT.OSS_FINANCIAL_SUPPORT_GOV,Occasionally,
+LIKERT.OSS_FINANCIAL_SUPPORT_GOV,Rarely,
+LIKERT.OSS_FINANCIAL_SUPPORT_GOV_INKIND,Frequently,
+LIKERT.OSS_FINANCIAL_SUPPORT_GOV_INKIND,Never,
+LIKERT.OSS_FINANCIAL_SUPPORT_GOV_INKIND,Occasionally,
+LIKERT.OSS_FINANCIAL_SUPPORT_GOV_INKIND,Rarely,
+LIKERT.OSS_FINANCIAL_SUPPORT_INVESTOR,Frequently,
+LIKERT.OSS_FINANCIAL_SUPPORT_INVESTOR,Never,
+LIKERT.OSS_FINANCIAL_SUPPORT_INVESTOR,Occasionally,
+LIKERT.OSS_FINANCIAL_SUPPORT_INVESTOR,Rarely,
+MULT.AI_EMPLOYER_POLICY,I'm not sure.,
+MULT.AI_EMPLOYER_POLICY,My employer doesn't have a clear policy on this.,
+MULT.AI_EMPLOYER_POLICY,Not Applicable,
+MULT.AI_EMPLOYER_POLICY,Use of open source AI models is acceptable if it is the most appropriate tool.,
+MULT.AI_EMPLOYER_POLICY,Use of open source AI models is encouraged.,
+MULT.AI_EMPLOYER_POLICY,"Use of open source AI models is rarely, if ever, permitted.",
+LIKERT.AI_ASSISTANCE_CODE,Frequently,
+LIKERT.AI_ASSISTANCE_CODE,Never,
+LIKERT.AI_ASSISTANCE_CODE,Occasionally,
+LIKERT.AI_ASSISTANCE_CODE,Rarely,
+LIKERT.AI_ASSISTANCE_PLANNING,Frequently,
+LIKERT.AI_ASSISTANCE_PLANNING,Never,
+LIKERT.AI_ASSISTANCE_PLANNING,Occasionally,
+LIKERT.AI_ASSISTANCE_PLANNING,Rarely,
+LIKERT.AI_CONTRIBUTION_OPEN_MODELS,Frequently,
+LIKERT.AI_CONTRIBUTION_OPEN_MODELS,Never,
+LIKERT.AI_CONTRIBUTION_OPEN_MODELS,Occasionally,
+LIKERT.AI_CONTRIBUTION_OPEN_MODELS,Rarely,
+LIKERT.AI_CONTRIBUTION_CLOSED_MODELS,Frequently,
+LIKERT.AI_CONTRIBUTION_CLOSED_MODELS,Never,
+LIKERT.AI_CONTRIBUTION_CLOSED_MODELS,Occasionally,
+LIKERT.AI_CONTRIBUTION_CLOSED_MODELS,Rarely,
+LIKERT.AI.CONTRIBUTION.INFRASTRUCTURE,Frequently,
+LIKERT.AI.CONTRIBUTION.INFRASTRUCTURE,Never,
+LIKERT.AI.CONTRIBUTION.INFRASTRUCTURE,Occasionally,
+LIKERT.AI.CONTRIBUTION.INFRASTRUCTURE,Rarely,
+LIKERT.AI_ETHICS_RESPONSIBILITY,Frequently,
+LIKERT.AI_ETHICS_RESPONSIBILITY,Never,
+LIKERT.AI_ETHICS_RESPONSIBILITY,Occasionally,
+LIKERT.AI_ETHICS_RESPONSIBILITY,Rarely,
+MULT.IMMIGRATION,"No, I live in the country where I was born","No, I live in the country where I was born."
+MULT.IMMIGRATION,"Yes, and I am not sure about my future plans","Yes, and I am not sure about my future plans."
+MULT.IMMIGRATION,"Yes, and I intend to stay permanently","Yes, and I intend to stay permanently."
+MULT.IMMIGRATION,"Yes, and I intend to stay temporarily","Yes, and I intend to stay temporarily."
+BIN.MINORITY_HOMECOUNTRY,No,No
+BIN.MINORITY_HOMECOUNTRY,Not sure,Not sure
+BIN.MINORITY_HOMECOUNTRY,Prefer not to say,Prefer not to say
+BIN.MINORITY_HOMECOUNTRY,Yes,Yes
+BIN.MINORITY_CURRENT_COUNTRY,No,No
+BIN.MINORITY_CURRENT_COUNTRY,Not sure,Not sure
+BIN.MINORITY_CURRENT_COUNTRY,Prefer not to say,Prefer not to say
+BIN.MINORITY_CURRENT_COUNTRY,Yes,Yes
+MULT.GENDER,Man,Man
+MULT.GENDER,Non-binary or Other,"Non-binary  or Other"
+MULT.GENDER,Prefer not to say,Prefer not to say
+MULT.GENDER,Woman,Woman
+BIN.TRANSGENDER_IDENTITY,No,No
+BIN.TRANSGENDER_IDENTITY,Not sure,Not sure
+BIN.TRANSGENDER_IDENTITY,Prefer not to say,Prefer not to say
+BIN.TRANSGENDER_IDENTITY,Yes,Yes
+BIN.SEXUAL_ORIENTATION,No,No
+BIN.SEXUAL_ORIENTATION,Not sure,Not sure
+BIN.SEXUAL_ORIENTATION,Prefer not to say,Prefer not to say
+BIN.SEXUAL_ORIENTATION,Yes,Yes
+LIKERT.WRITTEN_ENGLISH,Moderately Well,Moderately well
+LIKERT.WRITTEN_ENGLISH,Not at all,Not at all
+LIKERT.WRITTEN_ENGLISH,Not well,Not very well
+LIKERT.WRITTEN_ENGLISH,Very well,Very well
+LIKERT.AGE,17 or younger,17 or younger
+LIKERT.AGE,18 to 24,18 to 24 years
+LIKERT.AGE,25 to 34,25 to 34 years
+LIKERT.AGE,35 to 44,35 to 44 years
+LIKERT.AGE,45 to 54,45 to 54 years
+LIKERT.AGE,55 to 64,55 to 64 years
+LIKERT.AGE,65 to 74,65 years or older
+LIKERT.AGE,75 or older,
+LIKERT.AGE,Prefer not say,NA
+LIKERT.FORMAL_EDUCATION,Bachelor’s degree,Bachelor's degree
+LIKERT.FORMAL_EDUCATION,"Doctorate (Ph.D.) or other advanced degree (e.g. M.D., J.D.)","Doctorate (Ph.D.) or other advanced degree (e.g. M.D., J.D.)"
+LIKERT.FORMAL_EDUCATION,Less than secondary (High) school,Less than secondary (high) school
+LIKERT.FORMAL_EDUCATION,Masters’ degree,Master's degree
+LIKERT.FORMAL_EDUCATION,Secondary (High) school graduate or equivalent,Secondary (high) school graduate or equivalent
+LIKERT.FORMAL_EDUCATION,Some college (no degree),"Some college, no degree"
+LIKERT.FORMAL_EDUCATION,Vocational/trade program or apprenticeship,Vocational/trade program or apprenticeship
+LIKERT.PARENTS_FORMAL_EDUCATION,Bachelor’s degree,Bachelor's degree
+LIKERT.PARENTS_FORMAL_EDUCATION,"Doctorate (Ph.D.) or other advanced degree (e.g. M.D., J.D.)","Doctorate (Ph.D.) or other advanced degree (e.g. M.D., J.D.)"
+LIKERT.PARENTS_FORMAL_EDUCATION,Less than secondary (High) school,Less than secondary (high) school
+LIKERT.PARENTS_FORMAL_EDUCATION,Masters’ degree,Master's degree
+LIKERT.PARENTS_FORMAL_EDUCATION,Secondary (High) school graduate or equivalent,Secondary (high) school graduate or equivalent
+LIKERT.PARENTS_FORMAL_EDUCATION,"Some university (college), no degree","Some college, no degree"
+LIKERT.PARENTS_FORMAL_EDUCATION,Vocational/trade program or apprenticeship,Vocational/trade program or apprenticeship
+LIKERT.AGE_AT_FIRST_COMPUTER_INTERNET,Between 13 and 17 years old,13 - 17 years old
+LIKERT.AGE_AT_FIRST_COMPUTER_INTERNET,Between 18 and 24 years old,18 - 24 years old
+LIKERT.AGE_AT_FIRST_COMPUTER_INTERNET,Between 25 and 45 years old,25 - 45 years old
+LIKERT.AGE_AT_FIRST_COMPUTER_INTERNET,Older than 45 years old,Older than 45 years old
+LIKERT.AGE_AT_FIRST_COMPUTER_INTERNET,Younger than 13 years old,Younger than 13 years old
+MULT.LOCATION_OF_FIRST_COMPUTER_INTERNET,At a public library or community center,At a public library or community center
+MULT.LOCATION_OF_FIRST_COMPUTER_INTERNET,At an internet cafe or similar space,At an internet cafe or similar space
+MULT.LOCATION_OF_FIRST_COMPUTER_INTERNET,At home (belonging to me or a family member),At home (belonging to me or a family member)
+MULT.LOCATION_OF_FIRST_COMPUTER_INTERNET,At work (recoded from open ended),At work (recoded from open ended)
+MULT.LOCATION_OF_FIRST_COMPUTER_INTERNET,"In a classroom, computer lab, or library at school","In a classroom, computer lab, or library at school"
+MULT.LOCATION_OF_FIRST_COMPUTER_INTERNET,Other (please describe),Other (please describe)

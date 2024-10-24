@@ -1,0 +1,9 @@
+column,response,year,count,total_count,proportion
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I include my real name.,2017,1543,2565,0.6015594541910332
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I usually contribute using a consistent pseudonym that is easily linked to my real name online.,2017,721,2565,0.28109161793372317
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I usually contribute using a consistent pseudonym that is not linked anywhere with my real name online.,2017,265,2565,0.10331384015594541
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I take precautions to use different pesudonymns in different projects.,2017,36,2565,0.014035087719298246
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I include my real name.,2024,2327,4761,0.4887628649443394
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I usually contribute using a consistent pseudonym that is easily linked to my real name online.,2024,1475,4761,0.3098088636841
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I usually contribute using a consistent pseudonym that is not linked anywhere with my real name online.,2024,878,4761,0.1844150388573829
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,I take precautions to use different pesudonymns in different projects.,2024,81,4761,0.017013232514177693
