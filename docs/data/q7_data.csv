@@ -1,0 +1,103 @@
+column,response,year,count,total_count,proportion
+A code of conduct,Not important either way,2017,1773,4309,0.4114643768855883
+A code of conduct,Somewhat important to have,2017,1304,4309,0.30262241819447666
+A code of conduct,Very important to have,2017,770,4309,0.17869575307495938
+A code of conduct,Don't know what this is,2017,202,4309,0.046878626131352984
+A code of conduct,Somewhat important not to have,2017,146,4309,0.033882571362265024
+A code of conduct,Very important not to have,2017,114,4309,0.026456254351357622
+A code of conduct,Not important either way,2024,2622,6796,0.38581518540317833
+A code of conduct,Somewhat important to have,2024,2018,6796,0.29693937610359034
+A code of conduct,Very important to have,2024,1533,6796,0.2255738669805768
+A code of conduct,Somewhat important not to have,2024,254,6796,0.03737492642731018
+A code of conduct,Don't know what this is,2024,190,6796,0.027957622130665098
+A code of conduct,Very important not to have,2024,179,6796,0.026339022954679225
+A contributing guide,Somewhat important to have,2017,1681,4324,0.3887604070305273
+A contributing guide,Not important either way,2017,1324,4324,0.30619796484736356
+A contributing guide,Very important to have,2017,1113,4324,0.2574005550416281
+A contributing guide,Somewhat important not to have,2017,91,4324,0.021045328399629974
+A contributing guide,Very important not to have,2017,59,4324,0.01364477335800185
+A contributing guide,Don't know what this is,2017,56,4324,0.012950971322849213
+A contributing guide,Somewhat important to have,2024,2337,6786,0.34438549955791337
+A contributing guide,Very important to have,2024,2108,6786,0.31063955201886234
+A contributing guide,Not important either way,2024,2035,6786,0.29988211022693784
+A contributing guide,Somewhat important not to have,2024,152,6786,0.022399056881815503
+A contributing guide,Very important not to have,2024,84,6786,0.01237842617152962
+A contributing guide,Don't know what this is,2024,70,6786,0.01031535514294135
+A contributor's license agreement (CLA),Not important either way,2017,2036,4289,0.4747027279086034
+A contributor's license agreement (CLA),Somewhat important to have,2017,944,4289,0.22009792492422475
+A contributor's license agreement (CLA),Very important to have,2017,460,4289,0.10725110748426206
+A contributor's license agreement (CLA),Don't know what this is,2017,448,4289,0.10445325250641176
+A contributor's license agreement (CLA),Somewhat important not to have,2017,278,4289,0.0648169736535323
+A contributor's license agreement (CLA),Very important not to have,2017,123,4289,0.028678013522965725
+A contributor's license agreement (CLA),Not important either way,2024,2748,6793,0.4045340791991756
+A contributor's license agreement (CLA),Somewhat important to have,2024,1464,6793,0.21551597232445163
+A contributor's license agreement (CLA),Very important to have,2024,1070,6793,0.15751508906227
+A contributor's license agreement (CLA),Don't know what this is,2024,727,6793,0.10702193434417782
+A contributor's license agreement (CLA),Somewhat important not to have,2024,468,6793,0.06889445016929192
+A contributor's license agreement (CLA),Very important not to have,2024,316,6793,0.046518474900633
+A welcoming community,Very important to have,2017,1873,4322,0.43336418324849607
+A welcoming community,Somewhat important to have,2017,1609,4322,0.37228135122628414
+A welcoming community,Not important either way,2017,726,4322,0.16797778806108282
+A welcoming community,Somewhat important not to have,2017,64,4322,0.014807959278111986
+A welcoming community,Very important not to have,2017,32,4322,0.007403979639055993
+A welcoming community,Don't know what this is,2017,18,4322,0.0041647385469689956
+A welcoming community,Very important to have,2024,2912,6837,0.42591780020476816
+A welcoming community,Somewhat important to have,2024,2353,6837,0.34415679391546
+A welcoming community,Not important either way,2024,1338,6837,0.19569986836331724
+A welcoming community,Somewhat important not to have,2024,120,6837,0.017551557700745943
+A welcoming community,Very important not to have,2024,72,6837,0.010530934620447565
+A welcoming community,Don't know what this is,2024,42,6837,0.00614304519526108
+Active development,Very important to have,2017,2533,4341,0.5835061045841972
+Active development,Somewhat important to have,2017,1495,4341,0.3443906933886201
+Active development,Not important either way,2017,240,4341,0.055286800276434005
+Active development,Very important not to have,2017,30,4341,0.006910850034554251
+Active development,Somewhat important not to have,2017,27,4341,0.006219765031098825
+Active development,Don't know what this is,2017,16,4341,0.0036857866850956
+Active development,Very important to have,2024,3818,6836,0.5585137507314218
+Active development,Somewhat important to have,2024,2361,6836,0.3453774136922177
+Active development,Not important either way,2024,488,6836,0.07138677589233469
+Active development,Somewhat important not to have,2024,67,6836,0.009801053247513165
+Active development,Very important not to have,2024,60,6836,0.008777062609713282
+Active development,Don't know what this is,2024,42,6836,0.006143943826799298
+An open source license,Very important to have,2017,2770,4339,0.6383959437658446
+An open source license,Somewhat important to have,2017,1049,4339,0.2417607743719751
+An open source license,Not important either way,2017,414,4339,0.09541368979027426
+An open source license,Don't know what this is,2017,45,4339,0.010371053238073288
+An open source license,Very important not to have,2017,32,4339,0.007374971191518783
+An open source license,Somewhat important not to have,2017,29,4339,0.006683567642313897
+An open source license,Very important to have,2024,4493,6866,0.6543839207690068
+An open source license,Somewhat important to have,2024,1563,6866,0.22764346053014856
+An open source license,Not important either way,2024,573,6866,0.08345470434022721
+An open source license,Don't know what this is,2024,91,6866,0.013253713952810952
+An open source license,Somewhat important not to have,2024,78,6866,0.011360326245266531
+An open source license,Very important not to have,2024,68,6866,0.009903874162540053
+Responsive maintainers,Very important to have,2017,2357,4320,0.5456018518518518
+Responsive maintainers,Somewhat important to have,2017,1614,4320,0.3736111111111111
+Responsive maintainers,Not important either way,2017,265,4320,0.061342592592592594
+Responsive maintainers,Very important not to have,2017,33,4320,0.007638888888888889
+Responsive maintainers,Somewhat important not to have,2017,31,4320,0.007175925925925926
+Responsive maintainers,Don't know what this is,2017,20,4320,0.004629629629629629
+Responsive maintainers,Very important to have,2024,3665,6836,0.536132241076653
+Responsive maintainers,Somewhat important to have,2024,2465,6836,0.3605909888823874
+Responsive maintainers,Not important either way,2024,537,6836,0.07855471035693389
+Responsive maintainers,Somewhat important not to have,2024,71,6836,0.010386190754827385
+Responsive maintainers,Very important not to have,2024,57,6836,0.008338209479227619
+Responsive maintainers,Don't know what this is,2024,41,6836,0.005997659449970743
+Security by design,Very important to have,2024,3064,6815,0.4495964783565664
+Security by design,Somewhat important to have,2024,2540,6815,0.3727072633895818
+Security by design,Not important either way,2024,894,6815,0.13118121790168746
+Security by design,Don't know what this is,2024,138,6815,0.0202494497432135
+Security by design,Somewhat important not to have,2024,115,6815,0.016874541452677916
+Security by design,Very important not to have,2024,64,6815,0.009391049156272927
+Widespread use,Somewhat important to have,2017,1845,4325,0.42658959537572255
+Widespread use,Not important either way,2017,1393,4325,0.32208092485549134
+Widespread use,Very important to have,2017,911,4325,0.21063583815028902
+Widespread use,Somewhat important not to have,2017,105,4325,0.024277456647398842
+Widespread use,Very important not to have,2017,44,4325,0.010173410404624278
+Widespread use,Don't know what this is,2017,27,4325,0.006242774566473989
+Widespread use,Somewhat important to have,2024,2619,6818,0.38413024347315927
+Widespread use,Not important either way,2024,1991,6818,0.292021120563215
+Widespread use,Very important to have,2024,1842,6818,0.27016720445878556
+Widespread use,Somewhat important not to have,2024,201,6818,0.029480786154297448
+Widespread use,Very important not to have,2024,88,6818,0.012907010853622763
+Widespread use,Don't know what this is,2024,77,6818,0.011293634496919919

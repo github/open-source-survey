@@ -1,4 +1,4 @@
-This is an overview of the survey topics we're planning to explore with the 2016 Open Source Survey. Please see [contributing to this survey](./CONTRIBUTING.md) for the ways in which you can help us improve this survey.
+This is an overview of the survey topics we explored in the Open Source Survey. Please see [contributing to this survey](./CONTRIBUTING.md) for the ways in which you can help us improve this survey.
 
 ## Transparency vs Privacy
 
@@ -28,4 +28,16 @@ How representative is open source of the software developer community? Of the wo
 
 Much open source development is subsidized by companies, who either employ engineers to work on open source projects, or allow them to work on those projects when they also provide value to the firm. We’d like to explore how supported developers feel by their employers to contribute to open source i.e. are there IP agreements covering their open source contributions? If so, what do they look like?
 
-In addition, we’d like to explore what the decision making process look like for companies adopting open source/incorporating an open source dependency in their technology stack. 
+## Secure by Design
+
+Security has become an increasingly critical concern in open source software development, as vulnerabilities in widely used projects can have significant global impacts. The concept of "[secure by design](https://www.cisa.gov/resources-tools/resources/secure-by-design)" emphasizes that security should be a fundamental consideration from the earliest stages of project development, rather than an afterthought. This section seeks to understand the community’s priorities around security and the balance between openness and safeguarding against threats.
+
+## AI
+
+Artificial Intelligence (AI) is rapidly transforming industries, and the open source community is playing a key role in this shift by driving the development and accessibility of AI tools and frameworks. This section of the survey explores the evolving role of AI within open source development: How are AI technologies being adopted and integrated into open source project workflows? What are the most common AI-driven applications? This section aims to gauge the open source community’s approach to building and using AI over time.
+
+## Financial and in-kind support
+
+Sustaining open source projects often relies on more than just volunteer contributions; financial and in-kind support play crucial roles in maintaining long-term viability. This section explores the various forms of support available to open source projects and how they are perceived within the community. Key questions include: What are the most common types of financial support (e.g., sponsorships, grants, donations) and how non-financial resources contribute to the success of projects.
+
+In addition, we’d like to explore what the decision making process look like for companies adopting open source/incorporating an open source dependency in their technology stack.

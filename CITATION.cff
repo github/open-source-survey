@@ -1,0 +1,48 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: GitHub Open Source Survey 2024
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - name: 'GitHub, Inc.'
+  - given-names: Kenyatta
+    family-names: Forbes
+  - given-names: Kevin
+    family-names: Xu
+  - given-names: Jeffrey
+    family-names: Luszcz
+  - given-names: Margaret
+    family-names: Tucker
+  - given-names: Eva Maxfield
+    family-names: Brown
+  - given-names: Peter
+    family-names: Cihon
+  - given-names: Mike
+    family-names: Linksvayer
+  - given-names: Ashley
+    family-names: Wolf
+  - given-names: Lukas
+    family-names: Speiß
+  - given-names: Kevin
+    family-names: Crosby
+  - given-names: Jason
+    family-names: Meridth
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.13989018
+repository-code: 'https://github.com/github/open-source-survey'
+url: 'http://opensourcesurvey.org/'
+abstract: >-
+  The Open Source Survey is an open data project by GitHub
+  and collaborators from academia, industry, and the broader
+  open source community.
+keywords:
+  - open data
+  - open source
+  - open source community
+  - survey
+license: CC0-1.0

@@ -1,0 +1,154 @@
+modeling_column,column_2017,column_2024
+ONEHOT.PARTICIPATION_TYPE.FOLLOW,PARTICIPATION.TYPE.FOLLOW,People participate in open source in different ways. Which of the following activities do you engage in? Choose all that apply. | Follow updates and discussions of open source projects
+ONEHOT.PARTICIPATION_TYPE.USE_APPLICATIONS,PARTICIPATION.TYPE.USE.APPLICATIONS,People participate in open source in different ways. Which of the following activities do you engage in? Choose all that apply. | Use open source applications
+ONEHOT.PARTICIPATION_TYPE.USE_DEPENDENCIES,PARTICIPATION.TYPE.USE.DEPENDENCIES,People participate in open source in different ways. Which of the following activities do you engage in? Choose all that apply. | Use open source dependencies in other projects
+ONEHOT.PARTICIPATION_TYPE.CONTRIBUTE,PARTICIPATION.TYPE.CONTRIBUTE,"People participate in open source in different ways. Which of the following activities do you engage in? Choose all that apply. | Participate in open source development (including making feature requests, filing bugs, contribution of docs or code, project maintenance, etc.)"
+ONEHOT.PARTICIPATION_TYPE.OTHER,PARTICIPATION.TYPE.OTHER,People participate in open source in different ways. Which of the following activities do you engage in? Choose all that apply. | Other (please describe)
+LIKERT.CONTRIBUTOR_TYPE.CONTRIBUTE_CODE,CONTRIBUTOR.TYPE.CONTRIBUTE.CODE,How often do you engage in each of the following activities? | Contribute code
+LIKERT.CONTRIBUTOR_TYPE.CONTRIBUTE_DOCS,CONTRIBUTOR.TYPE.CONTRIBUTE.DOCS,How often do you engage in each of the following activities? | Contribute documentation
+LIKERT.CONTRIBUTOR_TYPE.PROJECT_MAINTENANCE,CONTRIBUTOR.TYPE.PROJECT.MAINTENANCE,"How often do you engage in each of the following activities? | Maintain project (e.g. review and merge contributions, manage releases)"
+LIKERT.CONTRIBUTOR_TYPE.FILE_BUGS,CONTRIBUTOR.TYPE.FILE.BUGS,How often do you engage in each of the following activities? | Report or document bugs and unexpected behaviors
+LIKERT.CONTRIBUTOR_TYPE.FEATURE_REQUESTS,CONTRIBUTOR.TYPE.FEATURE.REQUESTS,How often do you engage in each of the following activities? | Offer ideas for new features
+LIKERT.CONTRIBUTOR_TYPE.COMMUNITY_ADMIN,CONTRIBUTOR.TYPE.COMMUNITY.ADMIN,"How often do you engage in each of the following activities? | Perform organizational/administrative functions (e.g. manage mailing lists, organize events)"
+MULT.EMPLOYMENT_STATUS,EMPLOYMENT.STATUS,Which best describes your employment (paid work) status? | Response
+LIKERT.PROFESSIONAL_SOFTWARE,PROFESSIONAL.SOFTWARE,"In your main job, how often do you write or otherwise directly contribute to producing software? | Response"
+LIKERT.FUTURE_CONTRIBUTION_INTEREST,FUTURE.CONTRIBUTION.INTEREST,How interested are you in contributing to open source projects in the future? | Response
+POSNEG.FUTURE_CONTRIBUTION_LIKELIHOOD,FUTURE.CONTRIBUTION.LIKELIHOOD,How likely are you to contribute to open source projects in the future? | Response
+POSNEG.OSS_USER_PRIORITIES.LICENSE,OSS.USER.PRIORITIES.LICENSE,"When thinking about whether to use open source software, how important are the following things? | An open source license"
+POSNEG.OSS_USER_PRIORITIES.COC,OSS.USER.PRIORITIES.CODE.OF.CONDUCT,"When thinking about whether to use open source software, how important are the following things? | A code of conduct"
+POSNEG.OSS_USER_PRIORITIES.CONTRIBUTING_GUIDE,OSS.USER.PRIORITIES.CONTRIBUTING.GUIDE,"When thinking about whether to use open source software, how important are the following things? | A contributing guide"
+POSNEG.OSS_USER_PRIORITIES.CLA,OSS.USER.PRIORITIES.CLA,"When thinking about whether to use open source software, how important are the following things? | A contributor's license agreement (CLA)"
+POSNEG.OSS_USER_PRIORITIES.ACTIVE_DEVELOPMENT,OSS.USER.PRIORITIES.ACTIVE.DEVELOPMENT,"When thinking about whether to use open source software, how important are the following things? | Active development"
+POSNEG.OSS_USER_PRIORITIES.RESPONSIVE_MAINTAINERS,OSS.USER.PRIORITIES.RESPONSIVE.MAINTAINERS,"When thinking about whether to use open source software, how important are the following things? | Responsive maintainers"
+POSNEG.OSS_USER_PRIORITIES.WELCOMING_COMMUNITY,OSS.USER.PRIORITIES.WELCOMING.COMMUNITY,"When thinking about whether to use open source software, how important are the following things? | A welcoming community"
+POSNEG.OSS_USER_PRIORITIES.WIDESPREAD_USE,OSS.USER.PRIORITIES.WIDESPREAD.USE,"When thinking about whether to use open source software, how important are the following things? | Widespread use"
+POSNEG.OSS_USER_PRIORITIES.SECURITY_BY_DESIGN,,"When thinking about whether to use open source software, how important are the following things? | Security by design"
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.LICENSE,OSS.CONTRIBUTOR.PRIORITIES.LICENSE,"When thinking about whether to contribute to an open source project, how important are the following things? | An open source license"
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.COC,OSS.CONTRIBUTOR.PRIORITIES.CODE.OF.CONDUCT,"When thinking about whether to contribute to an open source project, how important are the following things? | A code of conduct"
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CONTRIBUTING_GUIDE,OSS.CONTRIBUTOR.PRIORITIES.CONTRIBUTING.GUIDE,"When thinking about whether to contribute to an open source project, how important are the following things? | A contributing guide"
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.CLA,OSS.CONTRIBUTOR.PRIORITIES.CLA,"When thinking about whether to contribute to an open source project, how important are the following things? | A contributor's license agreement (CLA)"
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.ACTIVE_DEVELOPMENT,OSS.CONTRIBUTOR.PRIORITIES.ACTIVE.DEVELOPMENT,"When thinking about whether to contribute to an open source project, how important are the following things? | Active development"
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.RESPONSIVE_MAINTAINERS,OSS.CONTRIBUTOR.PRIORITIES.RESPONSIVE.MAINTAINERS,"When thinking about whether to contribute to an open source project, how important are the following things? | Responsive maintainers"
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WELCOMING_COMMUNITY,OSS.CONTRIBUTOR.PRIORITIES.WELCOMING.COMMUNITY,"When thinking about whether to contribute to an open source project, how important are the following things? | A welcoming community"
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.WIDESPREAD_USE,OSS.CONTRIBUTOR.PRIORITIES.WIDESPREAD.USE,"When thinking about whether to contribute to an open source project, how important are the following things? | Widespread use"
+POSNEG.OSS_CONTRIBUTOR_PRIORITIES.SECURITY_BY_DESIGN,,"When thinking about whether to contribute to an open source project, how important are the following things? | Security by design"
+LIKERT.SEEK_OPEN_SOURCE,SEEK.OPEN.SOURCE,How often do you try to find open source options over other kinds of software? | Response
+POSNEG.OSS_UX,OSS.UX,"Do you believe that open source software is generally easier to use than closed source (proprietary) software, harder to use, or about the same? | Response"
+POSNEG.OSS_SECURITY,OSS.SECURITY,"Do you believe that open source software is generally more secure than closed source (proprietary) software, less secure, or about the same? | Response"
+POSNEG.OSS_STABILITY,OSS.STABILITY,"Do you believe that open source software is generally more stable than closed source (proprietary), less stable, or about the same? | Response"
+POSNEG.INTERNAL_EFFICACY,INTERNAL.EFFICACY,I have the skills and understanding necessary to make meaningful contributions to open source projects. | Response
+POSNEG.EXTERNAL_EFFICACY,EXTERNAL.EFFICACY,The open source community values contributions from people like me. | Response
+POSNEG.OSS_IDENTIFICATION,OSS.IDENTIFICATION,I consider myself to be a member of the open source (and/or the Free/Libre software) community. | Response
+LIKERT.USER_VALUES.STABILITY,USER.VALUES.STABILITY,"When using any kind of software, how important are the following things to you? | Stability"
+LIKERT.USER_VALUES.INNOVATION,USER.VALUES.INNOVATION,"When using any kind of software, how important are the following things to you? | Innovation"
+LIKERT.USER_VALUES.REPLICABILITY,USER.VALUES.REPLICABILITY,"When using any kind of software, how important are the following things to you? | Replicability"
+LIKERT.USER_VALUES.COMPATIBILITY,USER.VALUES.COMPATIBILITY,"When using any kind of software, how important are the following things to you? | Compatibility"
+LIKERT.USER_VALUES.SECURITY,USER.VALUES.SECURITY,"When using any kind of software, how important are the following things to you? | Security"
+LIKERT.USER_VALUES.COST,USER.VALUES.COST,"When using any kind of software, how important are the following things to you? | Cost"
+LIKERT.USER_VALUES.TRANSPARENCY,USER.VALUES.TRANSPARENCY,"When using any kind of software, how important are the following things to you? | Transparency"
+LIKERT.USER_VALUES.USER_EXPERIENCE,USER.VALUES.USER.EXPERIENCE,"When using any kind of software, how important are the following things to you? | User experience"
+LIKERT.USER_VALUES.CUSTOMIZABILITY,USER.VALUES.CUSTOMIZABILITY,"When using any kind of software, how important are the following things to you? | Customizability/Modifiability"
+LIKERT.USER_VALUES.SUPPORT,USER.VALUES.SUPPORT,"When using any kind of software, how important are the following things to you? | Availability of technical support"
+LIKERT.USER_VALUES.TRUSTED_PRODUCER,USER.VALUES.TRUSTED.PRODUCER,"When using any kind of software, how important are the following things to you? | Trusted producer"
+BIN.TRANSPARENCY_PRIVACY_BELIEFS,TRANSPARENCY.PRIVACY.BELIEFS,Which of the following statements is closest to your beliefs about attribution in software development? | Response
+LIKERT.INFO_AVAILABILITY,INFO.AVAILABILITY,"In general, how much information about you is publicly available online? | Response"
+BIN.INFO_JOB,INFO.JOB,Do you feel that you need to make information available about yourself online for professional reasons? | Response
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_GENERAL,TRANSPARENCY.PRIVACY.PRACTICES.GENERAL,"Which of the following best describes your practices around publishing content online, such as posts on social media (e.g. Facebook, Instagram, Twitter, etc.), blogs, and other platforms (not including contributions to open source projects)? | Response"
+LIKERT.TRANSPARENCY_PRIVACY_PRACTICES_OSS,TRANSPARENCY.PRIVACY.PRACTICES.OSS,Which of the following best describes your practices when making open source contributions? | Response
+BIN.RECEIVED_HELP,RECEIVED.HELP,"Some people work on and use open source projects completely on their own, while others receive help from other users or contributors. Other people can help with technical problems, understanding community standards and norms, and making introductions to other people involved in the project or related ones.Have you ever received any kind of help from other people related to using or contributing to an open source project? | Response"
+MULT.FIND_HELPER,FIND.HELPER,"Thinking of the most recent case where someone helped you, how did you find someone to help you? | Response"
+LIKERT.HELPER_PRIOR_RELATIONSHIP,HELPER.PRIOR.RELATIONSHIP,Which best describes your prior relationship with the person who helped you? | Response
+MULT.RECEIVED_HELP_TYPE,RECEIVED.HELP.TYPE,What kind of problem did they help you with? | Response
+BIN.PROVIDED_HELP,PROVIDED.HELP,Have you ever provided help for another person on an open source project? | Response
+MULT.FIND_HELPEE,FIND.HELPEE,"Thinking of the most recent case where you helped someone, how did you come to help this person? | Response"
+LIKERT.HELPEE_PRIOR_RELATIONSHIP,HELPEE.PRIOR.RELATIONSHIP,Which best describes your prior relationship with the person you helped? | Response
+MULT.PROVIDED_HELP_TYPE,PROVIDED.HELP.TYPE,What kind of problem did you help them with? | Response
+BIN.DISCOURAGING_BEHAVIOR.LACK_OF_RESPONSE,DISCOURAGING.BEHAVIOR.LACK.OF.RESPONSE,Have you ever observed any of the following in the context of an open source project? | Lack of response to contributions or questions
+BIN.DISCOURAGING_BEHAVIOR.REJECTION_WOUT_EXPLANATION,DISCOURAGING.BEHAVIOR.REJECTION.WOUT.EXPLANATION,Have you ever observed any of the following in the context of an open source project? | Rejection of contributions without explanation
+BIN.DISCOURAGING_BEHAVIOR.DISMISSIVE_RESPONSE,DISCOURAGING.BEHAVIOR.DISMISSIVE.RESPONSE,Have you ever observed any of the following in the context of an open source project? | Dismissive responses to contributions or questions
+BIN.DISCOURAGING_BEHAVIOR.BAD_DOCS,DISCOURAGING.BEHAVIOR.BAD.DOCS,Have you ever observed any of the following in the context of an open source project? | Documentation that is incomplete or difficult to understand
+BIN.DISCOURAGING_BEHAVIOR.CONFLICT,DISCOURAGING.BEHAVIOR.CONFLICT,Have you ever observed any of the following in the context of an open source project? | Conflict or interpersonal tension between contributors
+BIN.DISCOURAGING_BEHAVIOR.UNWELCOMING_LANGUAGE,DISCOURAGING.BEHAVIOR.UNWELCOMING.LANGUAGE,"Have you ever observed any of the following in the context of an open source project? | Language or other content that made you feel unwelcome (e.g. profanity, racist jokes, sexual imagery, etc.)"
+ONEHOT.NEGATIVE_WITNESS.NONE_OF_THE_ABOVE,NEGATIVE.WITNESS.NONE.OF.THE.ABOVE,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | None of the above
+ONEHOT.NEGATIVE_WITNESS.RUDENESS,NEGATIVE.WITNESS.RUDENESS,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Hostility or rudeness
+ONEHOT.NEGATIVE_WITNESS.NAME_CALLING,NEGATIVE.WITNESS.NAME.CALLING,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Name calling
+ONEHOT.NEGATIVE_WITNESS.THREATS,NEGATIVE.WITNESS.THREATS,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Threats of violence
+ONEHOT.NEGATIVE_WITNESS.IMPERSONATION,NEGATIVE.WITNESS.IMPERSONATION,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Impersonation
+ONEHOT.NEGATIVE_WITNESS.SUSTAINED_HARASSMENT,NEGATIVE.WITNESS.SUSTAINED.HARASSMENT,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Harassment over a sustained period
+ONEHOT.NEGATIVE_WITNESS.CROSS_PLATFORM_HARASSMENT,NEGATIVE.WITNESS.CROSS.PLATFORM.HARASSMENT,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Harassment across multiple platforms
+ONEHOT.NEGATIVE_WITNESS.STALKING,NEGATIVE.WITNESS.STALKING,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Stalking
+ONEHOT.NEGATIVE_WITNESS.SEXUAL_ADVANCES,NEGATIVE.WITNESS.SEXUAL.ADVANCES,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Unsolicited sexual advances or comments
+ONEHOT.NEGATIVE_WITNESS.STEREOTYPING,NEGATIVE.WITNESS.STEREOTYPING,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Stereotyping based on perceived demographic characteristics
+ONEHOT.NEGATIVE_WITNESS.DOXXING,NEGATIVE.WITNESS.DOXXING,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Malicious publication of personal information (doxxing)
+ONEHOT.NEGATIVE_WITNESS.OTHER,NEGATIVE.WITNESS.OTHER,Have you ever witnessed any of the following behaviors directed at another person in the context of an open source project? (not including something directed at you) | Other (please describe)
+ONEHOT.NEGATIVE_EXPERIENCE.NONE_OF_THE_ABOVE,NEGATIVE.EXPERIENCE.NONE.OF.THE.ABOVE,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | None of the above
+ONEHOT.NEGATIVE_EXPERIENCE.RUDENESS,NEGATIVE.EXPERIENCE.RUDENESS,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Hostility or rudeness
+ONEHOT.NEGATIVE_EXPERIENCE.NAME_CALLING,NEGATIVE.EXPERIENCE.NAME.CALLING,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Name calling
+ONEHOT.NEGATIVE_EXPERIENCE.THREATS,NEGATIVE.EXPERIENCE.THREATS,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Threats of violence
+ONEHOT.NEGATIVE_EXPERIENCE.IMPERSONATION,NEGATIVE.EXPERIENCE.IMPERSONATION,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Impersonation
+ONEHOT.NEGATIVE_EXPERIENCE.SUSTAINED_HARASSMENT,NEGATIVE.EXPERIENCE.SUSTAINED.HARASSMENT,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Harassment over a sustained period
+ONEHOT.NEGATIVE_EXPERIENCE.CROSS_PLATFORM_HARASSMENT,NEGATIVE.EXPERIENCE.CROSS.PLATFORM.HARASSMENT,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Harassment across multiple platforms
+ONEHOT.NEGATIVE_EXPERIENCE.STALKING,NEGATIVE.EXPERIENCE.STALKING,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Stalking
+ONEHOT.NEGATIVE_EXPERIENCE.SEXUAL_ADVANCES,NEGATIVE.EXPERIENCE.SEXUAL.ADVANCES,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Unsolicited sexual advances or comments
+ONEHOT.NEGATIVE_EXPERIENCE.STEREOTYPING,NEGATIVE.EXPERIENCE.STEREOTYPING,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Stereotyping based on perceived demographic characteristics
+ONEHOT.NEGATIVE_EXPERIENCE.DOXXING,NEGATIVE.EXPERIENCE.DOXXING,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Malicious publication of personal information (doxxing)
+ONEHOT.NEGATIVE_EXPERIENCE.OTHER,NEGATIVE.EXPERIENCE.OTHER,Have you ever experienced any of the following behaviors directed at you in the context of an open source project? | Other (please describe)
+ONEHOT.NEGATIVE_RESPONSE.IGNORED,NEGATIVE.RESPONSE.IGNORED,"Thinking of the last time you experienced harassment, how did you respond? Choose all that apply. | I did not react / ignored the incident"
+ONEHOT.NEGATIVE_RESPONSE.ASKED_USER_TO_STOP,NEGATIVE.RESPONSE.ASKED.USER.TO.STOP,"Thinking of the last time you experienced harassment, how did you respond? Choose all that apply. | Asked the user(s) to stop the harassing behavior"
+ONEHOT.NEGATIVE_RESPONSE.SOLICITED_COMMUNITY_SUPPORT,NEGATIVE.RESPONSE.SOLICITED.COMMUNITY.SUPPORT,"Thinking of the last time you experienced harassment, how did you respond? Choose all that apply. | Solicited support from other community members"
+ONEHOT.NEGATIVE_RESPONSE.BLOCKED_USER,NEGATIVE.RESPONSE.BLOCKED.USER,"Thinking of the last time you experienced harassment, how did you respond? Choose all that apply. | Blocked the user(s) harassing me"
+ONEHOT.NEGATIVE_RESPONSE.REPORTED_TO_MAINTAINERS,NEGATIVE.RESPONSE.REPORTED.TO.MAINTAINERS,"Thinking of the last time you experienced harassment, how did you respond? Choose all that apply. | Reported the incident to project maintainers"
+ONEHOT.NEGATIVE_RESPONSE.REPORTED_TO_HOST_OR_ISP,NEGATIVE.RESPONSE.REPORTED.TO.HOST.OR.ISP,"Thinking of the last time you experienced harassment, how did you respond? Choose all that apply. | Reported the incident to the hosting service or ISP"
+ONEHOT.NEGATIVE_RESPONSE.CONSULTED_LEGAL_COUNSEL,NEGATIVE.RESPONSE.CONSULTED.LEGAL.COUNSEL,"Thinking of the last time you experienced harassment, how did you respond? Choose all that apply. | Consulted legal counsel/ an attorney"
+ONEHOT.NEGATIVE_RESPONSE.CONTACTED_LAW_ENFORCEMENT,NEGATIVE.RESPONSE.CONTACTED.LAW.ENFORCEMENT,"Thinking of the last time you experienced harassment, how did you respond? Choose all that apply. | Contacted law enforcement"
+ONEHOT.NEGATIVE_RESPONSE.OTHER,NEGATIVE.RESPONSE.OTHER,"Thinking of the last time you experienced harassment, how did you respond? Choose all that apply. | Other (please describe)"
+LIKERT.RESPONSE_EFFECTIVENESS.ASKED_USER_TO_STOP,RESPONSE.EFFECTIVENESS.ASKED.USER.TO.STOP,How effective were the following responses? | Asked the user(s) to stop the harassing behavior
+LIKERT.RESPONSE_EFFECTIVENESS.SOLICITED_COMMUNITY_SUPPORT,RESPONSE.EFFECTIVENESS.SOLICITED.COMMUNITY.SUPPORT,How effective were the following responses? | Solicited support from other community members
+LIKERT.RESPONSE_EFFECTIVENESS.BLOCKED_USER,RESPONSE.EFFECTIVENESS.BLOCKED.USER,How effective were the following responses? | Blocked the user(s) harassing me
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_MAINTAINERS,RESPONSE.EFFECTIVENESS.REPORTED.TO.MAINTAINERS,How effective were the following responses? | Reported the incident to project maintainers
+LIKERT.RESPONSE_EFFECTIVENESS.REPORTED_TO_HOST_OR_ISP,RESPONSE.EFFECTIVENESS.REPORTED.TO.HOST.OR.ISP,How effective were the following responses? | Reported the incident to the hosting service or ISP
+LIKERT.RESPONSE_EFFECTIVENESS.CONSULTED_LEGAL_COUNSEL,RESPONSE.EFFECTIVENESS.CONSULTED.LEGAL.COUNSEL,How effective were the following responses? | Consulted legal counsel/ an attorney
+LIKERT.RESPONSE_EFFECTIVENESS.CONTACTED_LAW_ENFORCEMENT,RESPONSE.EFFECTIVENESS.CONTACTED.LAW.ENFORCEMENT,How effective were the following responses? | Contacted law enforcement
+LIKERT.RESPONSE_EFFECTIVENESS.OTHER,RESPONSE.EFFECTIVENESS.OTHER,How effective were the following responses? | [Insert text from Other]
+ONEHOT.NEGATIVE_CONSEQUENCES.NONE_OF_THE_ABOVE,NEGATIVE.CONSEQUENCES.NONE.OF.THE.ABOVE,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | None of the above"
+ONEHOT.NEGATIVE_CONSEQUENCES.STOPPED_CONTRIBUTING,NEGATIVE.CONSEQUENCES.STOPPED.CONTRIBUTING,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | Stopped contributing to a project"
+ONEHOT.NEGATIVE_CONSEQUENCES.PSEUDONYM,NEGATIVE.CONSEQUENCES.PSEUDONYM,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | Started contributing under a pseudonym"
+ONEHOT.NEGATIVE_CONSEQUENCES.WORK_IN_PRIVATE,NEGATIVE.CONSEQUENCES.WORK.IN.PRIVATE,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | Worked, asked questions, or collaborated in private channels more often"
+ONEHOT.NEGATIVE_CONSEQUENCES.CHANGE_USERNAME,NEGATIVE.CONSEQUENCES.CHANGE.USERNAME,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | Changed or deleted a username"
+ONEHOT.NEGATIVE_CONSEQUENCES.CHANGE_ONLINE_PRESENCE,NEGATIVE.CONSEQUENCES.CHANGE.ONLINE.PRESENCE,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | Removed or changed content on my public online presence"
+ONEHOT.NEGATIVE_CONSEQUENCES.SUGGEST_COC,NEGATIVE.CONSEQUENCES.SUGGEST.COC,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | Suggested the creation or modification of a Code of Conduct"
+ONEHOT.NEGATIVE_CONSEQUENCES.PUBLIC_COMMUNITY_DISCUSSION,NEGATIVE.CONSEQUENCES.PUBLIC.COMMUNITY.DISCUSSION,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | Engaged in public discussion with community members about the issue"
+ONEHOT.NEGATIVE_CONSEQUENCES.PRIVATE_COMMUNITY_DISCUSSION,NEGATIVE.CONSEQUENCES.PRIVATE.COMMUNITY.DISCUSSION,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | Engaged in private discussion with community members about the issue"
+ONEHOT.NEGATIVE_CONSEQUENCES.OFFLINE_CHANGES,NEGATIVE.CONSEQUENCES.OFFLINE.CHANGES,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | Made changes in my life offline (e.g. stopped attending meetups or conferences, etc.)"
+ONEHOT.NEGATIVE_CONSEQUENCES.OTHER,NEGATIVE.CONSEQUENCES.OTHER,"As a result of experiencing or witnessing harassment, which, if any, of the following have you done? | Other (please describe)"
+MULT.OSS_AS_JOB,OSS.AS.JOB,"Do you contribute to open source as part of your professional work? In other words, are you paid for any of your time spent on open source contributions? | Response"
+LIKERT.OSS_AT_WORK,OSS.AT.WORK,How often do you use open source software in your professional work? | Response
+MULT.OSS_IP_POLICY,OSS.IP.POLICY,How does your employer's intellectual property agreement/policy affect your free-time contributions to open source unrelated to your work? | Response
+MULT.EMPLOYER_POLICY_APPLICATIONS,EMPLOYER.POLICY.APPLICATIONS,Which is closest to your employer’s policy on using open source software applications? | Response
+MULT.EMPLOYER_POLICY_DEPENDENCIES,EMPLOYER.POLICY.DEPENDENCIES,Which is closest to your employer’s policy on incorporating open source dependencies into your codebase? | Response
+LIKERT.OSS_HIRING,OSS.HIRING,How important do you think your involvement in open source was to getting your current job? | Response
+LIKERT.OSS_FINANCIAL_SUPPORT_SELF,OSS.FINANCIAL.SUPPORT.SELF,How often do you engage in or observe each of the following activities? | I financially support others' open source projects
+LIKERT.OSS_FINANCIAL_SUPPORT_EMPLOYER,OSS.FINANCIAL.SUPPORT.EMPLOYER,How often do you engage in or observe each of the following activities? | My employer financially supports open source projects
+LIKERT.OSS_FINANCIAL_SUPPORT_EMPLOYER_INKIND,OSS.FINANCIAL.SUPPORT.EMPLOYER.INKIND,How often do you engage in or observe each of the following activities? | My employer provides in kind (e.g. upstream contributions) support to open source projects
+LIKERT.OSS_FINANCIAL_SUPPORT_GOV,OSS.FINANCIAL.SUPPORT.GOV,How often do you engage in or observe each of the following activities? | My government (any level) financially supports open source projects
+LIKERT.OSS_FINANCIAL_SUPPORT_GOV_INKIND,OSS.FINANCIAL.SUPPORT.GOV.INKIND,How often do you engage in or observe each of the following activities? | My government (any level) provides in kind (e.g. upstream contributions) support to open source projects
+LIKERT.OSS_FINANCIAL_SUPPORT_INVESTOR,OSS.FINANCIAL.SUPPORT.INVESTOR,"How often do you engage in or observe each of the following activities? | Investors in my country fund startups that contribute to open source (e.g. by developing an open source product, supporting open source projects)"
+MULT.AI_EMPLOYER_POLICY,AI.EMPLOYER.POLICY,Which is closest to your employer’s policy on incorporating open source AI models into your codebase? | Response
+LIKERT.AI_ASSISTANCE_CODE,AI.ASSISTANCE.CODE,How often do you engage in each of the following activities? | Write code or documentation with assistance from AI
+LIKERT.AI_ASSISTANCE_PLANNING,AI.ASSISTANCE.PLANNING,"How often do you engage in each of the following activities? | Use AI assistance in any other task supporting software development (e.g. security, planning, code review, issue management, support)"
+LIKERT.AI_CONTRIBUTION_OPEN_MODELS,AI.CONTRIBUTION.OPEN.MODELS,How often do you engage in each of the following activities? | Contribute to projects that use publicly available AI models to provide AI-powered features
+LIKERT.AI_CONTRIBUTION_CLOSED_MODELS,AI.CONTRIBUTION.CLOSED.MODELS,How often do you engage in each of the following activities? | Contribute to projects that use not publicly available AI models (e.g. accessible only through an API) to provide AI-powered features
+LIKERT.AI.CONTRIBUTION.INFRASTRUCTURE,AI.CONTRIBUTION.INFRASTRUCTURE,"How often do you engage in each of the following activities? | Contribute to projects that develop AI infrastructure (e.g. models, datasets, orchestration, evaluation)"
+LIKERT.AI_ETHICS_RESPONSIBILITY,AI.ETHICS.RESPONSIBILITY,"How often do you engage in each of the following activities? | When doing any of the above, have awareness of and follow applicable ethics/governance/responsibility/safety/security practices"
+MULT.IMMIGRATION,IMMIGRATION,Do you currently live in a country other than the one in which you were born? | Response
+BIN.MINORITY_HOMECOUNTRY,MINORITY.HOMECOUNTRY,"Thinking of where you were born, are you a member of an ethnicity or nationality that is a considered a minority in that country? | Response"
+BIN.MINORITY_CURRENT_COUNTRY,MINORITY.CURRENT.COUNTRY,"Thinking of where you currently live, are you a member of an ethnicity or nationality that is a considered a minority in that country? | Response"
+MULT.GENDER,GENDER,What is your gender? | Response
+BIN.TRANSGENDER_IDENTITY,TRANSGENDER.IDENTITY,Do you identify as transgender? | Response
+BIN.SEXUAL_ORIENTATION,SEXUAL.ORIENTATION,"Do you identify as gay, lesbian, or bisexual, asexual, or any other minority sexual orientation? | Response"
+LIKERT.WRITTEN_ENGLISH,WRITTEN.ENGLISH,How well can you read and write in English? | Response
+LIKERT.AGE,AGE,What is your age? | Response
+LIKERT.FORMAL_EDUCATION,FORMAL.EDUCATION,What is highest level of formal education that you have completed? | Response
+LIKERT.PARENTS_FORMAL_EDUCATION,PARENTS.FORMAL.EDUCATION,What is the highest level of formal education that either of your parents completed? | Response
+LIKERT.AGE_AT_FIRST_COMPUTER_INTERNET,AGE.AT.FIRST.COMPUTER.INTERNET,How old were you when you first had regular access to a computer with an internet connection? | Response
+MULT.LOCATION_OF_FIRST_COMPUTER_INTERNET,LOCATION.OF.FIRST.COMPUTER.INTERNET,Where did you first have regular access to a computer with internet connection? | Response
