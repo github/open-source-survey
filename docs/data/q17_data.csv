@@ -1,0 +1,5 @@
+column,response,year,count,total_count,proportion
+BIN.TRANSPARENCY_PRIVACY_BELIEFS,"People should be able to contribute code without attribution, if they wish to remain anonymous.",2017,2164,3596,0.6017797552836485
+BIN.TRANSPARENCY_PRIVACY_BELIEFS,Records of authorship should be required so that end users know who created the source code they are working with.,2017,1432,3596,0.3982202447163515
+BIN.TRANSPARENCY_PRIVACY_BELIEFS,"People should be able to contribute code without attribution, if they wish to remain anonymous.",2024,3243,6328,0.5124841972187105
+BIN.TRANSPARENCY_PRIVACY_BELIEFS,Records of authorship should be required so that end users know who created the source code they are working with.,2024,3085,6328,0.48751580278128953

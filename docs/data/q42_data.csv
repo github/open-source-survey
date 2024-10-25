@@ -1,0 +1,9 @@
+column,response,year,count,total_count,proportion
+MULT.IMMIGRATION,"No, I live in the country where I was born",2017,2421,3289,0.7360899969595622
+MULT.IMMIGRATION,"Yes, and I intend to stay permanently",2017,451,3289,0.13712374581939799
+MULT.IMMIGRATION,"Yes, and I am not sure about my future plans",2017,270,3289,0.082091821222256
+MULT.IMMIGRATION,"Yes, and I intend to stay temporarily",2017,147,3289,0.044694435998783824
+MULT.IMMIGRATION,"No, I live in the country where I was born",2024,3554,5127,0.6931929003315779
+MULT.IMMIGRATION,"Yes, and I intend to stay permanently",2024,807,5127,0.15740198946752487
+MULT.IMMIGRATION,"Yes, and I am not sure about my future plans",2024,478,5127,0.0932319094987322
+MULT.IMMIGRATION,"Yes, and I intend to stay temporarily",2024,288,5127,0.056173200702165006

@@ -117,6 +117,7 @@ _(5)_ Active development                                               |    |   
 _(6)_ Responsive maintainers                          |      |      |      | |     
 _(7)_ A welcoming community                          |      |      |      | |
 _(8)_ Widespread use                        |      |      |      | |
+_(9)_ Security by design                        |      |      |      | |
 
 
 Q8
@@ -138,7 +139,7 @@ _(5)_ Active development                                               |    |   
 _(6)_ Responsive maintainers                          |      |      |      | |     
 _(7)_ A welcoming community                          |      |      |      | |
 _(8)_ Widespread use                        |      |      |      | |
-
+_(9)_ Security by design                        |      |      |      | |
 
 
 
@@ -168,7 +169,7 @@ Do you believe that open source software is generally easier _to use_ than close
 
 
 
-Q111
+Q11
 **OSS-SECURITY**
 (single choice)
 
@@ -665,6 +666,20 @@ Which is closest to your employer’s policy on incorporating open source depend
 - _(5)_ I'm not sure.
 - _(6)_ Not Applicable
 
+Q40a
+**EMPLOYER-ATTITUDES-MODELS**
+(single choice)
+
+_if EMPLOYMENT-STATUS < 3 and PROFESSIONAL-SOFTWARE < 4, then:_
+
+Which is closest to your employer’s policy on incorporating open source AI models into your codebase?
+
+- _(1)_ Use of open source AI models is encouraged.
+- _(2)_ Use of open source AI models is acceptable if it is the most appropriate tool.
+- _(3)_ Use of open source AI models is rarely, if ever, permitted.
+- _(4)_ My employer doesn't have a clear policy on this.
+- _(5)_ I'm not sure.
+- _(6)_ Not Applicable
 
 Q41
 **OSS-HIRING**
@@ -847,6 +862,38 @@ Q53
  - _(3)_ At a public library or community center
  - _(4)_ At an internet cafe or similar space
  - _(5)_ Other (please describe)
+
+
+Q54
+**PARTICIPATION-AI**
+(grid)
+
+How often do you engage in each of the following activities?
+
+|                                                                             | Never | Rarely   | Occasionally  |  Frequently
+-------------------------------------------------------------------------------------------|------|------|------|--------------  
+_(1)_ Write code or documentation with assistance from AI                                                                         |     |      |      |
+_(2)_ Use AI assistance in any other task supporting software development (e.g. security, planning, code review, issue management, support)                                                                         |     |      |      |
+_(3)_ Contribute to projects that use publicly available AI models to provide AI-powered features                                                                       |     |      |      |
+_(4)_ Contribute to projects that use not publicly available AI models (e.g. accessible only through an API) to provide AI-powered features                                                                       |     |      |      |
+_(5)_ Contribute to projects that develop AI infrastructure (e.g. models, datasets, orchestration, evaluation)                                                                       |     |      |      |
+_(6)_ When doing any of the above, have awareness of and follow applicable ethics/governance/responsibility/safety/security practices                                                                       |     |      |      |
+
+Q55
+**PARTICIPATION-FUNDING**
+(grid)
+
+How often do you engage in or observe each of the following activities?
+
+|                                                                             | Never | Rarely   | Occasionally  |  Frequently
+-------------------------------------------------------------------------------------------|------|------|------|--------------  
+_(1)_ I financially support others' open source projects                                                                         |     |      |      |
+_(2)_ My employer financially supports open source projects
+_(3)_ My employer provides in kind (e.g. upstream contributions) support to open source projects                                                                         |     |      |      |
+_(4)_ My government (any level) financially supports open source projects                                                                          |     |      |      |
+_(5)_ My government (any level) provides in kind (e.g. upstream contributions) support to open source projects                                                                  |     |      |      |
+_(6)_ Investors in my country fund startups that contribute to open source (e.g. by developing an open source product, supporting open source projects)                                                                          |     |      |      |
+
 
 
 

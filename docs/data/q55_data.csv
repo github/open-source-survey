@@ -1,0 +1,25 @@
+column,response,year,count,total_count,proportion
+I financially support others' open source projects,Never,2024,2710,5014,0.5404866374152373
+I financially support others' open source projects,Rarely,2024,1417,5014,0.2826086956521739
+I financially support others' open source projects,Occasionally,2024,689,5014,0.1374152373354607
+I financially support others' open source projects,Frequently,2024,198,5014,0.03948942959712804
+Investors in my country fund startups that contribute to open source,Never,2024,1606,4669,0.34397087170700363
+Investors in my country fund startups that contribute to open source,Rarely,2024,1275,4669,0.2730777468408653
+Investors in my country fund startups that contribute to open source,Occasionally,2024,1194,4669,0.2557292782180338
+Investors in my country fund startups that contribute to open source,Frequently,2024,594,4669,0.12722210323409724
+My employer financially supports open source projects,Never,2024,3001,4819,0.622743307740195
+My employer financially supports open source projects,Rarely,2024,843,4819,0.17493255862212076
+My employer financially supports open source projects,Occasionally,2024,581,4819,0.12056443245486616
+My employer financially supports open source projects,Frequently,2024,394,4819,0.08175970118281801
+My employer provides in kind (e.g. upstream contributions) support to open source projects,Never,2024,2540,4795,0.529718456725756
+My employer provides in kind (e.g. upstream contributions) support to open source projects,Rarely,2024,965,4795,0.20125130344108447
+My employer provides in kind (e.g. upstream contributions) support to open source projects,Occasionally,2024,776,4795,0.16183524504692387
+My employer provides in kind (e.g. upstream contributions) support to open source projects,Frequently,2024,514,4795,0.10719499478623566
+My government (any level) financially supports open source projects,Never,2024,2224,4685,0.47470651013874066
+My government (any level) financially supports open source projects,Rarely,2024,1181,4685,0.2520811099252935
+My government (any level) financially supports open source projects,Occasionally,2024,921,4685,0.19658484525080042
+My government (any level) financially supports open source projects,Frequently,2024,359,4685,0.07662753468516542
+My government (any level) provides in kind (e.g. upstream contributions) support to open source projects,Never,2024,2332,4661,0.5003218193520703
+My government (any level) provides in kind (e.g. upstream contributions) support to open source projects,Rarely,2024,1198,4661,0.25702638918686976
+My government (any level) provides in kind (e.g. upstream contributions) support to open source projects,Occasionally,2024,823,4661,0.17657155116927697
+My government (any level) provides in kind (e.g. upstream contributions) support to open source projects,Frequently,2024,308,4661,0.06608024029178287
