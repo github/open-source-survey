@@ -1,6 +1,6 @@
 ## Term Glossary
 
-Here are some of the terms from [the survey](https://github.com/github/open-source-survey/blob/master/survey-instrument.md) that might trip up translators.
+Here are some of the terms from [the survey](https://github.com/github/open-source-survey/blob/main/survey-instrument.md) that might trip up translators.
 
 
 | English | Spanish | Russian | Chinese (trad.) | Japanese |

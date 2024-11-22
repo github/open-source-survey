@@ -1,6 +1,6 @@
 # The Open Source Survey
 
-[design]: https://github.com/github/open-source-survey/blob/master/design-principles.md
+[design]: https://github.com/github/open-source-survey/blob/main/design-principles.md
 
 We've run one of the largest surveys of the open source community with open datasets for us all to use and learn from. Our latest survey conducted in 2024 updates [the dataset](./data/2024) and offers fresh insights into the open source ecosystem. We hope these datasets inform some of the most pressing questions about open source software, the people that create it, their experience, and their relationship to the industry that depends on it.
 
