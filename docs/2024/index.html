@@ -9,7 +9,7 @@
     <link rel="icon" type="image/png" href="/favicon.png">
     <meta name="generator" content="Astro v4.16.6">
     <title>Open Source Survey 2024</title>
-    <link rel="stylesheet" href="/_astro/index.D6S1A38A.css">
+    <link rel="stylesheet" href="/_astro/index.XQ8rVltN.css">
     <script type="module" src="/_astro/hoisted.B75vP-VF.js"></script>
     <script src="https://cdn.usefathom.com/script.js" data-site="SXTIPBVQ" defer></script>
 </head>
@@ -23,148 +23,170 @@
         }
     </style>
     <script>(() => { var e = async t => { await (await t())() }; (self.Astro || (self.Astro = {})).only = e; window.dispatchEvent(new Event("astro:only")); })();; (() => { var A = Object.defineProperty; var g = (i, o, a) => o in i ? A(i, o, { enumerable: !0, configurable: !0, writable: !0, value: a }) : i[o] = a; var d = (i, o, a) => g(i, typeof o != "symbol" ? o + "" : o, a); { let i = { 0: t => m(t), 1: t => a(t), 2: t => new RegExp(t), 3: t => new Date(t), 4: t => new Map(a(t)), 5: t => new Set(a(t)), 6: t => BigInt(t), 7: t => new URL(t), 8: t => new Uint8Array(t), 9: t => new Uint16Array(t), 10: t => new Uint32Array(t), 11: t => 1 / 0 * t }, o = t => { let [l, e] = t; return l in i ? i[l](e) : void 0 }, a = t => t.map(o), m = t => typeof t != "object" || t === null ? t : Object.fromEntries(Object.entries(t).map(([l, e]) => [l, o(e)])); class y extends HTMLElement { constructor() { super(...arguments); d(this, "Component"); d(this, "hydrator"); d(this, "hydrate", async () => { var b; if (!this.hydrator || !this.isConnected) return; let e = (b = this.parentElement) == null ? void 0 : b.closest("astro-island[ssr]"); if (e) { e.addEventListener("astro:hydrate", this.hydrate, { once: !0 }); return } let c = this.querySelectorAll("astro-slot"), n = {}, h = this.querySelectorAll("template[data-astro-template]"); for (let r of h) { let s = r.closest(this.tagName); s != null && s.isSameNode(this) && (n[r.getAttribute("data-astro-template") || "default"] = r.innerHTML, r.remove()) } for (let r of c) { let s = r.closest(this.tagName); s != null && s.isSameNode(this) && (n[r.getAttribute("name") || "default"] = r.innerHTML) } let p; try { p = this.hasAttribute("props") ? m(JSON.parse(this.getAttribute("props"))) : {} } catch (r) { let s = this.getAttribute("component-url") || "<unknown>", v = this.getAttribute("component-export"); throw v && (s += ` (export ${v})`), console.error(`[hydrate] Error parsing props for component ${s}`, this.getAttribute("props"), r), r } let u; await this.hydrator(this)(this.Component, p, n, { client: this.getAttribute("client") }), this.removeAttribute("ssr"), this.dispatchEvent(new CustomEvent("astro:hydrate")) }); d(this, "unmount", () => { this.isConnected || this.dispatchEvent(new CustomEvent("astro:unmount")) }) } disconnectedCallback() { document.removeEventListener("astro:after-swap", this.unmount), document.addEventListener("astro:after-swap", this.unmount, { once: !0 }) } connectedCallback() { if (!this.hasAttribute("await-children") || document.readyState === "interactive" || document.readyState === "complete") this.childrenConnectedCallback(); else { let e = () => { document.removeEventListener("DOMContentLoaded", e), c.disconnect(), this.childrenConnectedCallback() }, c = new MutationObserver(() => { var n; ((n = this.lastChild) == null ? void 0 : n.nodeType) === Node.COMMENT_NODE && this.lastChild.nodeValue === "astro:end" && (this.lastChild.remove(), e()) }); c.observe(this, { childList: !0 }), document.addEventListener("DOMContentLoaded", e) } } async childrenConnectedCallback() { let e = this.getAttribute("before-hydration-url"); e && await import(e), this.start() } async start() { let e = JSON.parse(this.getAttribute("opts")), c = this.getAttribute("client"); if (Astro[c] === void 0) { window.addEventListener(`astro:${c}`, () => this.start(), { once: !0 }); return } try { await Astro[c](async () => { let n = this.getAttribute("renderer-url"), [h, { default: p }] = await Promise.all([import(this.getAttribute("component-url")), n ? import(n) : () => () => { }]), u = this.getAttribute("component-export") || "default"; if (!u.includes(".")) this.Component = h[u]; else { this.Component = h; for (let f of u.split(".")) this.Component = this.Component[f] } return this.hydrator = p, this.hydrate }, e, this) } catch (n) { console.error(`[astro-island] Error hydrating ${this.getAttribute("component-url")}`, n) } } attributeChangedCallback() { this.hydrate() } } d(y, "observedAttributes", ["props"]), customElements.get("astro-island") || customElements.define("astro-island", y) } })();</script>
-    <astro-island uid="Z1xJmbm" component-url="/_astro/Navbar.S-o-VC40.js" component-export="default"
+    <astro-island uid="Z1xJmbm" component-url="/_astro/Navbar.CxVzUWuw.js" component-export="default"
         renderer-url="/_astro/client.BIGLHmRd.js" props="{}" ssr="" client="only"
         opts="{&quot;name&quot;:&quot;Navbar&quot;,&quot;value&quot;:&quot;react&quot;}"></astro-island>
     <main>
         <div class="wrapper">
-            <div class="prose"> <astro-island uid="Z1xnDzY" component-url="/_astro/HomeHero.D98nncvu.js"
+            <div class="prose"> <astro-island uid="Z1xnDzY" component-url="/_astro/HomeHero.fduKG9kO.js"
                     component-export="default" renderer-url="/_astro/client.BIGLHmRd.js" props="{}" ssr="" client="only"
                     opts="{&quot;name&quot;:&quot;HomeHero&quot;,&quot;value&quot;:&quot;react&quot;}"></astro-island>
-                <p>Here are a few initial insights&#8212;we look forward to seeing what others find in the data:</p>
-                <p>GitHub's open source community is growing fast. The 2024 survey responses closely resemble those from
-                    2017, showing that while challenges and concerns persist, the significant increase in community size
-                    (up more than 75 million users in the last 7 years) has not led to a decrease in community
-                    experience. This suggests that while challenges and concerns remain, onboarding millions of new
-                    users and contributors has made the community larger, not weaker.</p>
-                <p>One of the largest changes from 2017 to 2024 is an increased tendency to respond to rather than
-                    ignore harassment: ignore went from 49% to 38%, while each specific response, from blocking to
-                    various forms of reporting, increased. This could indicate a long term change in behavioral norms in
-                    open source projects.</p>
+                <p>By designing questions with a focus on long-term trends, we were able to ask the same questions
+                    again, and see how things have changed over time. We also addressed emerging themes in software,
+                    adding in questions on AI, funding, innersource, security, and innovation to help capture the latest
+                    dynamics in open source.</p>
+                <p><strong>Here are three major trends from this year’s survey:</strong></p>
+                <ul>
+                    <li><strong>Security in open source is a priority:</strong> <a
+                            href="https://www.cisa.gov/resources-tools/resources/secure-by-design">Secure by design</a>
+                        is gaining traction, with 82% of respondents considering it important when deciding to use an
+                        open source project and 62% when choosing whether to contribute.</li>
+                    <li><strong>AI adoption is growing:</strong> The use of AI tools like GitHub Copilot is on the rise
+                        with 72% of open source respondents reporting they use these tools for coding or documentation.
+                    </li>
+                    <li><strong>Open source is getting more diverse:</strong> More respondents identified as ethnic
+                        minorities in their country of birth (18% in 2024, up from 13% in 2017) and immigrants (31% in
+                        2024, up from 27% in 2017)—and we anticipate an increasingly diverse open source community as
+                        the global developer community grows.</li>
+                </ul>
+                <p>These are just a few of our initial insights—we look forward to seeing what others find in the <a
+                        href="https://github.com/github/open-source-survey">data</a>.</p>
+                <h2>Security and AI: A new benchmark</h2>
+                <p>In 2024, we introduced questions centered on <a
+                        href="https://www.cisa.gov/resources-tools/resources/secure-by-design">"secure by design"</a> to
+                    gain insights into how open source projects are assessed for security practices. 82% of participants
+                    consider it essential when deciding to use a project and 62% see it as important when choosing
+                    whether to contribute. Improving project security has become a significant motivator for
+                    contributions.</p>
             </div>
         </div>
         <div class="img-wrapper">
-            <h2>Thinking of the last time you experienced harassment, how did you respond? Choose all that apply.</h2>
-            <div class="highcharts-light" id="q33-container" style="min-height:400px;max-width:900px"></div>
-        </div>
-        <div class="wrapper">
-            <div class="prose">
-                <p>Open source is slowly becoming more diverse. For instance, in 2017, 26% of respondents identified as
-                    immigrants, rising to 30% in 2024. Additionally, while 79% of respondents in 2017 were not
-                    minorities in their country of birth, that figure decreased to 70% in 2024.</p>
-            </div>
-        </div>
-        <div class="img-wrapper">
-            <h2>Do you currently live in a country other than the one in which you were born?</h2>
-            <div class="highcharts-light" id="q42-container" style="min-height:400px;max-width:900px"></div>
-        </div>
-        <div class="img-wrapper" style="margin-top:4em">
-            <h2>Thinking of where you were born, are you a member of an ethnicity or nationality that is considered a
-                minority in that country?</h2>
-            <div class="highcharts-light" id="q43-container" style="min-height:400px;max-width:900px"></div>
-        </div>
-        <div class="wrapper">
-            <div class="prose">
-                <p>Community attitudes around privacy are changing in complex ways. Perhaps the largest, and most
-                    interesting change in responses: in 2017, 43% of respondents preferred not to say their age, while
-                    in 2024, only 4% did. Meanwhile, fewer respondents support anonymous code contributions (2017: 60%,
-                    2024: 51%) while more people contribute using a pseudonym not linked to their real name (2017: 12%,
-                    2024: 20%). Given this complexity, we think it’s important to focus on secure design, processes, and
-                    tools to enable collaboration across projects and contributors that have different preferences for
-                    privacy and identification.</p>
-            </div>
-        </div>
-        <div class="img-wrapper">
-            <h2>What is your age?</h2>
-            <div class="highcharts-light" id="q49-container" style="min-height:300px;max-width:900px"></div>
-        </div>
-        <div class="img-wrapper" style="margin-top:4em">
-            <h2>Which of the following statements is closest to your beliefs about attribution in software development?
-            </h2>
-            <div class="highcharts-light" id="q17-container" style="min-height:400px;max-width:900px"></div>
-        </div>
-        <div class="img-wrapper" style="margin-top:4em">
-            <h2>Which of the following best describes your practices when making open source contributions?</h2>
-            <div class="highcharts-light" id="q21-container" style="min-height:400px;max-width:900px"></div>
-        </div>
-        <div class="wrapper" style="margin-top:4em;padding:0 1em">
-            <div class="prose">
-                <p>Speaking of secure by design, in 2024 we added “security by design” as a new option among things
-                    people think about when deciding to use or contribute to open source projects. We wanted to
-                    benchmark this <a href="https://www.cisa.gov/securebydesign">term</a>, which has been increasingly
-                    used to promote a range of secure development best practices ultimately intended to make users and
-                    society more secure and resilient. 82% of respondents identified security by design as an important
-                    consideration for using an open source project, and 62% consider it as a factor for whether to
-                    contribute to a project. Of course, improving the security of a project is a great reason to
-                    contribute!</p>
-            </div>
-        </div>
-        <div class="img-wrapper" style="margin-top:4em">
-            <h2>When thinking about whether to use open source software, how important are the following things?</h2>
+            <h3>When thinking about whether to use open source software, how important are the following things?</h3>
             <div class="highcharts-light" id="q7-container" style="min-height:400px;max-width:900px"></div>
         </div>
-        <div class="img-wrapper" style="margin-top:4em">
-            <h2>When thinking about whether to contribute to an open source project, how important are the following
-                things?</h2>
+        <div class="img-wrapper" style="margin-top:1.5em">
+            <h3>When thinking about whether to contribute to an open source project, how important are the following
+                things?</h3>
             <div class="highcharts-light" id="q8-container" style="min-height:400px;max-width:900px"></div>
         </div>
         <div class="wrapper">
             <div class="prose">
-                <p>We also added a few benchmark questions about open source AI. Unsurprisingly, employers are more
-                    uncertain about incorporating open source AI models into their codebases (50% do not have a clear or
-                    known policy, or do not permit their usage) than about incorporating traditional open source
-                    dependencies into their codebases (17% reported unclear or not allowed). We also asked about use of
-                    and contribution to AI tools, and awareness of responsible AI practices when using and contributing.
-                    Use is unsurprisingly higher (e.g., only 27% of respondents had never used a tool like Copilot for
-                    writing code or documentation) than contribution (e.g., 74% of respondents had never contributed to
-                    an AI infrastructure project), but contribution is also associated with higher awareness of and
-                    following responsible AI practices (only 14% never) than using (29% never).</p>
+                We also included benchmark questions on open source AI. We found that while 35% of employers disallow
+                the use of open source AI models, only 17% express similar uncertainty or restrictions around
+                traditional open source dependencies. Interestingly, we're seeing a greater portion of developers unsure
+                about their ability to use AI models compared to traditional open source dependencies. However, those
+                who contribute to AI projects report a higher awareness of responsible AI practices and best practices
+                overall. Notably, using AI tools is more common (73% report usage) than contributing to AI projects (74%
+                have never contributed).
             </div>
         </div>
         <div class="img-wrapper">
-            <h2>Which is closest to your employer's policy on incorporating open source AI models into your codebase?
-            </h2>
+            <h3>Which is closest to your employer's policy on incorporating open source AI models into your codebase?
+            </h3>
             <div class="highcharts-light" id="q40a-container" style="min-height:320px;max-width:900px"></div>
-            <h2 style="margin-top:4em">Which is closest to your employer's policy on incorporating open source
-                dependencies into your codebase?</h2>
+            <h3 style="margin-top:1.5em">Which is closest to your employer's policy on incorporating open source
+                dependencies into your codebase?</h3>
             <div class="highcharts-light" id="q40-container" style="min-height:350px;max-width:900px"></div>
-            <h2 style="margin-top:4em">How often do you engage in or observe each of the following activities?</h2>
+            <h3 style="margin-top:1.5em">How often do you engage in or observe each of the following activities?</h3>
             <div class="highcharts-light" id="q54-container" style="min-height:500px;max-width:900px"></div>
-            <h2 style="margin-top:4em">Have awareness of and follow applicable
+            <h3 style="margin-top:1.5em">Have awareness of and follow applicable
                 ethics<wbr>/governance<wbr>/responsibility<wbr>/safety<wbr>/security practices, filtered for respondents who contribute to projects that use AI models or AI infrastructure
-            </h2>
+            </h3>
             <div class="highcharts-light" id="q54_contributor_ethics-container"
                 style="min-height:230px;max-width:900px"></div>
         </div>
         <div class="wrapper">
             <div class="prose">
-                <p>Finally, we introduced a question to measure financial and in-kind support for open source from
-                    employers, governments, and investors. Although the percentage of respondents reporting “frequent”
-                    support is still low, we see a positive sign: only around 50% of respondents selected “never.” This
-                    signals a wide green space for growth and opportunity.</p>
+                <h2>Shifting behaviors and norms</h2>
+                <p>Diversity within the open source community has steadily increased over the years. In 2024, 30% of
+                    respondents identified as immigrants, up from 26% in 2017. Additionally, the percentage of
+                    respondents who do not identify as minorities in their home countries has declined from 79% to 70%,
+                    reflecting a broader range of perspectives and backgrounds in the community.</p>
             </div>
         </div>
         <div class="img-wrapper">
-            <h2>How often do you engage in or observe each of the following activities?</h2>
+            <h3>Do you currently live in a country other than the one in which you were born?</h3>
+            <div class="highcharts-light" id="q42-container" style="min-height:400px;max-width:900px"></div>
+        </div>
+        <div class="img-wrapper" style="margin-top:1.5em">
+            <h3>Thinking of where you were born, are you a member of an ethnicity or nationality that is considered a
+                minority in that country?</h3>
+            <div class="highcharts-light" id="q43-container" style="min-height:400px;max-width:900px"></div>
+        </div>
+        <div class="wrapper">
+            <div class="prose">
+                <p>The survey revealed a significant shift in the community's approach to harassment since 2017. While
+                    49% of respondents in 2017 reported ignoring harassment, that figure dropped to 38% in 2024. This
+                    change highlights an increase in proactive actions within the open source community, with more
+                    individuals taking steps such as blocking and reporting incidents to address harassment directly.
+                </p>
+            </div>
+        </div>
+        <div class="img-wrapper">
+            <h3>Thinking of the last time you experienced harassment, how did you respond? Choose all that apply.</h3>
+            <div class="highcharts-light" id="q33-container" style="min-height:400px;max-width:900px"></div>
+        </div>
+        <div class="wrapper">
+            <div class="prose">
+                <h2>Privacy perspectives are evolving</h2>
+                <p>Community attitudes toward privacy have also shifted. For instance, in 2017, 43% of respondents
+                    preferred not to disclose their age, a figure that dropped to only 4% in 2024. At the same time,
+                    fewer respondents support anonymous code contributions (down from 60% in 2017 to 51% in 2024), while
+                    more people are contributing under pseudonyms (12% in 2017 vs. 20% in 2024). These changes highlight
+                    the importance of secure, privacy-respecting tools and processes to foster inclusive collaboration.
+                </p>
+            </div>
+        </div>
+        <div class="img-wrapper">
+            <h3>What is your age?</h3>
+            <div class="highcharts-light" id="q49-container" style="min-height:300px;max-width:900px"></div>
+        </div>
+        <div class="img-wrapper" style="margin-top:1.5em">
+            <h3>Which of the following statements is closest to your beliefs about attribution in software development?
+            </h3>
+            <div class="highcharts-light" id="q17-container" style="min-height:400px;max-width:900px"></div>
+        </div>
+        <div class="img-wrapper" style="margin-top:1.5em">
+            <h3>Which of the following best describes your practices when making open source contributions?</h3>
+            <div class="highcharts-light" id="q21-container" style="min-height:400px;max-width:900px"></div>
+        </div>
+        <div class="wrapper" style="margin-top:1.5em;padding:0 1em">
+            <div class="prose">
+                <h2>Financial support for open source</h2>
+                <p>This year, we explored the levels of financial and in-kind support for open source from employers,
+                    governments, and investors. Although only a small percentage of respondents engage in or observe
+                    "frequent" support, in most categories, just 50% selected "never"—indicating that there is room for
+                    growth and potential investment in open source sustainability.</p>
+            </div>
+        </div>
+        <div class="img-wrapper" style="margin-top:1.5em">
+            <h3>How often do you engage in or observe each of the following activities?</h3>
             <div class="highcharts-light" id="q55-container" style="min-height:400px;max-width:900px"></div>
         </div>
         <div class="wrapper">
             <div class="prose">
-                <p>While many experiences around open source contribution and usage remain stable since we last
-                    performed this survey in 2017, we note the following interesting changes:</p>
-                <ul>
-                    <li>The privacy and anonymity concerns of contributors are being challenged by the needs of supply
-                        chain security</li>
-                    <li>The impact of AI's recent arrival requires companies to update and share their policies with
-                        their developers</li>
-                    <li>Despite our vast increase in size, problems are not getting worse</li>
-                </ul>
-                <p>To drive the future of open source forward, more organizations, governments, and funders need to
-                    actively contribute to the sustainability of the ecosystem—whether through funding, resources, or
-                    direct participation with open source projects and communities.</p>
+                <h2>GitHub's $1.25M OSS investment</h2>
+                <p>GitHub recently launched the <a
+                        href="https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/">GitHub
+                        Secure Open Source Fund</a> to help connect funders and maintainers address security and
+                    sustainability.</p>
+                <p>We recognize our responsibility to help sustain and empower the open source ecosystem that is
+                    essential not just to the functioning of GitHub, but the <a
+                        href="https://github.blog/open-source/social-impact/software-as-a-public-good/">critical digital
+                        infrastructure underpinning all sectors of the economy, governments, and civil society</a>. We
+                    also support open source maintainers and contributors with practical resources, security tools and
+                    best practices that make it easier to build and maintain resilient projects.</p>
+                <h2>Moving forward together</h2>
+                <p>Over 75 million new users have joined GitHub in the past seven years and the community has been
+                    strengthened rather than weakened. The influx of participants is reinforcing the community’s
+                    resilience and vibrancy.</p>
+                <p>To drive open source forward, we call on organizations, governments, and funders to invest in the
+                    ecosystem, whether through financial contributions, resources, or direct collaboration with open
+                    source communities. Together, we can shape a stronger, more diverse, and secure open source future.
+                </p>
             </div>
         </div>
-    </main> <astro-island uid="Z1IgBTQ" component-url="/_astro/Footer.DmTn-8fX.js" component-export="default"
+    </main> <astro-island uid="Z1IgBTQ" component-url="/_astro/Footer.DVGuNmqE.js" component-export="default"
         renderer-url="/_astro/client.BIGLHmRd.js" props="{}" ssr="" client="only"
         opts="{&quot;name&quot;:&quot;Footer&quot;,&quot;value&quot;:&quot;react&quot;}"></astro-island>
 </body>
